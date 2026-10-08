@@ -69,16 +69,16 @@ def main() -> int:
     batch_size = int(os.environ.get("BATCH_SIZE") or 10)
     max_wait = int(os.environ.get("MAX_WAIT_DAYS") or 7)
     if should_send(pending, batch_size, max_wait, today):
-        recipients = [r.strip() for r in os.environ.get("EMAIL_TO", "").split(",") if r.strip()]
+        list_id = os.environ.get("BREVO_LIST_ID", "")
         sender = os.environ.get("EMAIL_FROM", "")
         email = build_email(pending)
         if args.dry_run:
             print(email["text"])
         else:
-            if not (recipients and sender and os.environ.get("BREVO_API_KEY")):
-                sys.exit("EMAIL_TO, EMAIL_FROM and BREVO_API_KEY must be set to send email")
-            send(email, sender, recipients, os.environ["BREVO_API_KEY"])
-            print(f"Emailed {len(pending)} events to {len(recipients)} recipient(s)")
+            if not (list_id and sender and os.environ.get("BREVO_API_KEY")):
+                sys.exit("BREVO_LIST_ID, EMAIL_FROM and BREVO_API_KEY must be set to send email")
+            send(email, sender, int(list_id), os.environ["BREVO_API_KEY"])
+            print(f"Emailed {len(pending)} events to Brevo list {list_id}")
         for e in pending:
             e.notified = True
     else:
