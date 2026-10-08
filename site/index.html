@@ -298,7 +298,7 @@ $("subscribe").addEventListener("submit", async (event) => {
     const reply = await res.json();
     if (!reply.success) throw new Error(reply.message);
     form.reset();
-    status("Almost done: check your inbox and click the link to confirm.");
+    status("Almost done: check your inbox and click the link to confirm. If you don't see it, check out your spam/junk.");
   } catch {
     status("Something went wrong. Please try again in a minute.", true);
   } finally {
