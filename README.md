@@ -26,7 +26,7 @@ Checked every day. Emailed to you only when something new shows up.
   prizes and get noticed by sponsors.
 - 💼 **Looking for a tech job** and want to meet engineers, founders and recruiters in person.
 
-No more checking ten websites. Kan't Hack It checks them for you.
+No more checking ten websites. Can't Hack It checks them for you.
 
 ## What you get
 
