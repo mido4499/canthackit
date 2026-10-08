@@ -24,6 +24,26 @@
   main { max-width: 1000px; margin: 0 auto; padding: 32px 16px 64px; }
   h1 { margin: 0; font-size: 28px; letter-spacing: -0.02em; }
   .sub { margin: 4px 0 24px; color: var(--muted); }
+  header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+  .star {
+    display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0; margin-top: 2px;
+    padding: 6px 12px; font-size: 14px; font-weight: 600; color: var(--text);
+    text-decoration: none; background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .star:hover { border-color: var(--muted); }
+  .star svg { width: 16px; height: 16px; fill: #e3b341; }
+  .star .count { padding-left: 8px; border-left: 1px solid var(--border); color: var(--muted); }
+  footer {
+    margin-top: 40px; padding: 24px 16px; text-align: center; color: var(--muted);
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  }
+  footer p { margin: 0 0 12px; }
+  footer a:not(.star) { color: inherit; }
+  @media (max-width: 640px) {
+    header { flex-direction: column; gap: 0; }
+    header .star { margin: -12px 0 20px; }
+  }
   .filters {
     display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px;
     padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
@@ -41,7 +61,7 @@
     padding: 0; cursor: pointer; }
   ul { list-style: none; margin: 0; padding: 0; }
   li {
-    display: grid; grid-template-columns: 130px 1fr auto; gap: 4px 16px; align-items: baseline;
+    display: grid; grid-template-columns: 170px 1fr auto; gap: 4px 16px; align-items: baseline;
     padding: 12px 4px; border-bottom: 1px solid var(--border);
   }
   .when { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
@@ -83,8 +103,16 @@
 </head>
 <body>
 <main>
-  <h1>canthackit</h1>
-  <p class="sub">Upcoming in-person hackathons, tech conferences and meetups in the US.</p>
+  <header>
+    <div>
+      <h1>canthackit</h1>
+      <p class="sub">Upcoming in-person hackathons, tech conferences and meetups in the US.</p>
+    </div>
+    <a class="star" href="https://github.com/mido4499/canthackit" target="_blank" rel="noopener">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></svg>
+      Star on GitHub<span class="count" hidden></span>
+    </a>
+  </header>
 
   <!-- Brevo sends the confirmation email; subscribers join the list only after clicking it. -->
   <form class="subscribe" id="subscribe" novalidate
@@ -132,6 +160,17 @@
     <button type="button" id="reset" hidden>Clear filters</button>
   </div>
   <ul id="list"></ul>
+
+  <footer>
+    <p>Found an event through this page? A star on GitHub helps more students and job seekers
+      find it.</p>
+    <a class="star" href="https://github.com/mido4499/canthackit" target="_blank" rel="noopener">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></svg>
+      Star on GitHub<span class="count" hidden></span>
+    </a>
+    <p style="margin: 12px 0 0; font-size: 13px;">Missing an event or a source?
+      <a href="https://github.com/mido4499/canthackit/blob/main/CONTRIBUTING.md">Contribute</a></p>
+  </footer>
 </main>
 
 <script>
@@ -310,6 +349,20 @@ $("subscribe").addEventListener("submit", async (event) => {
     button.disabled = false;
   }
 });
+
+// Show the live star count on the star buttons once it's big enough to encourage starring
+// rather than discourage it. If GitHub's API is unreachable or rate-limited, the buttons
+// just say "Star on GitHub".
+const MIN_STARS_SHOWN = 10;
+fetch("https://api.github.com/repos/mido4499/canthackit")
+  .then((res) => (res.ok ? res.json() : Promise.reject()))
+  .then(({ stargazers_count: n }) => {
+    if (n < MIN_STARS_SHOWN) return;
+    for (const el of document.querySelectorAll(".star .count")) {
+      Object.assign(el, { textContent: n.toLocaleString(), hidden: false });
+    }
+  })
+  .catch(() => {});
 </script>
 </body>
 </html>

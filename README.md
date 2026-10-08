@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kan't Hack It
+# Can't Hack It
 
 **In-person hackathons, tech conferences and meetups across the US, in one place.**<br>
 Checked every day. Emailed to you only when something new shows up.
@@ -15,6 +15,9 @@ Checked every day. Emailed to you only when something new shows up.
 [![Update events](https://github.com/mido4499/canthackit/actions/workflows/update-events.yml/badge.svg)](https://github.com/mido4499/canthackit/actions/workflows/update-events.yml)
 [![CI](https://github.com/mido4499/canthackit/actions/workflows/ci.yml/badge.svg)](https://github.com/mido4499/canthackit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+⭐ **If Can't Hack It helps you find an event, please [star this repo](https://github.com/mido4499/canthackit).**<br>
+It's free, takes one click, and it's how other students and job seekers discover it.
 
 </div>
 
@@ -121,7 +124,7 @@ Contributions are very welcome, and many don't need much code. Some of the most 
 
    | Variables tab | Example / default |
    |---|---|
-   | `EMAIL_FROM` (required) | `Kan't Hack It <alerts@yourdomain.com>`, your verified sender |
+   | `EMAIL_FROM` (required) | `Can't Hack It <alerts@yourdomain.com>`, your verified sender |
    | `BREVO_LIST_ID` (required) | `2`, your subscriber list |
    | `BATCH_SIZE` | `10` |
    | `MAX_WAIT_DAYS` | `7` |
@@ -133,6 +136,13 @@ Contributions are very welcome, and many don't need much code. Some of the most 
    digest links to it automatically.
 
 </details>
+
+## Show your support
+
+If you found a hackathon, a conference or your next job through Can't Hack It,
+**[give it a ⭐ on GitHub](https://github.com/mido4499/canthackit)** and share
+[the events page](https://mido4499.github.io/canthackit/) with your friends, classmates or
+your school's CS club. Every star helps more people find it.
 
 ## License
 
