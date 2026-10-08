@@ -45,27 +45,32 @@ def test_email_groups_kinds_and_escapes_html():
     assert "&lt;Hack&gt;" in email["html"]
 
 
-def test_send_one_version_per_recipient(monkeypatch):
+def test_email_escapes_template_braces_and_has_unsubscribe():
+    html = build_email([ev("{{ Hack }}")])["html"]
+    assert "{{ Hack }}" not in html and "&#123;&#123; Hack &#125;&#125;" in html
+    assert '<a href="{{ unsubscribe }}">' in html
+
+
+def test_send_creates_and_sends_campaign(monkeypatch):
     calls = []
 
-    def fake_post(url, json, headers, timeout):
-        calls.append((json, headers))
-        return httpx.Response(201, json={"messageId": "<1>"})
+    def fake_post(url, json=None, headers=None, timeout=None):
+        calls.append((url, json, headers))
+        return httpx.Response(201, json={"id": 7}) if json else httpx.Response(204)
 
     monkeypatch.setattr(httpx, "post", fake_post)
     email = {"subject": "s", "text": "t", "html": "h"}
-    send(email, "canthackit <bot@gmail.com>", ["a@x.com", "b@x.com"], "xkeysib-key")
-    ((body, headers),) = calls
+    send(email, "canthackit <bot@gmail.com>", 2, "xkeysib-key")
+    (create_url, body, headers), (send_url, _, _) = calls
+    assert create_url == "https://api.brevo.com/v3/emailCampaigns"
     assert body["sender"] == {"email": "bot@gmail.com", "name": "canthackit"}
-    assert body["messageVersions"] == [
-        {"to": [{"email": "a@x.com"}]},
-        {"to": [{"email": "b@x.com"}]},
-    ]
-    assert (body["subject"], body["textContent"], body["htmlContent"]) == ("s", "t", "h")
+    assert body["recipients"] == {"listIds": [2]}
+    assert (body["subject"], body["htmlContent"]) == ("s", "h")
     assert headers == {"api-key": "xkeysib-key"}
+    assert send_url == "https://api.brevo.com/v3/emailCampaigns/7/sendNow"
 
 
 def test_send_raises_on_brevo_error(monkeypatch):
     monkeypatch.setattr(httpx, "post", lambda *a, **k: httpx.Response(401, text="unauthorized"))
     with pytest.raises(RuntimeError, match="401"):
-        send({"subject": "s", "text": "t", "html": "h"}, "bot@gmail.com", ["a@x.com"], "key")
+        send({"subject": "s", "text": "t", "html": "h"}, "bot@gmail.com", 2, "key")

@@ -3,7 +3,7 @@ from datetime import date
 
 import httpx
 
-from canthackit.sources import dev_conferences, dev_events, eventbrite, hackclub, luma, mlh
+from canthackit.sources import dev_conferences, eventbrite, hackclub, luma, mlh
 from canthackit.sources.devpost import parse_page
 
 
@@ -128,34 +128,6 @@ def test_mlh_keeps_us_in_person():
     assert [e.name for e in events] == ["HackNC"]
     assert (
         events[0].start == date(2026, 10, 9) and events[0].location == "Chapel Hill, North Carolina"
-    )
-
-
-def test_dev_events_keeps_us_in_person():
-    def ld(name, mode, region="United States"):
-        return {
-            "@type": "EducationEvent",
-            "name": name,
-            "url": f"https://dev.events/{name}",
-            "eventAttendanceMode": f"https://schema.org/{mode}",
-            "startDate": "2026-10-12T00:00:00.000+00:00",
-            "endDate": "2026-10-14T00:00:00.000+00:00",
-            "location": {"address": {"addressLocality": "Portland", "addressRegion": region}},
-        }
-
-    raw = [
-        ld("Keep", "OfflineEventAttendanceMode"),
-        ld("Hybrid", "MixedEventAttendanceMode"),
-        ld("Online", "OnlineEventAttendanceMode"),
-        ld("Paris", "OfflineEventAttendanceMode", "France"),
-    ]
-    page = "".join(f'<script type="application/ld+json">{json.dumps(e)}</script>' for e in raw)
-    events = [e for e in map(dev_events.to_event, dev_events.parse_page(page)) if e]
-    assert [e.name for e in events] == ["Keep", "Hybrid"]
-    assert (events[0].start, events[0].end, events[0].city) == (
-        date(2026, 10, 12),
-        date(2026, 10, 14),
-        "Portland",
     )
 
 

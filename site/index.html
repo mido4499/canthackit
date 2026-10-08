@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>canthackit</title>
+<meta name="description" content="Upcoming in-person hackathons, tech conferences and meetups in the US.">
+<style>
+  :root {
+    --bg: #fafaf9; --surface: #fff; --text: #1c1917; --muted: #78716c; --border: #e7e5e4;
+    --accent: #2563eb; --on-accent: #fff; --hackathon: #7c3aed; --conference: #0891b2; --meetup: #65a30d;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0c0a09; --surface: #1c1917; --text: #f5f5f4; --muted: #a8a29e; --border: #292524;
+      --accent: #60a5fa; --on-accent: #0c0a09; --hackathon: #a78bfa; --conference: #22d3ee; --meetup: #a3e635;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 1000px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { margin: 0; font-size: 28px; letter-spacing: -0.02em; }
+  .sub { margin: 4px 0 24px; color: var(--muted); }
+  .filters {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px;
+    padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  }
+  label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; font-weight: 600;
+    color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  select {
+    font: inherit; font-size: 15px; text-transform: none; letter-spacing: 0; color: var(--text);
+    background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 7px 8px;
+  }
+  select:disabled { opacity: 0.5; }
+  .bar { display: flex; justify-content: space-between; align-items: center; margin: 20px 0 8px;
+    color: var(--muted); font-size: 14px; }
+  button { font: inherit; font-size: 14px; color: var(--accent); background: none; border: 0;
+    padding: 0; cursor: pointer; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li {
+    display: grid; grid-template-columns: 130px 1fr auto; gap: 4px 16px; align-items: baseline;
+    padding: 12px 4px; border-bottom: 1px solid var(--border);
+  }
+  .when { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .name a { color: var(--text); font-weight: 600; text-decoration: none; }
+  .name a:hover { color: var(--accent); text-decoration: underline; }
+  .where { color: var(--muted); font-size: 14px; }
+  .kind { font-size: 12px; font-weight: 600; text-transform: capitalize; }
+  .kind.hackathon { color: var(--hackathon); }
+  .kind.conference { color: var(--conference); }
+  .kind.meetup { color: var(--meetup); }
+  .empty { padding: 48px 0; text-align: center; color: var(--muted); }
+  .subscribe {
+    margin-bottom: 16px; padding: 16px; background: var(--surface);
+    border: 1px solid var(--border); border-radius: 10px;
+  }
+  .subscribe h2 { margin: 0; font-size: 16px; }
+  .subscribe p { margin: 2px 0 12px; color: var(--muted); font-size: 14px; }
+  .subscribe .row { display: flex; gap: 8px; }
+  .subscribe input {
+    flex: 1; min-width: 0; font: inherit; color: var(--text); background: var(--bg);
+    border: 1px solid var(--border); border-radius: 6px; padding: 7px 10px;
+  }
+  .subscribe button[type="submit"] {
+    font-weight: 600; color: var(--on-accent); background: var(--accent); border-radius: 6px; padding: 7px 16px;
+  }
+  .subscribe button:disabled { opacity: 0.6; cursor: default; }
+  .subscribe .status { margin: 8px 0 0; font-size: 14px; }
+  .subscribe .status.error { color: #dc2626; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  @media (max-width: 640px) {
+    li { grid-template-columns: 1fr auto; }
+    .when { grid-column: 1; grid-row: 1; font-size: 14px; }
+    .kind { grid-column: 2; grid-row: 1; }
+    .name { grid-column: 1 / -1; grid-row: 2; min-width: 0; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>canthackit</h1>
+  <p class="sub">Upcoming in-person hackathons, tech conferences and meetups in the US.</p>
+
+  <!-- Brevo sends the confirmation email; subscribers join the list only after clicking it. -->
+  <form class="subscribe" id="subscribe" novalidate
+    action="https://a2402bb4.sibforms.com/serve/MUIFAGoSSUHgSdAAmjNdzzS72NthO8u77elEGC71C_ZK8KvD29D7hlIKTKQbaQ9GNH82V05not3izvMMO9wzpfu8EIqiA3Wn1OxShjh8z1dnDQh3kUsJfCXxQ46LzNmlXAX099HsY_iKtx5g99HqNpu8TombiqaQFlXIhd1DQ9stM7XfLquPy-cpabZ6vvhi84eMpIkSWGOx-apxDw==">
+    <h2>Get new events by email</h2>
+    <p>A digest when new events are announced. No spam, unsubscribe anytime.</p>
+    <div class="row">
+      <label class="sr-only" for="EMAIL">Email address</label>
+      <input type="email" id="EMAIL" name="EMAIL" placeholder="you@example.com" autocomplete="email" required>
+      <button type="submit">Subscribe</button>
+    </div>
+    <!-- Honeypot: hidden from people, filled in by bots, and Brevo drops those submissions. -->
+    <input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off"
+      aria-hidden="true" class="sr-only">
+    <input type="hidden" name="locale" value="en">
+    <p class="status" id="subscribe-status" role="status" hidden></p>
+  </form>
+
+  <form class="filters" id="filters">
+    <label>Type
+      <select id="kind">
+        <option value="">All types</option>
+        <option value="hackathon">Hackathons</option>
+        <option value="conference">Conferences</option>
+        <option value="meetup">Meetups</option>
+      </select>
+    </label>
+    <label>When
+      <select id="when">
+        <option value="">Any time</option>
+        <option value="week">This week</option>
+        <option value="month">This month</option>
+        <option value="later">Later</option>
+      </select>
+    </label>
+    <label>State <select id="state"></select></label>
+    <label>City <select id="city"></select></label>
+  </form>
+
+  <div class="bar">
+    <span id="count">Loading…</span>
+    <button type="button" id="reset" hidden>Clear filters</button>
+  </div>
+  <ul id="list"></ul>
+</main>
+
+<script>
+const STATES = {
+  AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas", CA: "California", CO: "Colorado",
+  CT: "Connecticut", DE: "Delaware", DC: "District of Columbia", FL: "Florida", GA: "Georgia",
+  HI: "Hawaii", ID: "Idaho", IL: "Illinois", IN: "Indiana", IA: "Iowa", KS: "Kansas",
+  KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland", MA: "Massachusetts",
+  MI: "Michigan", MN: "Minnesota", MS: "Mississippi", MO: "Missouri", MT: "Montana",
+  NE: "Nebraska", NV: "Nevada", NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico",
+  NY: "New York", NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma",
+  OR: "Oregon", PA: "Pennsylvania", PR: "Puerto Rico", RI: "Rhode Island", SC: "South Carolina",
+  SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah", VT: "Vermont", VA: "Virginia",
+  WA: "Washington", WV: "West Virginia", WI: "Wisconsin", WY: "Wyoming",
+};
+const STATE_NAMES = new Set(Object.values(STATES));
+const UNKNOWN = "Unknown";
+const $ = (id) => document.getElementById(id);
+
+// Dates are calendar days ("2026-10-07"); parse them as local midnight, not UTC.
+const day = (s) => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
+const addDays = (d, n) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n);
+
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const endOfWeek = addDays(today, (7 - today.getDay()) % 7);  // through Sunday
+const endOfMonth = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+// "This month" always covers "this week", even when the week runs into next month.
+const monthCutoff = endOfMonth > endOfWeek ? endOfMonth : endOfWeek;
+
+function stateName(s) {
+  s = s.trim();
+  return STATES[s.toUpperCase()] || (STATE_NAMES.has(s) ? s : "");
+}
+
+// Sources disagree on location format: "Austin" + "Texas", "Austin, TX" + "", "Austin" + "TX".
+function normalize(events) {
+  for (const e of events) {
+    let city = e.city.trim(), state = stateName(e.state);
+    const m = city.match(/^(.+),\s*([A-Za-z]{2})$/);
+    if (m && STATES[m[2].toUpperCase()]) {
+      city = m[1].trim();
+      state = state || STATES[m[2].toUpperCase()];
+    }
+    // Some sources put only the state in the city field ("Georgia"). New York and Washington
+    // are also cities, so leave those to the city-based guess below.
+    if (!state && stateName(city) && !["New York", "Washington"].includes(city)) {
+      state = stateName(city);
+      city = "";
+    }
+    e.city = city;
+    e.state = state;
+  }
+  // Fill a missing state from other events in the same city, when they all agree on one.
+  const cityStates = {};
+  for (const e of events) {
+    if (e.city && e.state) (cityStates[e.city] ||= new Set()).add(e.state);
+  }
+  for (const e of events) {
+    if (!e.state && cityStates[e.city]?.size === 1) e.state = [...cityStates[e.city]][0];
+    e.state ||= UNKNOWN;
+  }
+}
+
+function bucket(e) {
+  const start = e._start < today ? today : e._start;  // ongoing events count as happening now
+  if (start <= endOfWeek) return "week";
+  if (start <= monthCutoff) return "month";
+  return "later";
+}
+
+const fmt = (d, year) =>
+  d.toLocaleDateString("en-US", { month: "short", day: "numeric", ...(year && { year: "numeric" }) });
+function when(e) {
+  const year = e._start.getFullYear() !== today.getFullYear();
+  if (+e._start === +e._end) return fmt(e._start, year);
+  return `${fmt(e._start)} – ${fmt(e._end, e._end.getFullYear() !== today.getFullYear())}`;
+}
+
+function fillSelect(select, all, values) {
+  const current = select.value;
+  select.replaceChildren(new Option(all, ""), ...values.map((v) => new Option(v, v)));
+  select.value = values.includes(current) ? current : "";
+}
+
+const byName = (a, b) => (a === UNKNOWN) - (b === UNKNOWN) || a.localeCompare(b);
+let events = [];
+
+function updateCities() {
+  const state = $("state").value;
+  const cities = new Set(events.filter((e) => e.city && (!state || e.state === state)).map((e) => e.city));
+  fillSelect($("city"), "All cities", [...cities].sort(byName));
+}
+
+function render() {
+  const f = { kind: $("kind").value, when: $("when").value, state: $("state").value, city: $("city").value };
+  const shown = events.filter((e) =>
+    (!f.kind || e.kind === f.kind) &&
+    (!f.when || e._bucket === f.when) &&
+    (!f.state || e.state === f.state) &&
+    (!f.city || e.city === f.city));
+
+  $("list").replaceChildren(...shown.map((e) => {
+    const li = document.createElement("li");
+    const a = Object.assign(document.createElement("a"), { href: e.url, textContent: e.name,
+      target: "_blank", rel: "noopener" });
+    const where = [e.city, e.state === UNKNOWN ? "" : e.state].filter(Boolean).join(", ");
+    li.innerHTML = `<span class="when"></span>
+      <div class="name"><div></div><div class="where"></div></div><span class="kind ${e.kind}"></span>`;
+    li.querySelector(".when").textContent = when(e);
+    li.querySelector(".kind").textContent = e.kind;
+    li.querySelector(".name div").append(a);
+    li.querySelector(".where").textContent = where || "Location TBA";
+    return li;
+  }));
+  if (!shown.length) {
+    $("list").innerHTML = '<li class="empty" style="display:block">No events match these filters.</li>';
+  }
+  const n = shown.length;
+  $("count").textContent = n === events.length
+    ? `${n} upcoming events`
+    : `${n} of ${events.length} upcoming events`;
+  $("reset").hidden = !Object.values(f).some(Boolean);
+}
+
+async function load() {
+  // Deployed, events.json sits next to this page; when previewing from the repo, it's in data/.
+  for (const url of ["events.json", "../data/events.json"]) {
+    const res = await fetch(url).catch(() => null);
+    if (res?.ok) return (await res.json()).events;
+  }
+  throw new Error("couldn't load events.json");
+}
+
+load().then((data) => {
+  normalize(data);
+  events = data
+    .map((e) => ({ ...e, _start: day(e.start), _end: day(e.end) }))
+    .filter((e) => e._end >= today)  // the page may be a day older than the data it shows
+    .sort((a, b) => Math.max(a._start, today) - Math.max(b._start, today) || a.name.localeCompare(b.name));
+  for (const e of events) e._bucket = bucket(e);
+
+  fillSelect($("state"), "All states", [...new Set(events.map((e) => e.state))].sort(byName));
+  updateCities();
+  render();
+}).catch((err) => {
+  $("count").textContent = `Couldn't load events (${err.message}).`;
+});
+
+$("state").addEventListener("change", () => { updateCities(); render(); });
+for (const id of ["kind", "when", "city"]) $(id).addEventListener("change", render);
+$("reset").addEventListener("click", () => { $("filters").reset(); updateCities(); render(); });
+
+// Submit the same way Brevo's embed script does, without its 460KB of code and styles.
+$("subscribe").addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const form = event.target, email = $("EMAIL"), button = form.querySelector("button");
+  const status = (text, error = false) => {
+    Object.assign($("subscribe-status"), { textContent: text, hidden: false });
+    $("subscribe-status").classList.toggle("error", error);
+  };
+  // Brevo accepts anything, so check the address here.
+  if (!email.checkValidity() || !/@[^@]+\.[^@]+$/.test(email.value)) {
+    status("Please enter a valid email address.", true);
+    return email.focus();
+  }
+  button.disabled = true;
+  try {
+    const res = await fetch(`${form.action}?isAjax=1`, { method: "POST", body: new FormData(form) });
+    const reply = await res.json();
+    if (!reply.success) throw new Error(reply.message);
+    form.reset();
+    status("Almost done: check your inbox and click the link to confirm.");
+  } catch {
+    status("Something went wrong. Please try again in a minute.", true);
+  } finally {
+    button.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

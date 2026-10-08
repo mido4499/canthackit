@@ -21,10 +21,10 @@ jobs:
         run: uv run python -m canthackit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
           EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
           BATCH_SIZE: ${{ vars.BATCH_SIZE }}
           MAX_WAIT_DAYS: ${{ vars.MAX_WAIT_DAYS }}
 

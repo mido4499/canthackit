@@ -12,7 +12,6 @@ from canthackit.models import Event
 from canthackit.sources import (
     confs_tech,
     dev_conferences,
-    dev_events,
     devpost,
     eventbrite,
     hackclub,
@@ -26,7 +25,6 @@ SOURCES: dict[str, Callable[[httpx.Client], list[Event]]] = {
     "hackclub": hackclub.fetch,
     "confs.tech": confs_tech.fetch,
     "developers.events": dev_conferences.fetch,
-    "dev.events": dev_events.fetch,
     "luma": luma.fetch,
     "eventbrite": eventbrite.fetch,
 }

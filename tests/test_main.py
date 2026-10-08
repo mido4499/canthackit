@@ -22,7 +22,7 @@ def run(tmp_path, monkeypatch):
     monkeypatch.setattr(app, "EVENTS_FILE", tmp_path / "events.json")
     monkeypatch.setattr(sys, "argv", ["canthackit"])
     monkeypatch.setenv("BATCH_SIZE", "1")
-    monkeypatch.setenv("EMAIL_TO", "a@x.com")
+    monkeypatch.setenv("BREVO_LIST_ID", "2")
     monkeypatch.setenv("EMAIL_FROM", "bot@x.com")
     monkeypatch.setenv("BREVO_API_KEY", "key")
     sent = []

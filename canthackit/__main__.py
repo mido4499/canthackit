@@ -75,8 +75,9 @@ def main() -> int:
         if args.dry_run:
             print(email["text"])
         else:
-            if not (list_id and sender and os.environ.get("BREVO_API_KEY")):
-                sys.exit("BREVO_LIST_ID, EMAIL_FROM and BREVO_API_KEY must be set to send email")
+            required = ("BREVO_LIST_ID", "EMAIL_FROM", "BREVO_API_KEY")
+            if missing := [name for name in required if not os.environ.get(name)]:
+                sys.exit(f"Can't send email: {', '.join(missing)} not set")
             send(email, sender, int(list_id), os.environ["BREVO_API_KEY"])
             print(f"Emailed {len(pending)} events to Brevo list {list_id}")
         for e in pending:
