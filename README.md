@@ -1,9 +1,9 @@
 <div align="center">
 
-# canthackit
+# Kan't Hack It
 
 **In-person hackathons, tech conferences and meetups across the US, in one place.**<br>
-Checked daily. Emailed to you only when something new shows up.
+Checked every day. Emailed to you only when something new shows up.
 
 ### [→ Browse upcoming events](https://mido4499.github.io/canthackit/)
 
@@ -11,6 +11,7 @@ Checked daily. Emailed to you only when something new shows up.
 [Contribute](CONTRIBUTING.md) ·
 [How it works](#how-it-works)
 
+[![Upcoming events](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmido4499.github.io%2Fcanthackit%2Fevents.json&query=%24.events.length&label=upcoming%20events&color=2563eb)](https://mido4499.github.io/canthackit/)
 [![Update events](https://github.com/mido4499/canthackit/actions/workflows/update-events.yml/badge.svg)](https://github.com/mido4499/canthackit/actions/workflows/update-events.yml)
 [![CI](https://github.com/mido4499/canthackit/actions/workflows/ci.yml/badge.svg)](https://github.com/mido4499/canthackit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -21,29 +22,25 @@ Checked daily. Emailed to you only when something new shows up.
 
 ## Built for you if you're…
 
-**🎓 A tech undergrad or grad student.** Hackathons are the fastest way to ship real projects,
-win prizes and get noticed by sponsors who hire. But they're spread across MLH, Devpost, Hack
-Club, Luma and a dozen university sites, and you usually hear about the good ones a week too
-late.
+- 🎓 **A tech undergrad or grad student** hunting for hackathons to build projects, win
+  prizes and get noticed by sponsors.
+- 💼 **Looking for a tech job** and want to meet engineers, founders and recruiters in person.
 
-**💼 Looking for a tech job.** Referrals come from people, and people are at meetups and
-conferences. canthackit shows you what's happening in your city this week, so you can go meet
-the engineers, founders and recruiters who'll be there.
-
-You shouldn't have to check ten websites to find out what's happening. canthackit checks
-them every day for you.
+No more checking ten websites. Kan't Hack It checks them for you.
 
 ## What you get
 
-- 🗺️ **[A live events page](https://mido4499.github.io/canthackit/).** Every upcoming event,
-  filterable by **type** (hackathon, conference, meetup), **state**, **city** and **date**
-  (this week, this month, later). Updated daily.
-- 📬 **[An email digest](https://mido4499.github.io/canthackit/#subscribe).** Only events
-  announced since the last email, never repeats. Confirm your address once, and unsubscribe
-  from any email in one click.
+- 🗺️ **[A live events page](https://mido4499.github.io/canthackit/)** listing every upcoming
+  event, filterable by type, state, city and date.
+- 📬 **[An email digest](https://mido4499.github.io/canthackit/#subscribe)** with only the
+  events announced since your last email.
 
-Only **in-person events in the US** are included. Online-only events are left out on purpose:
-the point is to get you in a room with people.
+**How often:** new events are fetched every morning around 13:00 UTC (8–9 AM Eastern). You get an
+email at most once a day, and only when there's news: once 10 new events have piled up, or
+a week after the first new one, whichever comes first. Unsubscribe from any email in one
+click.
+
+Only in-person events in the US are included. Online-only events are left out on purpose.
 
 ## Where the events come from
 
@@ -81,9 +78,9 @@ single Python file.
         (the events page)                   (new events only)
 ```
 
-A GitHub Actions job runs this every day. The repo is the database, so there are no servers
-to run or pay for. A digest goes out once 10 new events have piled up, or once the oldest one
-has waited a week, so you get a useful email instead of a daily trickle.
+A GitHub Actions job runs this every day at 13:00 UTC. The repo is the database, so there are
+no servers to run or pay for. New events are batched into a digest ([how often](#what-you-get))
+so you get a useful email instead of a daily trickle.
 
 ## Contributing
 
@@ -124,7 +121,7 @@ Contributions are very welcome, and many don't need much code. Some of the most 
 
    | Variables tab | Example / default |
    |---|---|
-   | `EMAIL_FROM` (required) | `canthackit <alerts@yourdomain.com>`, your verified sender |
+   | `EMAIL_FROM` (required) | `Kan't Hack It <alerts@yourdomain.com>`, your verified sender |
    | `BREVO_LIST_ID` (required) | `2`, your subscriber list |
    | `BATCH_SIZE` | `10` |
    | `MAX_WAIT_DAYS` | `7` |
