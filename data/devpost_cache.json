@@ -314,6 +314,13 @@
   "state": "",
   "us": false
  },
+ "https://hackitsnova-2026-31640.devpost.com/": {
+  "city": "Madawarayapuram",
+  "end": "2026-10-15T17:00:00.000-04:00",
+  "start": "2026-10-15T10:00:00.000-04:00",
+  "state": "Tamil Nadu",
+  "us": false
+ },
  "https://hacklanta.devpost.com/": {
   "city": "Atlanta",
   "end": "2026-10-11T09:00:00.000-04:00",
@@ -333,6 +340,13 @@
   "end": "2026-10-25T10:00:00.000-04:00",
   "start": "2026-10-24T10:00:00.000-04:00",
   "state": "Ohio",
+  "us": true
+ },
+ "https://hackperimeter.devpost.com/": {
+  "city": "Clarkston",
+  "end": "2026-11-13T17:00:00.000-05:00",
+  "start": "2026-11-13T09:30:00.000-05:00",
+  "state": "Georgia",
   "us": true
  },
  "https://hackphs2026.devpost.com/": {
