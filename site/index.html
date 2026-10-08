@@ -70,6 +70,8 @@
   .subscribe button:disabled { opacity: 0.6; cursor: default; }
   .subscribe .status { margin: 8px 0 0; font-size: 14px; }
   .subscribe .status.error { color: #dc2626; }
+  .subscribe .privacy { margin: 10px 0 0; font-size: 12px; }
+  .subscribe .privacy a { color: inherit; }
   .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   @media (max-width: 640px) {
     li { grid-template-columns: 1fr auto; }
@@ -99,6 +101,9 @@
       aria-hidden="true" class="sr-only">
     <input type="hidden" name="locale" value="en">
     <p class="status" id="subscribe-status" role="status" hidden></p>
+    <p class="privacy">Your email is only used to send this digest. It's stored with
+      <a href="https://www.brevo.com/legal/privacypolicy/">Brevo</a>, our email provider, and
+      never shared or sold. Every email has an unsubscribe link.</p>
   </form>
 
   <form class="filters" id="filters">

@@ -20,6 +20,12 @@ from canthackit.sources import SOURCES
 EVENTS_FILE = DATA_DIR / "events.json"
 
 
+def site_url() -> str:
+    """The repo's GitHub Pages address, so forks link to their own site. Set in Actions only."""
+    owner, _, repo = os.environ.get("GITHUB_REPOSITORY", "").partition("/")
+    return f"https://{owner}.github.io/{repo}/" if repo else ""
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument(
@@ -71,7 +77,7 @@ def main() -> int:
     if should_send(pending, batch_size, max_wait, today):
         list_id = os.environ.get("BREVO_LIST_ID", "")
         sender = os.environ.get("EMAIL_FROM", "")
-        email = build_email(pending)
+        email = build_email(pending, site_url())
         if args.dry_run:
             print(email["text"])
         else:

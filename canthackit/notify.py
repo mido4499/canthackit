@@ -37,8 +37,11 @@ FOOTER = (
 )
 
 
-def build_email(events: list[Event]) -> dict[str, str]:
-    """Return the digest's subject, plain-text body and HTML body."""
+def build_email(events: list[Event], site_url: str = "") -> dict[str, str]:
+    """Return the digest's subject, plain-text body and HTML body.
+
+    With `site_url`, the email links to the page listing every upcoming event.
+    """
     events = sorted(events, key=lambda e: e.start)
     sections = [
         (title, [e for e in events if e.kind == kind])
@@ -68,6 +71,11 @@ def build_email(events: list[Event]) -> dict[str, str]:
             f"<tr><th align=left>Event</th><th align=left>When</th><th align=left>Where</th></tr>"
             f"{rows}</table>"
         )
+
+    if site_url:
+        text.append(f"See all upcoming events: {site_url}")
+        link = f'<a href="{_escape(site_url)}"><strong>See all upcoming events &rarr;</strong></a>'
+        body.append(f"<p>{link}</p>")
 
     return {
         "subject": f"{len(events)} new in-person tech events in the US",

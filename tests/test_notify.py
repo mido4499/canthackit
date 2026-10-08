@@ -51,6 +51,13 @@ def test_email_escapes_template_braces_and_has_unsubscribe():
     assert '<a href="{{ unsubscribe }}">' in html
 
 
+def test_email_links_to_site_when_given():
+    assert "github.io" not in build_email([ev("a")])["html"]
+    email = build_email([ev("a")], "https://me.github.io/canthackit/")
+    assert '<a href="https://me.github.io/canthackit/">' in email["html"]
+    assert "See all upcoming events: https://me.github.io/canthackit/" in email["text"]
+
+
 def test_send_creates_and_sends_campaign(monkeypatch):
     calls = []
 
