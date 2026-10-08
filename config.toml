@@ -1,0 +1,21 @@
+# Sources that need a list of things to follow. Edit freely and send a pull request.
+
+[luma]
+# Luma calendars to follow, by the name in their URL (luma.com/<name>) or their "cal-..." ID.
+# Calendars Luma features on luma.com/tech and luma.com/ai are followed automatically.
+# Only in-person events in the US are kept, so worldwide calendars are fine.
+calendars = [
+    "genai-collective",      # The AI Collective
+    "claudecommunity",       # Claude Community Events
+    "codex-community",       # Codex Community Events
+    "ls",                    # Latent.Space
+    "lennysnewsletter",      # Lenny's Newsletter Meetups
+    "ycombinator-official",  # Y Combinator
+    "n8n-events",            # n8n Community Events
+]
+
+[eventbrite]
+# Eventbrite organizer IDs: the number at the end of an organizer page URL,
+# e.g. eventbrite.com/o/some-tech-group-12345678901 -> "12345678901".
+# Requires the EVENTBRITE_TOKEN secret (free: eventbrite.com/platform/api-keys).
+organizers = []

@@ -1,0 +1,39 @@
+name: Update events
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # daily at 13:00 UTC (morning in the US)
+  workflow_dispatch: # allows a manual run from the Actions tab
+
+permissions:
+  contents: write # to commit data/ back to the repo
+
+concurrency: update-events
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Fetch events and email digest
+        run: uv run python -m canthackit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+          EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+          BATCH_SIZE: ${{ vars.BATCH_SIZE }}
+          MAX_WAIT_DAYS: ${{ vars.MAX_WAIT_DAYS }}
+
+      # Runs even if a source failed, so progress from the other sources (and the record of
+      # what was already emailed) is kept.
+      - name: Commit updated data
+        if: success() || failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Update events" && git push)
