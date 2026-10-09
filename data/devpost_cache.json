@@ -62,13 +62,6 @@
   "state": "Ontario",
   "us": false
  },
- "https://bic.devpost.com/": {
-  "city": "Maheru",
-  "end": "2026-10-07T14:30:00.000-04:00",
-  "start": "2026-09-18T23:00:00.000-04:00",
-  "state": "Punjab",
-  "us": false
- },
  "https://biohacksmcmaster.devpost.com/": {
   "city": "Hamilton",
   "end": "2026-11-08T10:00:00.000-05:00",
@@ -257,13 +250,6 @@
   "start": "2026-11-14T12:00:00.000-05:00",
   "state": "Alberta",
   "us": false
- },
- "https://hack-away-hunger.devpost.com/": {
-  "city": "Johnston",
-  "end": "2026-10-08T23:45:00.000-04:00",
-  "start": "2026-07-18T12:00:00.000-04:00",
-  "state": "Iowa",
-  "us": true
  },
  "https://hack-knight-fall-2026.devpost.com/": {
   "city": "Queens",
@@ -489,6 +475,13 @@
   "state": "Ontario",
   "us": false
  },
+ "https://islanderhack-2026.devpost.com/": {
+  "city": "Corpus Christi",
+  "end": "2026-10-10T13:00:00.000-04:00",
+  "start": "2026-10-09T13:00:00.000-04:00",
+  "state": "Texas",
+  "us": true
+ },
  "https://khe-2027.devpost.com/": {
   "city": "Kent",
   "end": "2027-03-07T12:00:00.000-05:00",
@@ -600,13 +593,6 @@
   "start": "2026-10-14T20:00:00.000-04:00",
   "state": "New York",
   "us": true
- },
- "https://prompt2product.devpost.com/": {
-  "city": "Indore",
-  "end": "2026-10-09T02:45:00.000-04:00",
-  "start": "2026-10-08T00:00:00.000-04:00",
-  "state": "Madhya Pradesh",
-  "us": false
  },
  "https://qmul-ai-hackathon.devpost.com/": {
   "city": "Greater London",
@@ -747,13 +733,6 @@
   "start": "2027-03-03T13:00:00.000-05:00",
   "state": "California",
   "us": true
- },
- "https://the-bounty-sprint.devpost.com/": {
-  "city": "Balaganur",
-  "end": "2026-11-15T06:30:00.000-05:00",
-  "start": "2026-10-08T08:15:00.000-04:00",
-  "state": "Karnataka",
-  "us": false
  },
  "https://tripleh.devpost.com/": {
   "city": "Houston",
