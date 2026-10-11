@@ -66,95 +66,11 @@
    "notified": true
   },
   {
-   "name": "Caribbean AI Summit Hackathon",
-   "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-08",
-   "end": "2026-10-10",
-   "city": "San Juan",
-   "state": "San Juan",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "National Security + Space Innovation Summit | Fleet Week \u00d7 SF Tech Week",
-   "url": "https://luma.com/nssis",
-   "kind": "conference",
-   "start": "2026-10-08",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "AI Native Summit - SF TechWeek 2026",
    "url": "https://luma.com/3t95uj7s",
    "kind": "conference",
    "start": "2026-10-09",
    "end": "2026-10-11",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Builders & Brews SF",
-   "url": "https://luma.com/tavily-u13g",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Cyberdefense Hackathon #SFTechWeek",
-   "url": "https://luma.com/cyberhack",
-   "kind": "hackathon",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Ensign Build",
-   "url": "https://ensign-build.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Get Found on AI: Build the playbook so your business is recommended in AI chats in One Afternoon - #SFTechWeek",
-   "url": "https://luma.com/6uwkydou",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
    "city": "San Francisco",
    "state": "California",
    "sources": [
@@ -194,20 +110,6 @@
    "notified": true
   },
   {
-   "name": "IslanderHack",
-   "url": "https://islanderhack-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "Corpus Christi",
-   "state": "Texas",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
    "name": "Knight Hacks IX",
    "url": "https://knight-hacks-ix.devpost.com/",
    "kind": "hackathon",
@@ -232,160 +134,6 @@
    "state": "New Jersey",
    "sources": [
     "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SF AI Summit \u2014 The Infrastructure Era #SFTechWeek",
-   "url": "https://luma.com/belle-l5wl",
-   "kind": "conference",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "SF Tech Week Agent Day",
-   "url": "https://luma.com/7wn8tsf7",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "Menlo Park",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Smartlead x Chatbase: Bowling Mixer \ud83c\udfb3",
-   "url": "https://luma.com/smartleadxchatbase",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Sunset Neighborhood Build-a-thon",
-   "url": "https://luma.com/tzyvkp9j",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Venture Vibes SF (During SF Tech Week)",
-   "url": "https://luma.com/venture-vibes-sf",
-   "kind": "meetup",
-   "start": "2026-10-09",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "#SFTechWeek - Decision-Grade AI @ Stanford \u26a1\ufe0f A Buildathon on LLM Trust",
-   "url": "https://ai-trust.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "Palo Alto",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI & The Future of Marketing \u2014 SF Tech Week Meetup",
-   "url": "https://luma.com/vv59zi0w",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Builders Summit - #SFTechWeek",
-   "url": "https://luma.com/d09hopqu",
-   "kind": "conference",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Fund Mixer with Andrew Ng, SF Tech Week",
-   "url": "https://luma.com/aifund-c7gz",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Walk n Talk - Sandy Springs (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-10-10",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "Atlanta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI x Marketing Shopify Meetup",
-   "url": "https://luma.com/aix-0sp3",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -424,48 +172,6 @@
    "kind": "meetup",
    "start": "2026-10-10",
    "end": "2026-10-11",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Build Multiplayer Data Science Agents \u00b7 PyMC Labs",
-   "url": "https://daimon-hackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Build Your AI Chief of Staff with Claude at #sf-tech-week",
-   "url": "https://luma.com/claude-jawm",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Build Your AI Team: A Hands-On Workshop with Turnstone \u00d7 Corgi",
-   "url": "https://luma.com/eeapccyv",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
    "city": "San Francisco",
    "state": "California",
    "sources": [
@@ -517,48 +223,6 @@
    "notified": true
   },
   {
-   "name": "Come Touch Grass | Founders + GTM Hike",
-   "url": "https://luma.com/rrozj97o",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Founders Social After Dark \u2014 #SFTechWeek",
-   "url": "https://luma.com/fukxek8f",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "French founders & operators Drinks - Tech Week",
-   "url": "https://luma.com/fullen-jsrn",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Frontier in Action: Physical Intelligence",
    "url": "https://luma.com/fig-sa7r",
    "kind": "meetup",
@@ -566,34 +230,6 @@
    "end": "2026-10-11",
    "city": "San Francisco",
    "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Get Hired Hack @ Columbia Startup Lab",
-   "url": "https://get-hired-hack-nyc.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Miami",
-   "url": "https://luma.com/h4h-miami",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "Miami",
-   "state": "Florida",
    "sources": [
     "luma"
    ],
@@ -661,105 +297,6 @@
    "notified": true
   },
   {
-   "name": "Hard Negatives Meetup | Engineers Debate Night with Qdrant & Neo4j",
-   "url": "https://luma.com/sf-meetup-oct26",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hardware FYI: SF Tech Week Edition",
-   "url": "https://luma.com/g5sdw0b6",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Human Performance, Capital & Innovation",
-   "url": "https://luma.com/ThePerformanceEconomy",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hyphen-Hacks",
-   "url": "https://hyphen-hacks26.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost",
-    "hackclub"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "International Founders Bowling Night - #SFTechWeek",
-   "url": "https://luma.com/b7zdjlzs",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Intro to boxing for tech founders - #SFTechWeek \u2014 Reverse Network Meet",
-   "url": "https://luma.com/staaake-mc1x",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Latinos x AI Hackathon - NYC",
-   "url": "https://latinos-x-ai-hackathon-nyc.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Lunar Accel SF 2026 Closing Keynote: Sabrina Chueh Ellis (Former CPO, Pinterest)",
    "url": "https://luma.com/96jf6qf9",
    "kind": "meetup",
@@ -767,20 +304,6 @@
    "end": "2026-10-11",
    "city": "San Francisco",
    "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "n8n Meetup Ashburn - Build Your First AI Agent with n8n",
-   "url": "https://luma.com/n8n-6b8c",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "Cascades",
-   "state": "Virginia",
    "sources": [
     "luma"
    ],
@@ -799,20 +322,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "OyBay x IsraValley Shabbat Dinner w/ Onyx & Genesis",
-   "url": "https://luma.com/leverage-ge08",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
    "notified": true
   },
   {
@@ -849,202 +358,6 @@
    "kind": "meetup",
    "start": "2026-10-10",
    "end": "2026-10-11",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Post Generation | opening reception at TIAT",
-   "url": "https://luma.com/postgeneration",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "PrincipiumX presents: The First Principles Way to Find the Next 10x Opportunity Hiding in Your Product",
-   "url": "https://luma.com/d11z2sm6",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Runner Day - 5 Miles",
-   "url": "https://luma.com/tokensand-run",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "San Francisco Co-Founder Matching: Find a Partner by Solving Real Problems",
-   "url": "https://luma.com/founder_table_sf07",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "San Francisco | Claude Culture",
-   "url": "https://luma.com/claude-sf-techweek",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "SF AI Summit VIP Dinner #SF Tech Week",
-   "url": "https://luma.com/r700smge",
-   "kind": "conference",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SF Tech Week VIP Closing Party with Synexis & Funding Breakthrough Lab",
-   "url": "https://luma.com/fbltechweek",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SF Tech Week | Founder & Researcher & Investor Mixer by Founder Builder Club",
-   "url": "https://luma.com/azpcgeuz",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "Millbrae",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
-   "name": "Shotwell's Speakeasy: The Official AINative Summit After Party",
-   "url": "https://luma.com/qrf8ujy7",
-   "kind": "conference",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Stroll At Golden Gate Park",
-   "url": "https://luma.com/tinyfish-igd1",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Tech Basketball Run - SF Tech Week",
-   "url": "https://luma.com/mlvc-e0o4",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The Agentic World #2",
-   "url": "https://luma.com/wlw3or8l",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UA Techcrunch Disrupt Preparty YEP & MZP League",
-   "url": "https://luma.com/9yqq2r4q",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Weave (YC W25) Office Launch | SF Tech Week",
-   "url": "https://luma.com/a5ouvlt8",
-   "kind": "meetup",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
    "city": "San Francisco",
    "state": "California",
    "sources": [
@@ -1152,6 +465,20 @@
    "notified": true
   },
   {
+   "name": "UCSC AI Hackathon",
+   "url": "https://ucsc-ai-hackathon.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "city": "Santa Clara",
+   "state": "California",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-11",
+   "notified": false
+  },
+  {
    "name": "VC/Founders BBQ - Bay Area",
    "url": "https://luma.com/83rxbxch",
    "kind": "meetup",
@@ -1217,7 +544,8 @@
    "state": "",
    "sources": [
     "dev.events",
-    "developers.events"
+    "developers.events",
+    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -1376,6 +704,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "AI Trivia and Karaoke Night",
+   "url": "https://luma.com/lsk",
+   "kind": "meetup",
+   "start": "2026-10-13",
+   "end": "2026-10-14",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-11",
+   "notified": false
   },
   {
    "name": "AUGMENTED ENTERPRISE SUMMIT",
@@ -2944,6 +2286,20 @@
    "notified": true
   },
   {
+   "name": "Autonomous Agents: What You Need To Know (w/ The AI Collective)",
+   "url": "https://luma.com/auto-agents",
+   "kind": "meetup",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "city": "Chattanooga",
+   "state": "Tennessee",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-11",
+   "notified": false
+  },
+  {
    "name": "Big Mountain Data and Dev Conference_2026",
    "url": "http://www.utahgeekevents.com",
    "kind": "conference",
@@ -4251,6 +3607,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Hack for Humanity: Portland, Oregon",
+   "url": "https://luma.com/h4h-pdx",
+   "kind": "meetup",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "city": "Portland",
+   "state": "Oregon",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-11",
+   "notified": false
   },
   {
    "name": "HackOHI/O 2026",
