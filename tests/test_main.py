@@ -20,6 +20,10 @@ def ev(name, source):
 def run(tmp_path, monkeypatch):
     """Run main() against fake sources with a temporary data file; return what was emailed."""
     monkeypatch.setattr(app, "EVENTS_FILE", tmp_path / "events.json")
+    monkeypatch.setattr(app, "README_FILE", tmp_path / "README.md")
+    app.README_FILE.write_text(
+        "intro\n<!-- upcoming-events:start -->\n<!-- upcoming-events:end -->\n"
+    )
     monkeypatch.setattr(sys, "argv", ["canthackit"])
     monkeypatch.setenv("BATCH_SIZE", "1")
     monkeypatch.setenv("BREVO_LIST_ID", "2")
@@ -52,3 +56,13 @@ def test_source_with_no_events_is_not_seeded(run):
     run({"a": [ev("one", "a")], "b": []})
     assert json.loads(app.EVENTS_FILE.read_text())["seeded_sources"] == ["a"]
     assert run({"a": [ev("one", "a")], "b": [ev("two", "b")]}) == []  # b's first real batch
+
+
+def test_readme_snapshot_is_updated(run):
+    run({"a": [ev("one", "a")]})
+    text = app.README_FILE.read_text()
+    assert (
+        text.startswith("intro\n")
+        and "**1 upcoming events**" in text
+        and "[one](https://one)" in text
+    )

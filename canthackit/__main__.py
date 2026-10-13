@@ -11,13 +11,14 @@ from datetime import date
 
 import httpx
 
-from canthackit import DATA_DIR, USER_AGENT
+from canthackit import DATA_DIR, ROOT, USER_AGENT, readme
 from canthackit.dedupe import merge
 from canthackit.models import Event
 from canthackit.notify import build_email, send, should_send
 from canthackit.sources import SOURCES
 
 EVENTS_FILE = DATA_DIR / "events.json"
+README_FILE = ROOT / "README.md"
 
 
 def site_url() -> str:
@@ -98,6 +99,8 @@ def main() -> int:
             "events": [e.model_dump(mode="json") for e in known],
         }
         EVENTS_FILE.write_text(json.dumps(state, indent=1) + "\n")
+        if not readme.update(README_FILE, known, today, site_url()):
+            print("README.md has no upcoming-events markers; snapshot not updated.")
 
     return 1 if failed else 0
 
