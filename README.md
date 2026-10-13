@@ -25,8 +25,6 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 ## 📅 Upcoming events
 
-<a href="https://mido4499.github.io/canthackit/"><img src="docs/events-page.png" alt="The Can't Hack It events page, with filters for type, date, state and city" width="720"></a>
-
 <!-- upcoming-events:start -->
 **555 upcoming events**: 105 hackathons, 265 conferences and 185 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
@@ -36,32 +34,39 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [Black Code Collective Hacktoberfest](https://bcc-hacktoberfest.devpost.com/) | Oct 12 – Oct 24 | Washington, District of Columbia | Hackathon |
-| [Company Brain Hackathon](https://company-brain-oct-2026.devpost.com/) | Oct 12 – Oct 13 | Menlo Park, California | Hackathon |
+| [Black Code Collective Hacktoberfest](https://bcc-hacktoberfest.devpost.com/) | Oct 12⁠–⁠24 | Washington, District of Columbia | Hackathon |
+| [Company Brain Hackathon](https://company-brain-oct-2026.devpost.com/) | Oct 12⁠–⁠13 | Menlo Park, California | Hackathon |
 | [AI At Work - Hack the Everyday](https://ai-at-work-hack-the-everyday.devpost.com/) | Oct 16 | Detroit, Michigan | Hackathon |
-| [MOLTEN - Spatial hackathon (Roboflow, Auki, Niantic Spatial)](https://luma.com/5jo47m0d) | Oct 17 – Oct 18 | Inglewood, California | Hackathon |
-| [DS+X Hackathon 2026](https://ds-x-hackathon-2026.devpost.com/) | Oct 24 – Oct 25 | Boston, Massachusetts | Hackathon |
-| [DuQuantum](https://duquantum.org/) | Oct 24 – Oct 25 | Durham, NC | Hackathon |
-| [SharkByte](https://shark-byte.io/) | Nov 06 – Nov 08 | Miami, FL | Hackathon |
-| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 07 – Nov 08 | Santa Clara, California | Hackathon |
+| [MOLTEN - Spatial hackathon (Roboflow, Auki, Niantic Spatial)](https://luma.com/5jo47m0d) | Oct 17⁠–⁠18 | Inglewood, California | Hackathon |
+| [DS+X Hackathon 2026](https://ds-x-hackathon-2026.devpost.com/) | Oct 24⁠–⁠25 | Boston, Massachusetts | Hackathon |
+| [DuQuantum](https://duquantum.org/) | Oct 24⁠–⁠25 | Durham, NC | Hackathon |
+| [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL | Hackathon |
+| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California | Hackathon |
 | [Hackperimeter](https://hackperimeter.devpost.com/) | Nov 13 | Clarkston, Georgia | Hackathon |
-| [NASA's Space Apps Challenge NYC](https://www.spaceappschallenge.org/2026/local-events/new-york/) | Nov 13 – Nov 15 | Brooklyn, New York | Hackathon |
+| [NASA's Space Apps Challenge NYC](https://www.spaceappschallenge.org/2026/local-events/new-york/) | Nov 13⁠–⁠15 | Brooklyn, New York | Hackathon |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [RenderJuice Blender Animation & Programmatic Rendering Contest](https://programmatic-rendering-contest.devpost.com/) | Oct 14 – Oct 31 | New York, New York |
+| [RenderJuice Blender Animation & Programmatic Rendering Contest](https://programmatic-rendering-contest.devpost.com/) | Oct 14⁠–⁠31 | New York, New York |
 | [AI At Work - Hack the Everyday](https://ai-at-work-hack-the-everyday.devpost.com/) | Oct 16 | Detroit, Michigan |
-| [Agentic Enterprise AI Hackathon — Box + AWS](https://agentic-ai-hackathon-box-aws.devpost.com/) | Oct 16 – Oct 17 | Seattle, Washington |
-| [Cornell Six Sigma Hackathon](https://six-sigma-hackathon.devpost.com/) | Oct 16 – Oct 17 | Ithaca, New York |
+| [Agentic Enterprise AI Hackathon — Box + AWS](https://agentic-ai-hackathon-box-aws.devpost.com/) | Oct 16⁠–⁠17 | Seattle, Washington |
+| [Cornell Six Sigma Hackathon](https://six-sigma-hackathon.devpost.com/) | Oct 16⁠–⁠17 | Ithaca, New York |
 | [Daytona HackSprint w/ Arize AI - NYC, October 2026](https://daytona-hacksprint-nyc.devpost.com/) | Oct 16 | New York, New York |
-| [Seattle GiveCamp 2026](https://seattle-givecamp-2026.devpost.com/) | Oct 16 – Oct 18 | Redmond, Washington |
-| [SwampHacks XII](https://swamphacks-xii.devpost.com/) | Oct 16 – Oct 18 | Gainesville, Florida |
-| [AI Hackathon 2026 by LA Hacks](https://la-ai-hackathon-2026.devpost.com/) | Oct 17 – Oct 18 | Los Angeles, California |
-| [Arm + ExecuTorch: Edge AI Challenge](https://arm-executorch.devpost.com/) | Oct 17 – Oct 18 | San Francisco, California |
+| [Seattle GiveCamp 2026](https://seattle-givecamp-2026.devpost.com/) | Oct 16⁠–⁠18 | Redmond, Washington |
+| [SwampHacks XII](https://swamphacks-xii.devpost.com/) | Oct 16⁠–⁠18 | Gainesville, Florida |
+| [AI Hackathon 2026 by LA Hacks](https://la-ai-hackathon-2026.devpost.com/) | Oct 17⁠–⁠18 | Los Angeles, California |
+| [Arm + ExecuTorch: Edge AI Challenge](https://arm-executorch.devpost.com/) | Oct 17⁠–⁠18 | San Francisco, California |
 | [Blank Page](https://blankpage.devpost.com/) | Oct 17 | Cambridge, Massachusetts |
 <!-- upcoming-events:end -->
+
+## 📬 Get new events by email
+
+Get a digest of newly announced events, at most once a day and only when there's news.
+Double opt-in, and every email has a one-click unsubscribe.
+
+<a href="https://mido4499.github.io/canthackit/#subscribe"><img src="https://img.shields.io/badge/Subscribe_to_the_digest-2563eb?style=for-the-badge&logo=maildotru&logoColor=white" alt="Subscribe to the digest" height="40"></a>
 
 ## Built for you if you're…
 

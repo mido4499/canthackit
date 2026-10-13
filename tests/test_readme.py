@@ -62,3 +62,13 @@ def test_new_events_list_hackathons_and_conferences_before_meetups():
     events = [ev("Meetup", kind="meetup", start=TODAY), ev("Conf", kind="conference")]
     text = readme.snapshot(events, TODAY, "")
     assert text.index("[Conf]") < text.index("[Meetup]")
+
+
+def test_date_ranges_are_short_and_unbreakable():
+    same_month = ev("A", start=date(2026, 10, 12))
+    same_month.end = date(2026, 10, 24)
+    across = ev("B", start=date(2026, 10, 30))
+    across.end = date(2026, 11, 2)
+    assert readme._when(same_month) == "Oct\u00a012\u2060–\u206024"
+    assert readme._when(across) == "Oct\u00a030\u2060–\u2060Nov\u00a02"
+    assert readme._when(ev("C", start=date(2026, 10, 16))) == "Oct\u00a016"

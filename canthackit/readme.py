@@ -22,10 +22,14 @@ def _cell(s: str) -> str:
 
 
 def _when(e: Event) -> str:
-    # Non-breaking spaces keep a date range on one line in narrow table columns.
+    """'Oct 16', 'Oct 12–24' or 'Oct 30–Nov 2', kept on one line in narrow table columns."""
+    nbsp, dash = "\u00a0", "\u2060–\u2060"  # word joiners stop browsers breaking after the dash
+    start = f"{e.start:%b}{nbsp}{e.start.day}"
     if e.start == e.end:
-        return f"{e.start:%b\u00a0%d}"
-    return f"{e.start:%b\u00a0%d}\u00a0–\u00a0{e.end:%b\u00a0%d}"
+        return start
+    if (e.start.year, e.start.month) == (e.end.year, e.end.month):
+        return f"{start}{dash}{e.end.day}"
+    return f"{start}{dash}{e.end:%b}{nbsp}{e.end.day}"
 
 
 def _table(events: list[Event], with_kind: bool) -> str:
