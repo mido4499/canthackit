@@ -66,48 +66,6 @@
    "notified": true
   },
   {
-   "name": "Multi Model Hackathon - #SFTechWeek",
-   "url": "https://luma.com/builde-pozq",
-   "kind": "hackathon",
-   "start": "2026-10-11",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The AI-Native Talent Hunt with Codex - #SFTechWeek",
-   "url": "https://luma.com/yjt7f4ty",
-   "kind": "meetup",
-   "start": "2026-10-11",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "VC/Founders BBQ - Bay Area",
-   "url": "https://luma.com/83rxbxch",
-   "kind": "meetup",
-   "start": "2026-10-11",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "AI Engineer NYC 2026",
    "url": "https://dev.events/conferences/ai-engineer-nyc-2026-bfhjqhzy",
    "kind": "conference",
@@ -149,20 +107,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
-   "name": "Coffee/Lunch + AI Chats (w/ The AI Collective Chattanooga)",
-   "url": "https://luma.com/aic-ch-10-12",
-   "kind": "meetup",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "Chattanooga",
-   "state": "Tennessee",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
    "notified": true
   },
   {
@@ -223,48 +167,6 @@
    "notified": true
   },
   {
-   "name": "International Reception at the European Startup Embassy",
-   "url": "https://luma.com/ki02vg09",
-   "kind": "meetup",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Nucleate NY Activator Hybrid Info Session- Tri-I",
-   "url": "https://luma.com/4vzz0zwe",
-   "kind": "meetup",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Open Intelligence Summit: Hands-On Workshop Day",
-   "url": "https://luma.com/OIS",
-   "kind": "conference",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
    "name": "Pacific Northwest Software Quality Conference 2026",
    "url": "https://dev.events/conferences/pacific-northwest-software-quality-conference-pnsqc-2026-rkj0ucku",
    "kind": "conference",
@@ -274,34 +176,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Pickup Basketball Game \ud83c\udfc0 Proof of Buckets \u26f9\ufe0f \u26f9\ufe0f\u200d\u2640\ufe0f \u26f9\ufe0f San Francisco",
-   "url": "https://luma.com/id1ibp58",
-   "kind": "meetup",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "staaake Skybar AI/Tech Founders Hangover Event \u2014 Reverse Network Meet",
-   "url": "https://luma.com/staaake-j15s",
-   "kind": "meetup",
-   "start": "2026-10-12",
-   "end": "2026-10-12",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -714,6 +588,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "AWS Community Day South Florida",
+   "url": "https://awscommunitydaysoflo.com/",
+   "kind": "conference",
+   "start": "2026-10-14",
+   "end": "2026-10-14",
+   "city": "Miami, FL",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -1604,6 +1492,20 @@
    "notified": true
   },
   {
+   "name": "JawnCon 0x3",
+   "url": "https://jawncon.org/",
+   "kind": "conference",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "city": "Glenside, PA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "Kling x Machine Cinema: Kling 4.0 GenJam - #LATechWeek",
    "url": "https://luma.com/machine-y9he",
    "kind": "meetup",
@@ -1699,6 +1601,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "MLH HacktoberFest 2026",
+   "url": "https://mlh-hacktoberfest-2026.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "city": "Monroe",
+   "state": "Louisiana",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -2400,6 +2316,20 @@
    "notified": true
   },
   {
+   "name": "DevDay Exchange Community Demo Night: Tampa",
+   "url": "https://luma.com/amujhzmb",
+   "kind": "meetup",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "city": "St. Petersburg",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "Devopsdays Boston",
    "url": "https://devopsdays.org/events/2026-boston",
    "kind": "conference",
@@ -2655,6 +2585,20 @@
    "notified": true
   },
   {
+   "name": "Nucleate Dallas Dojo Explore: Therapeutics Discovery and Development In-Person Workshop",
+   "url": "https://luma.com/w7aedoxo",
+   "kind": "meetup",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "city": "Dallas",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "OCUDU Ecosystem Developer Summit",
    "url": "https://events.linuxfoundation.org/ocudu-ecosystem-developer-summit-north-america/",
    "kind": "conference",
@@ -2795,6 +2739,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "AI for Lawyers & Attorneys: A Community Discussion w/ The AI Collective",
+   "url": "https://luma.com/aic-at-10-21",
+   "kind": "meetup",
+   "start": "2026-10-21",
+   "end": "2026-10-22",
+   "city": "Alpharetta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -3067,6 +3025,34 @@
    "notified": true
   },
   {
+   "name": "Boos in Biotech Happy Hour",
+   "url": "https://luma.com/s8gi4oqd",
+   "kind": "meetup",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "city": "San Carlos",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
+   "name": "BSidesPDX 2026",
+   "url": "https://bsidespdx.org/",
+   "kind": "conference",
+   "start": "2026-10-23",
+   "end": "2026-10-24",
+   "city": "Portland, OR",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "Cal Hacks 13.0",
    "url": "https://calhacks.io/",
    "kind": "hackathon",
@@ -3146,6 +3132,7 @@
    "city": "Stony Brook",
    "state": "New York",
    "sources": [
+    "devpost",
     "mlh"
    ],
    "first_seen": "2026-10-06",
@@ -3160,7 +3147,8 @@
    "city": "Seattle",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -3907,6 +3895,20 @@
    "notified": true
   },
   {
+   "name": "#LATechWeek AI Collective Pitch Night (w/ The AI Collective)",
+   "url": "https://luma.com/aic-la-og-pitch-night",
+   "kind": "meetup",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "city": "Santa Monica",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "Chief AI Officer Summit Boston",
    "url": "https://dev.events/conferences/chief-ai-officer-summit-boston-4t-2mhyj",
    "kind": "conference",
@@ -4064,6 +4066,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "FOSS4G NA 2026",
+   "url": "https://talks.osgeo.org/foss4g-na-2026/",
+   "kind": "conference",
+   "start": "2026-11-02",
+   "end": "2026-11-04",
+   "city": "Sacramento, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -4393,6 +4409,20 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "DevDay Exchange Community: Kansas City",
+   "url": "https://luma.com/CodexKC2026",
+   "kind": "meetup",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "city": "Kansas City",
+   "state": "Missouri",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -5541,6 +5571,7 @@
    "city": "Westminster",
    "state": "California",
    "sources": [
+    "devpost",
     "hackclub"
    ],
    "first_seen": "2026-10-10",
@@ -6088,9 +6119,24 @@
    "city": "Denver",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "DevFest Fresno 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-fresno-presents-devfest-fresno-2026/cohost-gdg-fresno",
+   "kind": "conference",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "city": "Fresno, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -6797,6 +6843,20 @@
    "notified": true
   },
   {
+   "name": "Apres-Cyber Slopes Summit 2027",
+   "url": "http://aprescyber.com",
+   "kind": "conference",
+   "start": "2027-02-24",
+   "end": "2027-02-26",
+   "city": "Park City, UT",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "PlatformCon Live Day San Francisco",
    "url": "https://sanfrancisco.platformcon.com/",
    "kind": "conference",
@@ -7059,7 +7119,8 @@
    "city": "New York",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -7087,7 +7148,8 @@
    "city": "Huntsville",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -7232,9 +7294,24 @@
    "city": "Atlanta",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "PlanetNix 2027",
+   "url": "https://planetnix.com",
+   "kind": "conference",
+   "start": "2027-04-01",
+   "end": "2027-04-02",
+   "city": "Pasadena, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -7280,6 +7357,20 @@
     "mlh"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "BSidesOK 2027",
+   "url": "https://sessionize.com/bsidesok-2027/",
+   "kind": "conference",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "city": "Glenpool, OK",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -7786,6 +7877,20 @@
    "notified": true
   },
   {
+   "name": "DeveloperWeek New York 2027 Hackathon",
+   "url": "https://developerweek-new-york-2027.devpost.com/",
+   "kind": "hackathon",
+   "start": "2027-05-31",
+   "end": "2027-06-17",
+   "city": "Secaucus",
+   "state": "New Jersey",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
    "name": "OSSFE 2027",
    "url": "https://ossfe.org/",
    "kind": "conference",
@@ -7824,7 +7929,8 @@
    "city": "Chicago",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -7971,6 +8077,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "DynamicsCon Regional Midwest 2027",
+   "url": "https://www.eventbrite.com/e/2000484907209?aff=oddtdtcreator",
+   "kind": "conference",
+   "start": "2027-08-31",
+   "end": "2027-09-01",
+   "city": "Columbus, OH",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-13",
    "notified": true
   },
   {
