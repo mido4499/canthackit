@@ -90,6 +90,13 @@
   "state": "",
   "us": false
  },
+ "https://build-next-big-thing-with-ai.devpost.com/": {
+  "city": "Karachi",
+  "end": "2026-10-22T23:45:00.000-04:00",
+  "start": "2026-10-19T00:00:00.000-04:00",
+  "state": "Sindh",
+  "us": false
+ },
  "https://business-battkefuekd.devpost.com/": {
   "city": "Yorba Linda",
   "end": "2027-02-20T19:15:00.000-05:00",
@@ -129,6 +136,13 @@
   "city": "Riverside",
   "end": "2026-11-21T23:00:00.000-05:00",
   "start": "2026-11-21T11:00:00.000-05:00",
+  "state": "California",
+  "us": true
+ },
+ "https://dahacks5.devpost.com/": {
+  "city": "Cupertino",
+  "end": "2026-10-17T17:00:00.000-04:00",
+  "start": "2026-10-16T13:30:00.000-04:00",
   "state": "California",
   "us": true
  },
@@ -237,6 +251,13 @@
   "state": "Massachusetts",
   "us": true
  },
+ "https://graph-hacks.devpost.com/": {
+  "city": "",
+  "end": "2026-10-31T17:00:00.000-04:00",
+  "start": "2026-10-14T12:00:00.000-04:00",
+  "state": "",
+  "us": false
+ },
  "https://h-a-r-d-hack-2027.devpost.com/": {
   "city": "San Diego",
   "end": "2027-01-31T20:00:00.000-05:00",
@@ -321,6 +342,13 @@
   "state": "Texas",
   "us": true
  },
+ "https://hackgb-2026.devpost.com/": {
+  "city": "Green Bay",
+  "end": "2026-10-18T13:00:00.000-04:00",
+  "start": "2026-10-13T20:00:00.000-04:00",
+  "state": "Wisconsin",
+  "us": true
+ },
  "https://hackit-2026.devpost.com/": {
   "city": "Singapore",
   "end": "2026-10-20T12:00:00.000-04:00",
@@ -370,6 +398,13 @@
   "state": "California",
   "us": true
  },
+ "https://hacktoberfest-hack-day-dhaka.devpost.com/": {
+  "city": "Dhaka",
+  "end": "2026-10-18T06:00:00.000-04:00",
+  "start": "2026-10-18T00:00:00.000-04:00",
+  "state": "Dhaka Division",
+  "us": false
+ },
  "https://hacktoberfest-teens.devpost.com/": {
   "city": "New Delhi",
   "end": "2026-10-17T08:00:00.000-04:00",
@@ -396,6 +431,13 @@
   "end": "2026-11-15T23:45:00.000-05:00",
   "start": "2026-11-14T00:00:00.000-05:00",
   "state": "Virginia",
+  "us": true
+ },
+ "https://haven-seattle.devpost.com/": {
+  "city": "Seattle",
+  "end": "2026-11-15T20:00:00.000-05:00",
+  "start": "2026-11-14T12:00:00.000-05:00",
+  "state": "Washington",
   "us": true
  },
  "https://hook-em-hacks-2027.devpost.com/": {
@@ -496,6 +538,13 @@
   "state": "Louisiana",
   "us": true
  },
+ "https://mtc-x-grammarly.devpost.com/": {
+  "city": "Berkeley",
+  "end": "2026-10-16T23:30:00.000-04:00",
+  "start": "2026-10-16T17:30:00.000-04:00",
+  "state": "California",
+  "us": true
+ },
  "https://next-gen-hackathon.devpost.com/": {
   "city": "Bengaluru",
   "end": "2026-10-23T07:30:00.000-04:00",
@@ -566,6 +615,13 @@
   "state": "New York",
   "us": true
  },
+ "https://sc-quantathon-v4.devpost.com/": {
+  "city": "Clemson",
+  "end": "2027-10-24T11:00:00.000-04:00",
+  "start": "2027-10-23T10:00:00.000-04:00",
+  "state": "South Carolina",
+  "us": true
+ },
  "https://sdc-hackathon-2026.devpost.com/": {
   "city": "Sepang",
   "end": "2026-10-24T20:00:00.000-04:00",
@@ -615,6 +671,13 @@
   "state": "Michigan",
   "us": true
  },
+ "https://sphinx-26.devpost.com/": {
+  "city": "Jaipur",
+  "end": "2026-10-31T05:00:00.000-04:00",
+  "start": "2026-10-14T07:30:00.000-04:00",
+  "state": "Rajasthan",
+  "us": false
+ },
  "https://stupideas-ottawa-f26.devpost.com/": {
   "city": "Ottawa",
   "end": "2026-11-07T18:15:00.000-05:00",
@@ -634,13 +697,6 @@
   "end": "2027-05-08T20:00:00.000-04:00",
   "start": "2027-05-08T11:00:00.000-04:00",
   "state": "Washington",
-  "us": true
- },
- "https://svycay4e.devpost.com/": {
-  "city": "Stanford",
-  "end": "2026-10-18T17:00:00.000-04:00",
-  "start": "2026-09-20T00:00:00.000-04:00",
-  "state": "California",
   "us": true
  },
  "https://swamphacks-xii.devpost.com/": {
@@ -663,6 +719,13 @@
   "start": "2027-03-03T13:00:00.000-05:00",
   "state": "California",
   "us": true
+ },
+ "https://thunderhacks-ii.devpost.com/": {
+  "city": "Brampton",
+  "end": "2026-10-16T12:00:00.000-04:00",
+  "start": "2026-10-14T16:00:00.000-04:00",
+  "state": "Ontario",
+  "us": false
  },
  "https://ticket-to-hack.devpost.com/": {
   "city": "University of Virginia",

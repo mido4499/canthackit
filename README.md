@@ -26,24 +26,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**572 upcoming events**: 107 hackathons, 274 conferences and 191 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**576 upcoming events**: 114 hackathons, 274 conferences and 188 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 13, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 14, 2026.</sub>
 
-### 🆕 Just announced (98 this week)
+### 🆕 Just announced (112 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [Black Code Collective Hacktoberfest](https://bcc-hacktoberfest.devpost.com/) | Oct 12⁠–⁠24 | Washington, District of Columbia | Hackathon |
-| [Company Brain Hackathon](https://company-brain-oct-2026.devpost.com/) | Oct 12⁠–⁠13 | Menlo Park, California | Hackathon |
+| [HackGB](https://hackgb-2026.devpost.com/) | Oct 13⁠–⁠18 | Green Bay, Wisconsin | Hackathon |
 | [AI At Work - Hack the Everyday](https://ai-at-work-hack-the-everyday.devpost.com/) | Oct 16 | Detroit, Michigan | Hackathon |
+| [De Anza Hackathon 5.0](https://dahacks5.devpost.com/) | Oct 16⁠–⁠17 | Cupertino, California | Hackathon |
 | [MLH HacktoberFest 2026](https://mlh-hacktoberfest-2026.devpost.com/) | Oct 16 | Monroe, Louisiana | Hackathon |
+| [MTC x Grammarly: Agents in Action](https://mtc-x-grammarly.devpost.com/) | Oct 16 | Berkeley, California | Hackathon |
 | [MOLTEN - Spatial hackathon (Roboflow, Auki, Niantic Spatial)](https://luma.com/5jo47m0d) | Oct 17⁠–⁠18 | Inglewood, California | Hackathon |
 | [DS+X Hackathon 2026](https://ds-x-hackathon-2026.devpost.com/) | Oct 24⁠–⁠25 | Boston, Massachusetts | Hackathon |
 | [DuQuantum](https://duquantum.org/) | Oct 24⁠–⁠25 | Durham, NC | Hackathon |
 | [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL | Hackathon |
-| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California | Hackathon |
-| [Hackperimeter](https://hackperimeter.devpost.com/) | Nov 13 | Clarkston, Georgia | Hackathon |
 
 ### 🏁 Next hackathons
 
@@ -54,11 +54,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Agentic Enterprise AI Hackathon — Box + AWS](https://agentic-ai-hackathon-box-aws.devpost.com/) | Oct 16⁠–⁠17 | Seattle, Washington |
 | [Cornell Six Sigma Hackathon](https://six-sigma-hackathon.devpost.com/) | Oct 16⁠–⁠17 | Ithaca, New York |
 | [Daytona HackSprint w/ Arize AI - NYC, October 2026](https://daytona-hacksprint-nyc.devpost.com/) | Oct 16 | New York, New York |
+| [De Anza Hackathon 5.0](https://dahacks5.devpost.com/) | Oct 16⁠–⁠17 | Cupertino, California |
 | [MLH HacktoberFest 2026](https://mlh-hacktoberfest-2026.devpost.com/) | Oct 16 | Monroe, Louisiana |
+| [MTC x Grammarly: Agents in Action](https://mtc-x-grammarly.devpost.com/) | Oct 16 | Berkeley, California |
 | [Seattle GiveCamp 2026](https://seattle-givecamp-2026.devpost.com/) | Oct 16⁠–⁠18 | Redmond, Washington |
 | [SwampHacks XII](https://swamphacks-xii.devpost.com/) | Oct 16⁠–⁠18 | Gainesville, Florida |
-| [AI Hackathon 2026 by LA Hacks](https://la-ai-hackathon-2026.devpost.com/) | Oct 17⁠–⁠18 | Los Angeles, California |
-| [Arm + ExecuTorch: Edge AI Challenge](https://arm-executorch.devpost.com/) | Oct 17⁠–⁠18 | San Francisco, California |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
