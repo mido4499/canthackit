@@ -26,11 +26,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**557 upcoming events**: 119 hackathons, 265 conferences and 173 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**535 upcoming events**: 123 hackathons, 261 conferences and 151 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 15, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 16, 2026.</sub>
 
-### 🆕 Just announced (90 this week)
+### 🆕 Just announced (94 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -42,8 +42,8 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [MTC x Grammarly: Agents in Action](https://mtc-x-grammarly.devpost.com/) | Oct 16 | Berkeley, California | Hackathon |
 | [MOLTEN - Spatial hackathon (Roboflow, Auki, Niantic Spatial)](https://luma.com/5jo47m0d) | Oct 17⁠–⁠18 | Inglewood, California | Hackathon |
 | [ZotHacks 2026](https://zothacks-2026.devpost.com/) | Oct 17⁠–⁠18 | Irvine, California | Hackathon |
+| [\[LA Tech Week\] ACM TrojanHacks 2026](https://la-tech-acm-trojanhacks-2026.devpost.com/) | Oct 17⁠–⁠18 | Los Angeles, California | Hackathon |
 | [DS+X Hackathon 2026](https://ds-x-hackathon-2026.devpost.com/) | Oct 24⁠–⁠25 | Boston, Massachusetts | Hackathon |
-| [Deal Flow: NYC's First VC Hackathon @ Betaworks](https://nyc-vc-hack.devpost.com/) | Oct 24 | New York, New York | Hackathon |
 
 ### 🏁 Next hackathons
 
