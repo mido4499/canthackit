@@ -94,22 +94,6 @@
    "notified": true
   },
   {
-   "name": "TechBash",
-   "url": "https://techbash.com",
-   "kind": "conference",
-   "start": "2026-10-13",
-   "end": "2026-10-16",
-   "city": "Pocono Manor, PA",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "RenderJuice Blender Animation & Programmatic Rendering Contest",
    "url": "https://programmatic-rendering-contest.devpost.com/",
    "kind": "hackathon",
@@ -119,63 +103,6 @@
    "state": "New York",
    "sources": [
     "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Longhorn PHP",
-   "url": "https://longhornphp.com",
-   "kind": "conference",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "city": "Austin, TX",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Dallas Dojo Explore: Therapeutics, Discovery, and Development Seminar",
-   "url": "https://luma.com/vsduqngm",
-   "kind": "meetup",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "city": "Richardson",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Tech Fuse Des Moines 2026",
-   "url": "https://techfusedsm.com/",
-   "kind": "conference",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "city": "Des Moines, IA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "\u26a1 LA Tech Week Vibe Coding Camp : Build Fast. Ship Faster. Learn the Entire AI Dev Stack.",
-   "url": "https://luma.com/s0qgwh1y",
-   "kind": "meetup",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -196,34 +123,6 @@
    "notified": true
   },
   {
-   "name": "Acquired LA Tech Week Meet Up",
-   "url": "https://luma.com/4jkd995p",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Marina del Rey",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Activator Info Session & Mixer by Nucleate Philadelphia",
-   "url": "https://luma.com/hz3qplwo",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Philadelphia",
-   "state": "Pennsylvania",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
    "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
    "kind": "hackathon",
@@ -238,68 +137,12 @@
    "notified": true
   },
   {
-   "name": "AI At Work - Hack the Everyday",
-   "url": "https://ai-at-work-hack-the-everyday.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Detroit",
-   "state": "Michigan",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "AI Filmmaking Meetup - Los Angeles - LA Tech Week (Curious Refuge Community Meetup)",
-   "url": "https://luma.com/fy1dacch",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "AI for Workforce Development: A Roundtable with Leaders from the Western Hemisphere",
-   "url": "https://luma.com/aic-bo-10-16",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Boulder",
-   "state": "Colorado",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
    "name": "Cornell Six Sigma Hackathon",
    "url": "https://six-sigma-hackathon.devpost.com/",
    "kind": "hackathon",
    "start": "2026-10-16",
    "end": "2026-10-17",
    "city": "Ithaca",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Daytona HackSprint w/ Arize AI - NYC, October 2026",
-   "url": "https://daytona-hacksprint-nyc.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "New York",
    "state": "New York",
    "sources": [
     "devpost"
@@ -322,34 +165,6 @@
    "notified": true
   },
   {
-   "name": "Founder Fridays: The AI Collective x Unstuck Labs",
-   "url": "https://luma.com/8ob2yd6k",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Arlington",
-   "state": "Virginia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "Founder Table: Bring One Bottleneck, Leave With Answers - #LATechWeek",
-   "url": "https://luma.com/yj5dhabj",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Funded founders @ Alchemy Springs",
    "url": "https://luma.com/founderdisrupt",
    "kind": "meetup",
@@ -362,6 +177,20 @@
    ],
    "first_seen": "2026-10-08",
    "notified": true
+  },
+  {
+   "name": "HackHarvard2026: Hack to the Moon",
+   "url": "https://hackharvard2026.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "city": "Boston",
+   "state": "Massachusetts",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "InnovateLA x Dual-Use Hackathon",
@@ -392,90 +221,6 @@
    "notified": true
   },
   {
-   "name": "Kling x Machine Cinema: Kling 4.0 GenJam - #LATechWeek",
-   "url": "https://luma.com/machine-y9he",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Santa Monica",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Korea Emerging Tech Showcase",
-   "url": "https://luma.com/2lf14pjl",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "LA UXR Meetup x Dialogue AI Happy Hour",
-   "url": "https://luma.com/2wfaom9q",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Culver City",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Light Dao Salon: Consciousness & AI: A Conversation with Sir Robert Edward Grant - TECH WEEK (LA)",
-   "url": "https://luma.com/tr86pjdo",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Beverly Hills",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Los Angeles Design & Development Meetup No.18",
-   "url": "https://luma.com/enhtd97d",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "LP, VC & Funded Founder Networking + Demo",
-   "url": "https://luma.com/xmlb0c9s",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Making Money with AI Micro Drama",
    "url": "https://luma.com/dc644b8r",
    "kind": "meetup",
@@ -485,91 +230,6 @@
    "state": "California",
    "sources": [
     "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "MLH HacktoberFest 2026",
-   "url": "https://mlh-hacktoberfest-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Monroe",
-   "state": "Louisiana",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-13",
-   "notified": true
-  },
-  {
-   "name": "More Done, Same Team: AI Agents Panel + Happy Hour #LA Tech Week",
-   "url": "https://luma.com/caerv8zs",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Santa Monica",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "MTC x Grammarly: Agents in Action",
-   "url": "https://mtc-x-grammarly.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Berkeley",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "Nace AI\u2019s Disrupt After-Party",
-   "url": "https://luma.com/njgebrto",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
-   "name": "NachoThursday: TechCrunch Disrupt SaaS & AI Founder + Investor Happy Hour",
-   "url": "https://luma.com/nachon-9ui9",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Open Source AI Week",
-   "url": "https://events.linuxfoundation.org/open-source-ai-week/",
-   "kind": "conference",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Bay Area, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -603,34 +263,6 @@
    "notified": true
   },
   {
-   "name": "Rho x Drive Agency Creator-Operator Dinner",
-   "url": "https://luma.com/rhoevents-4w1b",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Santa Monica",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Robots After Hours: Gatlin Robotics x Knoxlabs",
-   "url": "https://luma.com/0vdfeb4j",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Santa Monica",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
    "name": "Seattle GiveCamp 2026",
    "url": "https://seattle-givecamp-2026.devpost.com/",
    "kind": "hackathon",
@@ -640,20 +272,6 @@
    "state": "Washington",
    "sources": [
     "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Signal Run #LATechWeek | Presented by Wildwood Ventures, Rho, Moss Venice",
-   "url": "https://luma.com/signalrun-la26",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -669,76 +287,6 @@
    "sources": [
     "devpost",
     "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Tech Week: Networking Event by Ascent Valley - #LATechWeek",
-   "url": "https://luma.com/8epsts3e",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "TechCrunch Disrupt Week VIP Closing Party with Synexis & Funding Breakthrough Lab",
-   "url": "https://luma.com/fbltcdisrupt",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "THE RUNWAY \ud83d\udeeb a morning founder run (An Nayal at TechCrunch Disrupt Week)",
-   "url": "https://luma.com/x4kbhgdb",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "UCLA Tech + Society Conference - #LATechWeek",
-   "url": "https://luma.com/kyjfwzg7",
-   "kind": "conference",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "Los Angeles",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "Venture Night@TechCrunch Disrupt 2026 \u2013 The Ultimate Startup & Investor Experience!",
-   "url": "https://luma.com/VentureNight_SF",
-   "kind": "meetup",
-   "start": "2026-10-16",
-   "end": "2026-10-16",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -785,6 +333,20 @@
    ],
    "first_seen": "2026-10-08",
    "notified": true
+  },
+  {
+   "name": "AI x Fintech Hackathon - Money Talks 2",
+   "url": "https://money-talks-2-nyc.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "Arm + ExecuTorch: Edge AI Challenge",
@@ -857,6 +419,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "c0mpiled-14",
+   "url": "https://c0mpiled-14.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "city": "Berkeley",
+   "state": "California",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "Day of Data Orlando 2026",
@@ -2035,6 +1611,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "AI Collective & Suneet Bhatt Presents: Making Sense of Purpose",
+   "url": "https://luma.com/aic-ny-10-23",
+   "kind": "meetup",
+   "start": "2026-10-23",
+   "end": "2026-10-24",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "Boos in Biotech Happy Hour",
@@ -3933,6 +3523,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "UB Hacking",
+   "url": "https://ubhacking.cse.buffalo.edu",
+   "kind": "hackathon",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "city": "Buffalo",
+   "state": "Northeast ",
+   "sources": [
+    "mlh"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "WWU Social Justice Hackathon",
@@ -7383,6 +6987,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "ILA Women and Leadership Conference 2027",
+   "url": "https://ilaglobalnetwork.org/events/8th-women-and-leadership-conference/",
+   "kind": "conference",
+   "start": "2027-06-14",
+   "end": "2027-06-16",
+   "city": "Saint Paul, MN",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-17",
+   "notified": false
   },
   {
    "name": "AI & Big Data Expo North America 2027",
