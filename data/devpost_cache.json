@@ -27,13 +27,6 @@
   "state": "Massachusetts",
   "us": true
  },
- "https://agentic-ai-hackathon-box-aws.devpost.com/": {
-  "city": "Seattle",
-  "end": "2026-10-17T20:00:00.000-04:00",
-  "start": "2026-10-16T00:00:00.000-04:00",
-  "state": "Washington",
-  "us": true
- },
  "https://arm-executorch.devpost.com/": {
   "city": "San Francisco",
   "end": "2026-10-18T20:00:00.000-04:00",
@@ -55,6 +48,13 @@
   "state": "District of Columbia",
   "us": true
  },
+ "https://bcs-hacks-2026.devpost.com/": {
+  "city": "University Endowment Lands",
+  "end": "2026-10-18T16:15:00.000-04:00",
+  "start": "2026-10-17T16:30:00.000-04:00",
+  "state": "British Columbia",
+  "us": false
+ },
  "https://bearhacks2027.devpost.com/": {
   "city": "Mississauga",
   "end": "2027-04-25T10:00:00.000-04:00",
@@ -69,19 +69,12 @@
   "state": "Ontario",
   "us": false
  },
- "https://blankpage.devpost.com/": {
-  "city": "Cambridge",
-  "end": "2026-10-17T17:00:00.000-04:00",
-  "start": "2026-10-17T00:00:00.000-04:00",
-  "state": "Massachusetts",
+ "https://bisv-hacks-2027.devpost.com/": {
+  "city": "San Jose",
+  "end": "2027-03-27T23:00:00.000-04:00",
+  "start": "2027-03-27T11:00:00.000-04:00",
+  "state": "California",
   "us": true
- },
- "https://build-a-thon-30568.devpost.com/": {
-  "city": "",
-  "end": "2026-10-17T13:00:00.000-04:00",
-  "start": "2026-10-16T00:00:00.000-04:00",
-  "state": "",
-  "us": false
  },
  "https://build-next-big-thing-with-ai.devpost.com/": {
   "city": "Karachi",
@@ -101,13 +94,6 @@
   "city": "Yorba Linda",
   "end": "2027-02-20T19:15:00.000-05:00",
   "start": "2027-02-20T12:00:00.000-05:00",
-  "state": "California",
-  "us": true
- },
- "https://c0mpiled-14.devpost.com/": {
-  "city": "Berkeley",
-  "end": "2026-10-17T19:30:00.000-04:00",
-  "start": "2026-10-17T14:00:00.000-04:00",
   "state": "California",
   "us": true
  },
@@ -160,13 +146,6 @@
   "state": "California",
   "us": true
  },
- "https://dahacks5.devpost.com/": {
-  "city": "Cupertino",
-  "end": "2026-10-17T17:00:00.000-04:00",
-  "start": "2026-10-16T13:30:00.000-04:00",
-  "state": "California",
-  "us": true
- },
  "https://desert-dev-lab-2027.devpost.com/": {
   "city": "Albuquerque",
   "end": "2027-04-25T16:30:00.000-04:00",
@@ -194,6 +173,13 @@
   "start": "2026-11-21T03:00:00.000-05:00",
   "state": "Nordrhein-Westfalen",
   "us": false
+ },
+ "https://devfest-hackathon-2026.devpost.com/": {
+  "city": "Orlando",
+  "end": "2026-11-08T15:30:00.000-05:00",
+  "start": "2026-11-06T18:30:00.000-05:00",
+  "state": "Florida",
+  "us": true
  },
  "https://devhacks-2027.devpost.com/": {
   "city": "Winnipeg",
@@ -286,13 +272,6 @@
   "state": "Alberta",
   "us": false
  },
- "https://hack-like-wacc-26.devpost.com/": {
-  "city": "Atlanta",
-  "end": "2026-10-18T12:00:00.000-04:00",
-  "start": "2026-10-17T09:30:00.000-04:00",
-  "state": "Georgia",
-  "us": true
- },
  "https://hack-peel.devpost.com/": {
   "city": "Mississauga",
   "end": "2026-12-13T16:00:00.000-05:00",
@@ -314,10 +293,10 @@
   "state": "California",
   "us": true
  },
- "https://hack-the-valley-11.devpost.com/": {
+ "https://hack-the-skies-2026.devpost.com/": {
   "city": "Toronto",
-  "end": "2026-10-18T08:00:00.000-04:00",
-  "start": "2026-10-16T20:00:00.000-04:00",
+  "end": "2026-10-18T15:00:00.000-04:00",
+  "start": "2026-10-17T17:00:00.000-04:00",
   "state": "Ontario",
   "us": false
  },
@@ -354,13 +333,6 @@
   "end": "2026-10-18T13:00:00.000-04:00",
   "start": "2026-10-13T20:00:00.000-04:00",
   "state": "Wisconsin",
-  "us": true
- },
- "https://hackharvard2026.devpost.com/": {
-  "city": "Boston",
-  "end": "2026-10-18T08:00:00.000-04:00",
-  "start": "2026-10-16T19:15:00.000-04:00",
-  "state": "Massachusetts",
   "us": true
  },
  "https://hackit-2026.devpost.com/": {
@@ -404,13 +376,6 @@
   "start": "2026-11-06T18:00:00.000-05:00",
   "state": "California",
   "us": true
- },
- "https://hacktoberfest-hack-day-dhaka.devpost.com/": {
-  "city": "Dhaka",
-  "end": "2026-10-18T06:00:00.000-04:00",
-  "start": "2026-10-18T00:00:00.000-04:00",
-  "state": "Dhaka Division",
-  "us": false
  },
  "https://harborhack-2026.devpost.com/": {
   "city": "Charleston",
@@ -461,13 +426,6 @@
   "state": "Massachusetts",
   "us": true
  },
- "https://huskyhack2026.devpost.com/": {
-  "city": "Tacoma",
-  "end": "2026-10-17T18:30:00.000-04:00",
-  "start": "2026-10-17T12:00:00.000-04:00",
-  "state": "Washington",
-  "us": true
- },
  "https://huskyhack2026phase2.devpost.com/": {
   "city": "Tacoma",
   "end": "2026-10-18T16:00:00.000-04:00",
@@ -480,13 +438,6 @@
   "end": "2026-11-03T03:00:00.000-05:00",
   "start": "2026-10-13T03:00:00.000-04:00",
   "state": "Baja California",
-  "us": false
- },
- "https://iku-womxn-in-stem-hackathon.devpost.com/": {
-  "city": "Greater London",
-  "end": "2026-10-18T07:15:00.000-04:00",
-  "start": "2026-10-17T06:00:00.000-04:00",
-  "state": "England",
   "us": false
  },
  "https://indux-5-0-2026.devpost.com/": {
@@ -502,13 +453,6 @@
   "start": "2026-11-13T00:00:00.000-05:00",
   "state": "Ontario",
   "us": false
- },
- "https://innovatela.devpost.com/": {
-  "city": "Los Angeles",
-  "end": "2026-10-17T22:00:00.000-04:00",
-  "start": "2026-10-16T17:00:00.000-04:00",
-  "state": "California",
-  "us": true
  },
  "https://khe-2027.devpost.com/": {
   "city": "Kent",
@@ -586,13 +530,6 @@
   "start": "2026-10-15T12:30:00.000-04:00",
   "state": "Karnataka",
   "us": false
- },
- "https://money-talks-2-nyc.devpost.com/": {
-  "city": "New York",
-  "end": "2026-10-17T16:00:00.000-04:00",
-  "start": "2026-10-17T12:00:00.000-04:00",
-  "state": "New York",
-  "us": true
  },
  "https://next-gen-hackathon.devpost.com/": {
   "city": "Bengaluru",
@@ -713,13 +650,6 @@
   "state": "Varsinais-Suomi",
   "us": false
  },
- "https://six-sigma-hackathon.devpost.com/": {
-  "city": "Ithaca",
-  "end": "2026-10-17T13:00:00.000-04:00",
-  "start": "2026-10-16T15:00:00.000-04:00",
-  "state": "New York",
-  "us": true
- },
  "https://spartahack-12.devpost.com/": {
   "city": "East Lansing",
   "end": "2027-02-07T12:00:00.000-05:00",
@@ -760,13 +690,6 @@
   "end": "2026-10-23T17:00:00.000-04:00",
   "start": "2026-09-20T00:00:00.000-04:00",
   "state": "California",
-  "us": true
- },
- "https://swamphacks-xii.devpost.com/": {
-  "city": "Gainesville",
-  "end": "2026-10-18T08:00:00.000-04:00",
-  "start": "2026-10-16T20:00:00.000-04:00",
-  "state": "Florida",
   "us": true
  },
  "https://tbd-hackathon.devpost.com/": {
@@ -838,12 +761,5 @@
   "start": "2026-10-11T00:00:00.000-04:00",
   "state": "Haryana",
   "us": false
- },
- "https://zothacks-2026.devpost.com/": {
-  "city": "Irvine",
-  "end": "2026-10-18T01:15:00.000-04:00",
-  "start": "2026-10-17T13:00:00.000-04:00",
-  "state": "California",
-  "us": true
  }
 }
