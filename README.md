@@ -26,31 +26,29 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**488 upcoming events**: 121 hackathons, 251 conferences and 116 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**472 upcoming events**: 107 hackathons, 250 conferences and 115 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 18, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 19, 2026.</sub>
 
-### 🆕 Just announced (88 this week)
+### 🆕 Just announced (68 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [HackGB](https://hackgb-2026.devpost.com/) | Oct 13⁠–⁠18 | Green Bay, Wisconsin | Hackathon |
-| [HackHarvard2026: Hack to the Moon](https://hackharvard2026.devpost.com/) | Oct 16⁠–⁠18 | Boston, Massachusetts | Hackathon |
-| [MOLTEN - Spatial hackathon (Roboflow, Auki, Niantic Spatial)](https://luma.com/5jo47m0d) | Oct 17⁠–⁠18 | Inglewood, California | Hackathon |
-| [ZotHacks 2026](https://zothacks-2026.devpost.com/) | Oct 17⁠–⁠18 | Irvine, California | Hackathon |
-| [\[LA Tech Week\] ACM TrojanHacks 2026](https://la-tech-acm-trojanhacks-2026.devpost.com/) | Oct 17⁠–⁠18 | Los Angeles, California | Hackathon |
-| [HuskyHack 2026: Phase 2](https://huskyhack2026phase2.devpost.com/) | Oct 18 | Tacoma, Washington | Hackathon |
+| [SVYCA Youth for Earth (Y4E) Hackathon](https://svycay4e.devpost.com/) | Sep 20⁠–⁠Oct 23 | Stanford, California | Hackathon |
 | [Deal Flow: NYC's First VC Hackathon @ Betaworks](https://nyc-vc-hack.devpost.com/) | Oct 24 | New York, New York | Hackathon |
 | [Marina Hacks 6.0](https://marina-hacks-6-0.devpost.com/) | Oct 24⁠–⁠25 | Long Beach, California | Hackathon |
 | [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida | Hackathon |
-| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California | Hackathon |
+| [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida | Hackathon |
+| [HACK.COMS](https://events.mlh.com/events/14418-hack-coms-2026) | Nov 7⁠–⁠8 | Rochester, New York | Hackathon |
+| [Indy Init 2026](https://indy-init-2026.devpost.com/) | Nov 7 | Fishers, Indiana | Hackathon |
+| [UB Hacking](https://ubhacking.cse.buffalo.edu) | Nov 7⁠–⁠8 | Buffalo, Northeast | Hackathon |
+| [GTransformer AI Buildathon 2026 — AI for Global Good](https://gtransformer-buildathon-2026.devpost.com/) | Nov 13⁠–⁠15 | Milpitas, California | Hackathon |
+| [HackPrinceton Fall 2026](https://www.hackprinceton.com) | Nov 13⁠–⁠15 | Princeton, New Jersey | Hackathon |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [804 Hacks](https://804hacks.devpost.com/) | Oct 18 | Ashland, Virginia |
-| [HuskyHack 2026: Phase 2](https://huskyhack2026phase2.devpost.com/) | Oct 18 | Tacoma, Washington |
 | [2026 AI for Good Hackathon](https://2026ai4goodhackathon.devpost.com/) | Oct 23⁠–⁠25 | Ponte Vedra Beach, Florida |
 | [Cal Hacks 13.0](https://calhacks.io/) | Oct 23⁠–⁠25 | San Francisco, California |
 | [GeauxHack 2026](https://geauxhack-2026.devpost.com/) | Oct 23⁠–⁠25 | Baton Rouge, Louisiana |
@@ -59,6 +57,8 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Action Space](https://action-space-hacks.devpost.com/) | Oct 24⁠–⁠25 | Cambridge, Massachusetts |
 | [DS+X Hackathon 2026](https://ds-x-hackathon-2026.devpost.com/) | Oct 24⁠–⁠25 | Boston, Massachusetts |
 | [Deal Flow: NYC's First VC Hackathon @ Betaworks](https://nyc-vc-hack.devpost.com/) | Oct 24 | New York, New York |
+| [DuQuantum](https://duquantum.org/) | Oct 24⁠–⁠25 | Durham, NC |
+| [Gear Up Hacks 2026](https://gear-up-hacks-2026.devpost.com/) | Oct 24 | Durham, North Carolina |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
