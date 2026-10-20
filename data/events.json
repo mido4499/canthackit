@@ -35,7 +35,7 @@
     "devpost"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "2026-2027 Fall ESE Senior Design",
@@ -94,6 +94,20 @@
    "notified": true
   },
   {
+   "name": "Cornell Six Sigma Hackathon",
+   "url": "https://six-sigma-hackathon.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-16",
+   "end": "2026-10-23",
+   "city": "Ithaca",
+   "state": "New York",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "All Things Open",
    "url": "https://2026.allthingsopen.org/",
    "kind": "conference",
@@ -124,20 +138,6 @@
    "notified": true
   },
   {
-   "name": "Appspresso \u2728 Apps Week Cafe",
-   "url": "https://luma.com/6bkjlc0n",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
    "name": "Claude & Chill for Founders & Creators",
    "url": "https://luma.com/claude-and-chill-oct19",
    "kind": "meetup",
@@ -163,20 +163,6 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community Demo Night: Tampa",
-   "url": "https://luma.com/amujhzmb",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "city": "St. Petersburg",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -237,21 +223,6 @@
    "notified": true
   },
   {
-   "name": "Jupyter Day",
-   "url": "https://events.linuxfoundation.org/jupyter-day/",
-   "kind": "conference",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "city": "San Jose, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "NANOG 98",
    "url": "https://dev.events/conferences/nanog-98-tt6xmbio",
    "kind": "conference",
@@ -266,21 +237,6 @@
    "notified": true
   },
   {
-   "name": "OIN Connect 2026",
-   "url": "https://openinventionnetwork.com/oin-connect-2026/",
-   "kind": "conference",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "city": "San Jose, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Prompt to Product: A Claude Meetup for PMs (Detroit)",
    "url": "https://luma.com/claude-stzy",
    "kind": "meetup",
@@ -288,20 +244,6 @@
    "end": "2026-10-20",
    "city": "Detroit",
    "state": "Michigan",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Sail & Scale: The RAGA Launch Cruise by Paddle",
-   "url": "https://luma.com/paddle-sail-and-scale",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "city": "New York",
-   "state": "New York",
    "sources": [
     "luma"
    ],
@@ -503,7 +445,7 @@
     "luma"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "PyTorch Conference North America",
@@ -687,7 +629,7 @@
     "luma"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Nucleate San Diego Inside Series: Venture Creation in Biotech (VC 101)",
@@ -1145,6 +1087,20 @@
    "notified": true
   },
   {
+   "name": "AI Builder Competition (Hackachusetts)",
+   "url": "https://a-hackachusetts.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "city": "Lowell",
+   "state": "Massachusetts",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "Atlanta Developers' Conference 2026",
    "url": "https://www.atldevcon.com/",
    "kind": "conference",
@@ -1555,6 +1511,20 @@
    "notified": true
   },
   {
+   "name": "AI Open Mic and Networking (w/ The AI Collective)",
+   "url": "https://luma.com/aic-cl-10-26",
+   "kind": "meetup",
+   "start": "2026-10-26",
+   "end": "2026-10-27",
+   "city": "Akron",
+   "state": "Ohio",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "Builder's Day 2026 by Prisma",
    "url": "https://dev.events/conferences/builder-s-day-2026-by-prisma-khspnjov",
    "kind": "conference",
@@ -1785,6 +1755,20 @@
    "notified": true
   },
   {
+   "name": "San Diego | Claude Impact Lab - Biotech & Life Sciences",
+   "url": "https://luma.com/claude-z9ij",
+   "kind": "meetup",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "SEV0",
    "url": "https://sev0.com",
    "kind": "conference",
@@ -1970,6 +1954,20 @@
    "notified": true
   },
   {
+   "name": "Los Angeles | Claude for Founders & Fractionals",
+   "url": "https://luma.com/claude-la-fractionals",
+   "kind": "meetup",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "city": "Los Angeles",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "n8n's Autom8 Boston",
    "url": "https://luma.com/xzc5x2wf",
    "kind": "meetup",
@@ -2110,7 +2108,7 @@
     "luma"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AI Day at FGCU: Southwest Florida AI Expo Day Hosted by FGCU (w/ The AI Collective)",
@@ -2810,7 +2808,7 @@
     "devpost"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Iowa Code Camp Fall 2026",
@@ -3367,6 +3365,34 @@
    "notified": true
   },
   {
+   "name": "AI Collective x Gauntlet AI | Inside the Gauntlet (w/ The AI Collective)",
+   "url": "https://luma.com/aic-gauntlet-nov10",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
+   "name": "Kubernetes & Capital SLC",
+   "url": "https://luma.com/6zw7cdxq",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Draper",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
+   "notified": true
+  },
+  {
    "name": "Lessons Learned Running Autonomous Agents in Production - Breakfast Roundtable for Engineering Leaders",
    "url": "https://luma.com/celi63zx",
    "kind": "meetup",
@@ -3392,6 +3418,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "The Human Side of AI",
+   "url": "https://luma.com/human-side-ai",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "city": "Baltimore",
+   "state": "Maryland",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
    "notified": true
   },
   {
@@ -3661,7 +3701,7 @@
     "devpost"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Hackperimeter",
@@ -3775,7 +3815,7 @@
     "luma"
    ],
    "first_seen": "2026-10-19",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Hack the Harvest",
@@ -4247,6 +4287,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Build Your First AI Agent with n8n | AI Collective x n8n Douglasville",
+   "url": "https://luma.com/aic-do-11-23",
+   "kind": "meetup",
+   "start": "2026-11-23",
+   "end": "2026-11-24",
+   "city": "Douglasville",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-20",
    "notified": true
   },
   {
