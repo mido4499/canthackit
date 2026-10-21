@@ -108,50 +108,6 @@
    "notified": true
   },
   {
-   "name": "All Things Open",
-   "url": "https://2026.allthingsopen.org/",
-   "kind": "conference",
-   "start": "2026-10-18",
-   "end": "2026-10-20",
-   "city": "Raleigh, NC",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Rising 2026",
-   "url": "https://www.airising.org/",
-   "kind": "conference",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "Columbus, OH",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Claude & Chill for Founders & Creators",
-   "url": "https://luma.com/claude-and-chill-oct19",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
    "name": "Cloudflare Connect",
    "url": "https://dev.events/conferences/cloudflare-connect-p3nefsg7",
    "kind": "conference",
@@ -161,21 +117,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Devopsdays Boston",
-   "url": "https://devopsdays.org/events/2026-boston",
-   "kind": "conference",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "Boston, MA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -195,34 +136,6 @@
    "notified": true
   },
   {
-   "name": "Growth Gems & Screw-Ups",
-   "url": "https://luma.com/gzu9pr1d",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Sacramento",
-   "url": "https://luma.com/h4h-sacramento",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "Rancho Cordova",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "NANOG 98",
    "url": "https://dev.events/conferences/nanog-98-tt6xmbio",
    "kind": "conference",
@@ -232,34 +145,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Prompt to Product: A Claude Meetup for PMs (Detroit)",
-   "url": "https://luma.com/claude-stzy",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "Detroit",
-   "state": "Michigan",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Spirits Night: A Growth Leaders Happy Hour",
-   "url": "https://luma.com/sw-spirits-night",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -279,34 +164,6 @@
    "notified": true
   },
   {
-   "name": "Warm Start: An Evening at Othership (Hosted by STRV, Sponsored by RevenueCat)",
-   "url": "https://luma.com/strv-f4ju",
-   "kind": "meetup",
-   "start": "2026-10-19",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "(H)Appy Hour - NY App Week with Botsi",
-   "url": "https://luma.com/0ggiuzl4",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
    "name": "AI Collective Chicago - Fall Demo Night \ud83c\udf42",
    "url": "https://luma.com/aic-chi-20261020-demo",
    "kind": "meetup",
@@ -318,48 +175,6 @@
     "luma"
    ],
    "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Deadly Good Growth Session by Superwall",
-   "url": "https://luma.com/sw-growth-session",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Dinner for App Founders \u00b7 NY App Week",
-   "url": "https://luma.com/sw-at-app-week-1",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity PHL @ Founders Alley (w/ The AI Collective)",
-   "url": "https://luma.com/hack-for-humanity-phl",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "Philadelphia",
-   "state": "Pennsylvania",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -405,161 +220,18 @@
    "notified": true
   },
   {
-   "name": "OCUDU Ecosystem Developer Summit",
-   "url": "https://events.linuxfoundation.org/ocudu-ecosystem-developer-summit-north-america/",
+   "name": "PyTorch Conference 2026",
+   "url": "https://events.linuxfoundation.org/pytorch-conference-2026/",
    "kind": "conference",
    "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "Alexandria, VA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Pelagic x FirstLook: Grounds for Growth",
-   "url": "https://luma.com/tp9tgvf1",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Pickleball Social by Noise & RevenueCat",
-   "url": "https://luma.com/yqj0w6ql",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-19",
-   "notified": true
-  },
-  {
-   "name": "PyTorch Conference North America",
-   "url": "https://events.linuxfoundation.org/pytorch-conference-north-america/",
-   "kind": "conference",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
+   "end": "2026-10-21",
    "city": "San Jose, CA",
    "state": "",
    "sources": [
-    "dev.events",
     "developers.events"
    ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Sweat first, scale later \u2014 App Owners Workout",
-   "url": "https://luma.com/crf57vg4",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The Linux Foundation Legal Summit",
-   "url": "https://events.linuxfoundation.org/lf-legal-summit/",
-   "kind": "conference",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "San Jose, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The Pre Game Audit",
-   "url": "https://luma.com/7h2l9gyp",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "TikTok Level Up: Apps & Gaming Ads Workshop",
-   "url": "https://luma.com/ttappny",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "women in apps art cafe x the gapp",
-   "url": "https://luma.com/c5ppawzf",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Women in Apps Brunch",
-   "url": "https://luma.com/4gh0zs0j",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "\ud83e\uddd7\ud83c\udffd\u200d\u2642\ufe0fClimb the Paywall w/ App Founders (by An Nayal, RevenueCat and Braavo Capital)",
-   "url": "https://luma.com/mnc3hgpf",
-   "kind": "meetup",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
+   "first_seen": "2026-10-21",
+   "notified": false
   },
   {
    "name": "AI for Lawyers & Attorneys: A Community Discussion w/ The AI Collective",
@@ -1311,6 +983,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "HowdyHack 2026",
+   "url": "https://hh26.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "city": "College Station",
+   "state": "Texas",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
   },
   {
    "name": "Marina Hacks 6.0",
@@ -2257,6 +1943,20 @@
    "notified": true
   },
   {
+   "name": "FSB AI Build-a-thon Event 02",
+   "url": "https://fsb-ai-buildathon-02.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "city": "Oxford",
+   "state": "Ohio",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
+  },
+  {
    "name": "Humanoid Robots Summit North America 2026",
    "url": "https://acgrobotus.com/",
    "kind": "conference",
@@ -2398,6 +2098,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "AI & the Next Generation: Opportunities, Risks, and What\u2019s Ahead (w/ The AI Collective)",
+   "url": "https://luma.com/aic-tr-11-4",
+   "kind": "meetup",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "city": "Dublin",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
   },
   {
    "name": "BeyondConf 2026 \u2014 Moving Beyond the AI Hype",
@@ -2738,6 +2452,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Falcon Hacks",
+   "url": "https://falconhacks2026.com",
+   "kind": "hackathon",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "city": "Pleasanton",
+   "state": "California",
+   "sources": [
+    "hackclub"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
   },
   {
    "name": "GullHacks",
@@ -3379,6 +3107,20 @@
    "notified": true
   },
   {
+   "name": "AI Learning and Sharing (w/ The AI Collective)",
+   "url": "https://luma.com/aic-in-11-11",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "city": "Indianapolis",
+   "state": "Indiana",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
+  },
+  {
    "name": "Kubernetes & Capital SLC",
    "url": "https://luma.com/6zw7cdxq",
    "kind": "meetup",
@@ -4017,6 +3759,20 @@
    "notified": true
   },
   {
+   "name": "Haven Las Vegas",
+   "url": "https://haven-las-vegas.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
+  },
+  {
    "name": "Live! 360 Tech Con Orlando 2026",
    "url": "https://live360events.com",
    "kind": "conference",
@@ -4090,6 +3846,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Nucleate San Diego Inside Series: Cell and Gene Therapy",
+   "url": "https://luma.com/nucleate-l7m3",
+   "kind": "meetup",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-21",
+   "notified": false
   },
   {
    "name": "OpenClaw Seattle - Monthly",

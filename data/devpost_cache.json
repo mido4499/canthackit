@@ -27,13 +27,6 @@
   "state": "Massachusetts",
   "us": true
  },
- "https://aevsfr.devpost.com/": {
-  "city": "Abu Dhabi",
-  "end": "2026-10-21T06:15:00.000-04:00",
-  "start": "2026-10-21T00:30:00.000-04:00",
-  "state": "Abu Dhabi",
-  "us": false
- },
  "https://arr-hackathon-co-creation.devpost.com/": {
   "city": "Greater London",
   "end": "2026-11-06T09:00:00.000-05:00",
@@ -209,6 +202,13 @@
   "state": "Pennsylvania",
   "us": true
  },
+ "https://fsb-ai-buildathon-02.devpost.com/": {
+  "city": "Oxford",
+  "end": "2026-11-03T19:15:00.000-05:00",
+  "start": "2026-11-03T17:45:00.000-05:00",
+  "state": "Ohio",
+  "us": true
+ },
  "https://futureforge-hacks.devpost.com/": {
   "city": "Pleasanton",
   "end": "2026-11-21T22:00:00.000-05:00",
@@ -370,6 +370,13 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://haven-las-vegas.devpost.com/": {
+  "city": "Las Vegas",
+  "end": "2026-11-15T20:00:00.000-05:00",
+  "start": "2026-11-15T08:00:00.000-05:00",
+  "state": "Nevada",
+  "us": true
+ },
  "https://haven-richmond.devpost.com/": {
   "city": "Richmond",
   "end": "2026-11-15T23:45:00.000-05:00",
@@ -382,6 +389,13 @@
   "end": "2026-11-15T20:00:00.000-05:00",
   "start": "2026-11-14T12:00:00.000-05:00",
   "state": "Washington",
+  "us": true
+ },
+ "https://hh26.devpost.com/": {
+  "city": "College Station",
+  "end": "2026-10-25T13:00:00.000-04:00",
+  "start": "2026-10-24T12:30:00.000-04:00",
+  "state": "Texas",
   "us": true
  },
  "https://hook-em-hacks-2027.devpost.com/": {

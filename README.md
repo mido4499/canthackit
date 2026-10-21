@@ -26,11 +26,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**476 upcoming events**: 109 hackathons, 248 conferences and 119 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**460 upcoming events**: 113 hackathons, 243 conferences and 104 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 20, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 21, 2026.</sub>
 
-### 🆕 Just announced (62 this week)
+### 🆕 Just announced (57 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -38,12 +38,12 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Cornell Six Sigma Hackathon](https://six-sigma-hackathon.devpost.com/) | Oct 16⁠–⁠23 | Ithaca, New York | Hackathon |
 | [AI Builder Competition (Hackachusetts)](https://a-hackachusetts.devpost.com/) | Oct 24 | Lowell, Massachusetts | Hackathon |
 | [Deal Flow: NYC's First VC Hackathon @ Betaworks](https://nyc-vc-hack.devpost.com/) | Oct 24 | New York, New York | Hackathon |
+| [HowdyHack 2026](https://hh26.devpost.com/) | Oct 24⁠–⁠25 | College Station, Texas | Hackathon |
 | [Marina Hacks 6.0](https://marina-hacks-6-0.devpost.com/) | Oct 24⁠–⁠25 | Long Beach, California | Hackathon |
+| [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio | Hackathon |
 | [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida | Hackathon |
-| [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida | Hackathon |
-| [HACK.COMS](https://events.mlh.com/events/14418-hack-coms-2026) | Nov 7⁠–⁠8 | Rochester, New York | Hackathon |
+| [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California | Hackathon |
 | [Indy Init 2026](https://indy-init-2026.devpost.com/) | Nov 7 | Fishers, Indiana | Hackathon |
-| [UB Hacking](https://ubhacking.cse.buffalo.edu) | Nov 7⁠–⁠8 | Buffalo, Northeast | Hackathon |
 
 ### 🏁 Next hackathons
 
