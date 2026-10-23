@@ -26,21 +26,21 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**466 upcoming events**: 119 hackathons, 238 conferences and 109 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**463 upcoming events**: 121 hackathons, 237 conferences and 105 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 22, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 23, 2026.</sub>
 
-### 🆕 Just announced (63 this week)
+### 🆕 Just announced (57 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [SVYCA Youth for Earth (Y4E) Hackathon](https://svycay4e.devpost.com/) | Sep 20⁠–⁠Oct 23 | Stanford, California | Hackathon |
 | [Cornell Six Sigma Hackathon](https://six-sigma-hackathon.devpost.com/) | Oct 16⁠–⁠23 | Ithaca, New York | Hackathon |
-| [national renaissance hackathon at super{set}](https://national-renaissance-hackathon.devpost.com/) | Oct 22 | San Francisco, California | Hackathon |
+| [SpartHill Hacks 2026: IBM AI Challenge](https://sparthill-ibm-2026.devpost.com/) | Oct 23⁠–⁠24 | San Jose, California | Hackathon |
 | [AI Builder Competition (Hackachusetts)](https://a-hackachusetts.devpost.com/) | Oct 24 | Lowell, Massachusetts | Hackathon |
 | [CodeFest 2026 by ColorStackBU](https://codefest-2026-colorstackbu.devpost.com/) | Oct 24⁠–⁠25 | Binghamton, New York | Hackathon |
 | [HowdyHack 2026](https://hh26.devpost.com/) | Oct 24⁠–⁠25 | College Station, Texas | Hackathon |
-| [Marina Hacks 6.0](https://marina-hacks-6-0.devpost.com/) | Oct 24⁠–⁠25 | Long Beach, California | Hackathon |
+| [UXperience: Waves of Becoming](https://uxperience-waves-of-becoming.devpost.com/) | Oct 24⁠–⁠25 | Richardson, Texas | Hackathon |
 | [Zero Human Company Hackathon at Whop HQ by Terac](https://zhch-nyc.devpost.com/) | Oct 24 | Brooklyn, New York | Hackathon |
 | [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California | Hackathon |
 | [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio | Hackathon |
@@ -49,12 +49,12 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 | Event | When | Where |
 |---|---|---|
-| [national renaissance hackathon at super{set}](https://national-renaissance-hackathon.devpost.com/) | Oct 22 | San Francisco, California |
 | [2026 AI for Good Hackathon](https://2026ai4goodhackathon.devpost.com/) | Oct 23⁠–⁠25 | Ponte Vedra Beach, Florida |
 | [Cal Hacks 13.0](https://calhacks.io/) | Oct 23⁠–⁠25 | San Francisco, California |
 | [GeauxHack 2026](https://geauxhack-2026.devpost.com/) | Oct 23⁠–⁠25 | Baton Rouge, Louisiana |
 | [HarborHack 2026 - Agent In The Loop](https://harborhack-2026.devpost.com/) | Oct 23⁠–⁠25 | Charleston, South Carolina |
 | [SBUHacks](https://hack.sbcs.io/) | Oct 23⁠–⁠25 | Stony Brook, New York |
+| [SpartHill Hacks 2026: IBM AI Challenge](https://sparthill-ibm-2026.devpost.com/) | Oct 23⁠–⁠24 | San Jose, California |
 | [AI Builder Competition (Hackachusetts)](https://a-hackachusetts.devpost.com/) | Oct 24 | Lowell, Massachusetts |
 | [Action Space](https://action-space-hacks.devpost.com/) | Oct 24⁠–⁠25 | Cambridge, Massachusetts |
 | [CodeFest 2026 by ColorStackBU](https://codefest-2026-colorstackbu.devpost.com/) | Oct 24⁠–⁠25 | Binghamton, New York |
