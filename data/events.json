@@ -24,20 +24,6 @@
    "notified": true
   },
   {
-   "name": "SVYCA Youth for Earth (Y4E) Hackathon",
-   "url": "https://svycay4e.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-09-20",
-   "end": "2026-10-23",
-   "city": "Stanford",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-19",
-   "notified": true
-  },
-  {
    "name": "2026-2027 Fall ESE Senior Design",
    "url": "https://ese4500f26.devpost.com/",
    "kind": "hackathon",
@@ -94,162 +80,6 @@
    "notified": true
   },
   {
-   "name": "Cornell Six Sigma Hackathon",
-   "url": "https://six-sigma-hackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-16",
-   "end": "2026-10-23",
-   "city": "Ithaca",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
-   "name": "A/B or Not to Be",
-   "url": "https://luma.com/v63nd8d9",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "AGNTCon + MCPCon",
-   "url": "https://dev.events/conferences/agnt-con-mcp-con-hz-cwjhq",
-   "kind": "conference",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "San Jose",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "App Leaders Party New York",
-   "url": "https://luma.com/app-leaders-party-nyc",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Apple Ads Masterclass: Maximum ROI, End to End",
-   "url": "https://luma.com/06hgn26s",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Appstore Connect - NYC",
-   "url": "https://luma.com/gjw3js1t",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "Brooklyn",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Cafe Compute Meetup: Austin",
-   "url": "https://luma.com/cafecomputeaustin",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Great Lakes Software Symposium",
-   "url": "https://nofluffjuststuff.com/chicago",
-   "kind": "conference",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "Chicago, IL",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Replit NYC Meet & Greet: New York App Week",
-   "url": "https://luma.com/vocw4are",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Sandy Springs AI Meetup (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-10-22",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "Sandy Springs",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "Women Shaping AI - From Conversation to Creation",
-   "url": "https://luma.com/e14x3s9a",
-   "kind": "meetup",
-   "start": "2026-10-22",
-   "end": "2026-10-23",
-   "city": "Lehi",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
    "name": "2026 AI for Good Hackathon",
    "url": "https://2026ai4goodhackathon.devpost.com/",
    "kind": "hackathon",
@@ -275,20 +105,6 @@
     "luma"
    ],
    "first_seen": "2026-10-17",
-   "notified": true
-  },
-  {
-   "name": "Boos in Biotech Happy Hour",
-   "url": "https://luma.com/s8gi4oqd",
-   "kind": "meetup",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "city": "San Carlos",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -378,20 +194,6 @@
    "notified": true
   },
   {
-   "name": "Multimodal Engineering Night - SF Community Meetup",
-   "url": "https://luma.com/a8sc4fa8",
-   "kind": "meetup",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
    "name": "SBUHacks",
    "url": "https://hack.sbcs.io/",
    "kind": "hackathon",
@@ -478,6 +280,20 @@
    "notified": true
   },
   {
+   "name": "Agent Builders Hackathon",
+   "url": "https://agent-builders-hackathon.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "AI Builder Competition (Hackachusetts)",
    "url": "https://a-hackachusetts.devpost.com/",
    "kind": "hackathon",
@@ -532,6 +348,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Cleantech Hackathon",
+   "url": "https://stanford-cleantech-hackathon.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "city": "Stanford",
+   "state": "California",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -732,6 +562,20 @@
    "notified": true
   },
   {
+   "name": "ISC2 Security Congress 2026",
+   "url": "https://www.isc2.org/congress",
+   "kind": "conference",
+   "start": "2026-10-24",
+   "end": "2026-10-28",
+   "city": "Aurora, CO",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "Marina Hacks 6.0",
    "url": "https://marina-hacks-6-0.devpost.com/",
    "kind": "hackathon",
@@ -843,6 +687,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "UF GDG DevFest 2026",
+   "url": "https://ufgdg-devfest-2026.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "city": "Gainesville",
+   "state": "Florida",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -980,7 +838,8 @@
    "city": "San Francisco",
    "state": "",
    "sources": [
-    "dev.events"
+    "dev.events",
+    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -1159,6 +1018,20 @@
    "notified": true
   },
   {
+   "name": "ODSC AI West 2026",
+   "url": "https://odsc.ai/west/",
+   "kind": "conference",
+   "start": "2026-10-27",
+   "end": "2026-10-29",
+   "city": "Burlingame, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "Office Hours (w/ The AI Collective)",
    "url": "https://luma.com/tol-office-hours-10-27-26",
    "kind": "meetup",
@@ -1229,6 +1102,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "unprompted | The AI Security Practitioner Conference (October 2026)",
+   "url": "https://unpromptedcon.org/",
+   "kind": "conference",
+   "start": "2026-10-27",
+   "end": "2026-10-29",
+   "city": "San Francisco, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -1359,6 +1246,20 @@
    "notified": true
   },
   {
+   "name": "Women in Statistics and Data Science Conference 2026",
+   "url": "https://ww2.amstat.org/meetings/wsds/2026/",
+   "kind": "conference",
+   "start": "2026-10-28",
+   "end": "2026-10-30",
+   "city": "Cincinnati, OH",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "#LATechWeek AI Collective Pitch Night (w/ The AI Collective)",
    "url": "https://luma.com/aic-la-og-pitch-night",
    "kind": "meetup",
@@ -1370,6 +1271,20 @@
     "luma"
    ],
    "first_seen": "2026-10-13",
+   "notified": true
+  },
+  {
+   "name": "Agentic AI Summit Boston",
+   "url": "https://world.aiacceleratorinstitute.com/location/agenticaiboston",
+   "kind": "conference",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "city": "Boston, MA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -1614,6 +1529,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Applied AI 2026 Fall Conference",
+   "url": "https://appliedaiconf.com/",
+   "kind": "conference",
+   "start": "2026-11-02",
+   "end": "2026-11-02",
+   "city": "Saint Paul, MN",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -2527,6 +2456,20 @@
    "notified": true
   },
   {
+   "name": "7th Annual National HBCU Blockchain, FinTech & AI Conference",
+   "url": "https://fintech.morgan.edu/conference-2026/",
+   "kind": "conference",
+   "start": "2026-11-08",
+   "end": "2026-11-10",
+   "city": "Nashville, TN",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "Maintainer Summit: KubeCon + CloudNativeCon North America 2026",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/maintainer-summit/",
    "kind": "conference",
@@ -3431,6 +3374,20 @@
    "notified": true
   },
   {
+   "name": "International Conference on the Social Impact of AI (SIAI 2026)",
+   "url": "https://www.siai.co/",
+   "kind": "conference",
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "city": "Boston, MA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "NASA's Space Apps Challenge NYC",
    "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/",
    "kind": "hackathon",
@@ -3653,9 +3610,24 @@
    "city": "La Jolla",
    "state": "CA",
    "sources": [
+    "devpost",
     "mlh"
    ],
    "first_seen": "2026-10-18",
+   "notified": true
+  },
+  {
+   "name": "System Public Challenge",
+   "url": "https://system-public-challenge.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -3803,6 +3775,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Lenny\u2019s Newsletter Meetup in Asheville (with free drinks courtesy of PostHog)",
+   "url": "https://luma.com/hfacupa8",
+   "kind": "meetup",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "city": "Asheville",
+   "state": "North Carolina",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -4075,6 +4061,20 @@
    "notified": true
   },
   {
+   "name": "AI Dev NYC 2026",
+   "url": "https://ai-dev.deeplearning.ai/",
+   "kind": "conference",
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "city": "New York, NY",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "APIConf",
    "url": "https://apiconf.io",
    "kind": "conference",
@@ -4260,6 +4260,20 @@
    "notified": true
   },
   {
+   "name": "ODSC AI NYC 2026: AI for Work Summit",
+   "url": "https://summit.ai/",
+   "kind": "conference",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "New York, NY",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "SaaSNova Networking Dinner \u00b7 Las Vegas 2026",
    "url": "https://luma.com/ezge7r14",
    "kind": "meetup",
@@ -4433,6 +4447,20 @@
    "notified": true
   },
   {
+   "name": "Mango Hacks",
+   "url": "https://mangohacks.ecily.org",
+   "kind": "hackathon",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "city": "Pleasanton",
+   "state": "California",
+   "sources": [
+    "hackclub"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
    "name": "DistrictCon",
    "url": "https://www.districtcon.org/",
    "kind": "conference",
@@ -4504,6 +4532,34 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "AI Infra Summit 6",
+   "url": "https://aiinfra.live/",
+   "kind": "conference",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "city": "San Francisco, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "The AI Summit New York 2026",
+   "url": "https://newyork.theaisummit.com/",
+   "kind": "conference",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "city": "New York, NY",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -5357,6 +5413,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Software Quality Summit Austin",
+   "url": "https://www.testingmind.com/event/software-quality-summit-austin/",
+   "kind": "conference",
+   "start": "2027-03-03",
+   "end": "2027-03-03",
+   "city": "Austin, TX",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-24",
    "notified": true
   },
   {
