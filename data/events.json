@@ -52,20 +52,6 @@
    "notified": true
   },
   {
-   "name": "Black Code Collective Hacktoberfest",
-   "url": "https://bcc-hacktoberfest.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-12",
-   "end": "2026-10-24",
-   "city": "Washington",
-   "state": "District of Columbia",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
    "name": "RenderJuice Blender Animation & Programmatic Rendering Contest",
    "url": "https://programmatic-rendering-contest.devpost.com/",
    "kind": "hackathon",
@@ -94,34 +80,6 @@
    "notified": true
   },
   {
-   "name": "AI Collective & Suneet Bhatt Presents: Making Sense of Purpose",
-   "url": "https://luma.com/aic-ny-10-23",
-   "kind": "meetup",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-17",
-   "notified": true
-  },
-  {
-   "name": "BSidesPDX 2026",
-   "url": "https://bsidespdx.org/",
-   "kind": "conference",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "Portland, OR",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-13",
-   "notified": true
-  },
-  {
    "name": "Cal Hacks 13.0",
    "url": "https://calhacks.io/",
    "kind": "hackathon",
@@ -132,20 +90,6 @@
    "sources": [
     "devpost",
     "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community: Utah",
-   "url": "https://luma.com/locwxkvk",
-   "kind": "meetup",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "Lehi",
-   "state": "Utah",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -209,63 +153,6 @@
    "notified": true
   },
   {
-   "name": "SeaGL 2026",
-   "url": "https://dev.events/conferences/sea-gl-2026-pvflsook",
-   "kind": "conference",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "Seattle",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SpartHill Hacks 2026: IBM AI Challenge",
-   "url": "https://sparthill-ibm-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "San Jose",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-23",
-   "notified": true
-  },
-  {
-   "name": "The AI Era & What It Means To Be Human (w/ The AI Collective)",
-   "url": "https://luma.com/19sc1btx",
-   "kind": "meetup",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "The BiG Thinkers",
-   "url": "https://dev.events/conferences/the-bi-g-thinkers-umfjqaym",
-   "kind": "conference",
-   "start": "2026-10-23",
-   "end": "2026-10-24",
-   "city": "Disney Springs",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Action Space",
    "url": "https://action-space-hacks.devpost.com/",
    "kind": "hackathon",
@@ -280,91 +167,6 @@
    "notified": true
   },
   {
-   "name": "Agent Builders Hackathon",
-   "url": "https://agent-builders-hackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
-   "name": "AI Builder Competition (Hackachusetts)",
-   "url": "https://a-hackachusetts.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Lowell",
-   "state": "Massachusetts",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
-   "name": "Atlanta Developers' Conference 2026",
-   "url": "https://www.atldevcon.com/",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Alpharetta, GA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "BSides Colorado Springs 2026",
-   "url": "https://www.bsidescos.org/",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Colorado Springs, CO",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "BSides Peoria 2026",
-   "url": "https://dev.events/conferences/b-sides-peoria-2026-p75-oxgx",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Preoria",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Cleantech Hackathon",
-   "url": "https://stanford-cleantech-hackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Stanford",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
    "name": "CodeFest 2026 by ColorStackBU",
    "url": "https://codefest-2026-colorstackbu.devpost.com/",
    "kind": "hackathon",
@@ -376,35 +178,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Day of Data St. Louis",
-   "url": "https://dayofdata.org/2026-10-24-dayofdata1148/",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Saint-Louis, MI",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Deal Flow: NYC's First VC Hackathon @ Betaworks",
-   "url": "https://nyc-vc-hack.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-15",
    "notified": true
   },
   {
@@ -436,20 +209,6 @@
    "notified": true
   },
   {
-   "name": "Gear Up Hacks 2026",
-   "url": "https://gear-up-hacks-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Durham",
-   "state": "North Carolina",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Hack at Penn State",
    "url": "https://hackpsu.org",
    "kind": "hackathon",
@@ -459,34 +218,6 @@
    "state": "PA",
    "sources": [
     "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Detroit",
-   "url": "https://luma.com/detroith4h",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Detroit",
-   "state": "Michigan",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Fredericksburg, Virginia",
-   "url": "https://luma.com/h4h-fredericksburg",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Fredericksburg",
-   "state": "Virginia",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -504,6 +235,20 @@
    ],
    "first_seen": "2026-10-11",
    "notified": true
+  },
+  {
+   "name": "Hack for Social Impact SF 2026",
+   "url": "https://hack-for-social-impact-sf-2026.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-25",
+   "notified": false
   },
   {
    "name": "HackOHI/O 2026",
@@ -590,20 +335,6 @@
    "notified": true
   },
   {
-   "name": "Miami | Claude Workshop: Find your Next Role with AI",
-   "url": "https://luma.com/claude-mbqa",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Miami",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
    "name": "Nucleate Arizona BioChallenge",
    "url": "https://luma.com/jyc61gvh",
    "kind": "meetup",
@@ -615,92 +346,6 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Orange County | Claude for Cybersecurity",
-   "url": "https://luma.com/claude-oc-cyber",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Newport Beach",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "PyBeach 2026",
-   "url": "https://pretalx.com/pybeach2026/",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Santa Monica, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "Sierra Hacks 2026",
-   "url": "https://sierra-hacks-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Manteca",
-   "state": "California",
-   "sources": [
-    "devpost",
-    "hackclub"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SQLSaturday - Minnesota 2026",
-   "url": "https://sqlsaturday.com/2026-10-24-sqlsaturday1153/",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Saint Paul, MN",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Turn AI into Business Results - A Practical Prompt Workshop (w/ The AI Collective ATL)",
-   "url": "https://luma.com/aic-at-10-24",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Atlanta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UF GDG DevFest 2026",
-   "url": "https://ufgdg-devfest-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Gainesville",
-   "state": "Florida",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-24",
    "notified": true
   },
   {
@@ -729,20 +374,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-23",
-   "notified": true
-  },
-  {
-   "name": "Zero Human Company Hackathon at Whop HQ by Terac",
-   "url": "https://zhch-nyc.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "city": "Brooklyn",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-22",
    "notified": true
   },
   {
@@ -1830,6 +1461,20 @@
    ],
    "first_seen": "2026-10-21",
    "notified": true
+  },
+  {
+   "name": "ATL Build League",
+   "url": "https://luma.com/aic-at-11-5-a",
+   "kind": "meetup",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "city": "Sandy Springs",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-25",
+   "notified": false
   },
   {
    "name": "Beyond the Chat Window (w/ The AI Collective)",
@@ -3646,6 +3291,20 @@
    "notified": true
   },
   {
+   "name": "The Next Frontier 2026: A Space Innovation Hackathon",
+   "url": "https://aichr-space.devpost.com/",
+   "kind": "hackathon",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "city": "Virginia Beach",
+   "state": "Virginia",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-25",
+   "notified": false
+  },
+  {
    "name": "CyberMarketingCon & CyberCEO Summit 2026",
    "url": "https://cybermarketingconference.com/",
    "kind": "conference",
@@ -4132,6 +3791,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Stripe Day Party @ re:Invent",
+   "url": "https://luma.com/smd6cz24",
+   "kind": "meetup",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-25",
+   "notified": false
   },
   {
    "name": "Executive Mastermind Dinner",

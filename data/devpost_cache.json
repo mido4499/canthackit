@@ -6,13 +6,6 @@
   "state": "Florida",
   "us": true
  },
- "https://a-hackachusetts.devpost.com/": {
-  "city": "Lowell",
-  "end": "2026-10-24T20:00:00.000-04:00",
-  "start": "2026-10-24T09:00:00.000-04:00",
-  "state": "Massachusetts",
-  "us": true
- },
  "https://a10-x-aws-hack-26.devpost.com/": {
   "city": "Santa Clara",
   "end": "2026-11-08T12:00:00.000-05:00",
@@ -27,11 +20,11 @@
   "state": "Massachusetts",
   "us": true
  },
- "https://agent-builders-hackathon.devpost.com/": {
-  "city": "San Francisco",
-  "end": "2026-10-24T20:30:00.000-04:00",
-  "start": "2026-10-24T13:00:00.000-04:00",
-  "state": "California",
+ "https://aichr-space.devpost.com/": {
+  "city": "Virginia Beach",
+  "end": "2026-11-15T23:45:00.000-05:00",
+  "start": "2026-11-14T00:00:00.000-05:00",
+  "state": "Virginia",
   "us": true
  },
  "https://arr-hackathon-co-creation.devpost.com/": {
@@ -69,6 +62,13 @@
   "state": "Tamil Nadu",
   "us": false
  },
+ "https://blackstart-data-centers.devpost.com/": {
+  "city": "Toronto",
+  "end": "2026-10-30T15:30:00.000-04:00",
+  "start": "2026-10-30T14:00:00.000-04:00",
+  "state": "Ontario",
+  "us": false
+ },
  "https://build-north.devpost.com/": {
   "city": "Toronto",
   "end": "2026-10-26T00:00:00.000-04:00",
@@ -90,26 +90,12 @@
   "state": "California",
   "us": true
  },
- "https://cal-hacks-13-0.devpost.com/": {
-  "city": "San Francisco",
-  "end": "2026-10-25T13:00:00.000-04:00",
-  "start": "2026-10-23T21:00:00.000-04:00",
-  "state": "California",
-  "us": true
- },
  "https://central-hacks.devpost.com/": {
   "city": "Mount Pleasant",
   "end": "2026-11-15T12:00:00.000-05:00",
   "start": "2026-11-14T12:00:00.000-05:00",
   "state": "Michigan",
   "us": true
- },
- "https://claudetec-hack26.devpost.com/": {
-  "city": "Monterrey",
-  "end": "2026-10-24T21:00:00.000-04:00",
-  "start": "2026-10-24T12:00:00.000-04:00",
-  "state": "Nuevo Le\u00f3n",
-  "us": false
  },
  "https://code-clash.devpost.com/": {
   "city": "Towson",
@@ -188,13 +174,6 @@
   "state": "Manitoba",
   "us": false
  },
- "https://ds-x-hackathon-2026.devpost.com/": {
-  "city": "Boston",
-  "end": "2026-10-25T10:00:00.000-04:00",
-  "start": "2026-10-24T09:00:00.000-04:00",
-  "state": "Massachusetts",
-  "us": true
- },
  "https://engage6.devpost.com/": {
   "city": "Gurugram",
   "end": "2026-10-27T08:30:00.000-04:00",
@@ -229,13 +208,6 @@
   "start": "2026-10-23T17:00:00.000-04:00",
   "state": "",
   "us": false
- },
- "https://gear-up-hacks-2026.devpost.com/": {
-  "city": "Durham",
-  "end": "2026-10-24T18:30:00.000-04:00",
-  "start": "2026-10-24T09:00:00.000-04:00",
-  "state": "North Carolina",
-  "us": true
  },
  "https://geauxhack-2026.devpost.com/": {
   "city": "Baton Rouge",
@@ -279,6 +251,13 @@
   "state": "Alberta",
   "us": false
  },
+ "https://hack-for-social-impact-sf-2026.devpost.com/": {
+  "city": "San Francisco",
+  "end": "2026-10-25T18:00:00.000-04:00",
+  "start": "2026-10-24T16:45:00.000-04:00",
+  "state": "California",
+  "us": true
+ },
  "https://hack-peel.devpost.com/": {
   "city": "Mississauga",
   "end": "2026-12-13T16:00:00.000-05:00",
@@ -319,13 +298,6 @@
   "end": "2026-10-30T12:00:00.000-04:00",
   "start": "2026-10-01T07:00:00.000-04:00",
   "state": "Texas",
-  "us": true
- },
- "https://hackohio2026.devpost.com/": {
-  "city": "Columbus",
-  "end": "2026-10-25T10:00:00.000-04:00",
-  "start": "2026-10-24T10:00:00.000-04:00",
-  "state": "Ohio",
   "us": true
  },
  "https://hackperimeter.devpost.com/": {
@@ -468,13 +440,6 @@
   "state": "Ontario",
   "us": false
  },
- "https://leeds-ai-hackathon.devpost.com/": {
-  "city": "Woodhouse",
-  "end": "2026-10-25T07:30:00.000-04:00",
-  "start": "2026-10-24T05:30:00.000-04:00",
-  "state": "England",
-  "us": false
- },
  "https://loohacks.devpost.com/": {
   "city": "Waterloo",
   "end": "2026-11-29T15:00:00.000-05:00",
@@ -531,13 +496,6 @@
   "state": "",
   "us": false
  },
- "https://nyc-vc-hack.devpost.com/": {
-  "city": "New York",
-  "end": "2026-10-24T17:30:00.000-04:00",
-  "start": "2026-10-24T11:00:00.000-04:00",
-  "state": "New York",
-  "us": true
- },
  "https://ocsefhacks3.devpost.com/": {
   "city": "Westminster",
   "end": "2026-11-15T18:00:00.000-05:00",
@@ -550,13 +508,6 @@
   "end": "2026-11-21T20:45:00.000-05:00",
   "start": "2026-11-21T07:30:00.000-05:00",
   "state": "Ontario",
-  "us": false
- },
- "https://oxhack-2026.devpost.com/": {
-  "city": "Oxfordshire",
-  "end": "2026-10-25T12:00:00.000-04:00",
-  "start": "2026-10-24T12:00:00.000-04:00",
-  "state": "England",
   "us": false
  },
  "https://powerhack.devpost.com/": {
@@ -587,6 +538,13 @@
   "state": "Ohio",
   "us": true
  },
+ "https://replit-ug-hackathon.devpost.com/": {
+  "city": "Accra",
+  "end": "2026-10-25T19:45:00.000-04:00",
+  "start": "2026-10-24T06:00:00.000-04:00",
+  "state": "Greater Accra Region",
+  "us": false
+ },
  "https://revolution-mty2026.devpost.com/": {
   "city": "Monterrey",
   "end": "2026-12-06T17:00:00.000-05:00",
@@ -599,13 +557,6 @@
   "end": "2026-11-15T16:00:00.000-05:00",
   "start": "2026-11-14T12:00:00.000-05:00",
   "state": "California",
-  "us": true
- },
- "https://sbuhacks-2026.devpost.com/": {
-  "city": "Stony Brook",
-  "end": "2026-10-25T09:00:00.000-04:00",
-  "start": "2026-10-23T20:30:00.000-04:00",
-  "state": "New York",
   "us": true
  },
  "https://sc-quantathon-v4.devpost.com/": {
@@ -636,13 +587,6 @@
   "state": "California",
   "us": true
  },
- "https://sierra-hacks-2026.devpost.com/": {
-  "city": "Manteca",
-  "end": "2026-10-24T20:00:00.000-04:00",
-  "start": "2026-10-24T11:00:00.000-04:00",
-  "state": "California",
-  "us": true
- },
  "https://sinceai2026.devpost.com/": {
   "city": "Turku",
   "end": "2026-11-08T03:00:00.000-05:00",
@@ -657,26 +601,12 @@
   "state": "Michigan",
   "us": true
  },
- "https://sparthill-ibm-2026.devpost.com/": {
-  "city": "San Jose",
-  "end": "2026-10-24T13:00:00.000-04:00",
-  "start": "2026-10-23T16:30:00.000-04:00",
-  "state": "California",
-  "us": true
- },
  "https://sphinx-26.devpost.com/": {
   "city": "Jaipur",
   "end": "2026-10-31T05:00:00.000-04:00",
   "start": "2026-10-14T07:30:00.000-04:00",
   "state": "Rajasthan",
   "us": false
- },
- "https://stanford-cleantech-hackathon.devpost.com/": {
-  "city": "Stanford",
-  "end": "2026-10-24T20:00:00.000-04:00",
-  "start": "2026-10-24T11:15:00.000-04:00",
-  "state": "California",
-  "us": true
  },
  "https://stupideas-ottawa-f26.devpost.com/": {
   "city": "Ottawa",
@@ -698,13 +628,6 @@
   "start": "2027-05-08T11:00:00.000-04:00",
   "state": "Washington",
   "us": true
- },
- "https://sydney-mobile-ai-hackathon.devpost.com/": {
-  "city": "Sydney",
-  "end": "2026-10-24T23:00:00.000-04:00",
-  "start": "2026-10-23T19:30:00.000-04:00",
-  "state": "New South Wales",
-  "us": false
  },
  "https://system-public-challenge.devpost.com/": {
   "city": "New York",
@@ -741,26 +664,12 @@
   "state": "Texas",
   "us": true
  },
- "https://ufgdg-devfest-2026.devpost.com/": {
-  "city": "Gainesville",
-  "end": "2026-10-24T22:15:00.000-04:00",
-  "start": "2026-10-24T10:00:00.000-04:00",
-  "state": "Florida",
-  "us": true
- },
  "https://ugahacks-cadathon.devpost.com/": {
   "city": "Athens",
   "end": "2026-10-25T16:00:00.000-04:00",
   "start": "2026-10-24T00:00:00.000-04:00",
   "state": "Georgia",
   "us": true
- },
- "https://uxperience-f26.devpost.com/": {
-  "city": "Stratford",
-  "end": "2026-10-24T17:00:00.000-04:00",
-  "start": "2026-10-19T00:00:00.000-04:00",
-  "state": "Ontario",
-  "us": false
  },
  "https://uxperience-waves-of-becoming.devpost.com/": {
   "city": "Richardson",
@@ -789,13 +698,6 @@
   "start": "2027-09-09T00:00:00.000-04:00",
   "state": "British Columbia",
   "us": false
- },
- "https://zhch-nyc.devpost.com/": {
-  "city": "Brooklyn",
-  "end": "2026-10-24T17:00:00.000-04:00",
-  "start": "2026-10-24T00:00:00.000-04:00",
-  "state": "New York",
-  "us": true
  },
  "https://zoftware-agenthack.devpost.com/": {
   "city": "Gurugram",
