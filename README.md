@@ -26,30 +26,29 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**445 upcoming events**: 116 hackathons, 239 conferences and 90 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**428 upcoming events**: 99 hackathons, 238 conferences and 91 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 25, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 26, 2026.</sub>
 
-### 🆕 Just announced (60 this week)
+### 🆕 Just announced (56 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [CodeFest 2026 by ColorStackBU](https://codefest-2026-colorstackbu.devpost.com/) | Oct 24⁠–⁠25 | Binghamton, New York | Hackathon |
-| [Hack for Social Impact SF 2026](https://hack-for-social-impact-sf-2026.devpost.com/) | Oct 24⁠–⁠25 | San Francisco, California | Hackathon |
-| [HowdyHack 2026](https://hh26.devpost.com/) | Oct 24⁠–⁠25 | College Station, Texas | Hackathon |
-| [UXperience: Waves of Becoming](https://uxperience-waves-of-becoming.devpost.com/) | Oct 24⁠–⁠25 | Richardson, Texas | Hackathon |
 | [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California | Hackathon |
 | [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio | Hackathon |
 | [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California | Hackathon |
 | [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California | Hackathon |
-| [Indy Init 2026](https://indy-init-2026.devpost.com/) | Nov 7 | Fishers, Indiana | Hackathon |
 | [Win $10K at the Cloud Native Hackathon with Kelsey Hightower](https://luma.com/cnh) | Nov 9⁠–⁠10 | Salt Lake City, Utah | Hackathon |
+| [System Public Challenge](https://system-public-challenge.devpost.com/) | Nov 14 | New York, New York | Hackathon |
+| [The Next Frontier 2026: A Space Innovation Hackathon](https://aichr-space.devpost.com/) | Nov 14⁠–⁠15 | Virginia Beach, Virginia | Hackathon |
+| [Haven Las Vegas](https://haven-las-vegas.devpost.com/) | Nov 15 | Las Vegas, Nevada | Hackathon |
+| [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California | Hackathon |
+| [Catalyst Hack Day](https://catalyst-hack-day.devpost.com/) | Feb 6 | Needham, Massachusetts | Hackathon |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Seattle \| AI Week Claude Impact Lab Hackathon](https://luma.com/claude-impact) | Oct 25⁠–⁠26 | Seattle, Washington |
 | [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California |
 | [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio |
 | [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California |
@@ -59,6 +58,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [PowerHack](https://powerhack.devpost.com/) | Nov 6 | The Bronx, New York |
 | [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL |
 | [YCP Hacks](https://ycphacks.io/) | Nov 6⁠–⁠8 | York PA, PA |
+| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

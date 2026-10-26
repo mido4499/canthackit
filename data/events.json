@@ -66,247 +66,6 @@
    "notified": true
   },
   {
-   "name": "2026 AI for Good Hackathon",
-   "url": "https://2026ai4goodhackathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "Ponte Vedra Beach",
-   "state": "Florida",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Cal Hacks 13.0",
-   "url": "https://calhacks.io/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost",
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevFest Troy, NY 2026",
-   "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
-   "kind": "conference",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "Troy, NY",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "GeauxHack 2026",
-   "url": "https://geauxhack-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "Baton Rouge",
-   "state": "Louisiana",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "HarborHack 2026 - Agent In The Loop",
-   "url": "https://harborhack-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "Charleston",
-   "state": "South Carolina",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SBUHacks",
-   "url": "https://hack.sbcs.io/",
-   "kind": "hackathon",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "city": "Stony Brook",
-   "state": "New York",
-   "sources": [
-    "devpost",
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Action Space",
-   "url": "https://action-space-hacks.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Cambridge",
-   "state": "Massachusetts",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "CodeFest 2026 by ColorStackBU",
-   "url": "https://codefest-2026-colorstackbu.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Binghamton",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "DS+X Hackathon 2026",
-   "url": "https://ds-x-hackathon-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Boston",
-   "state": "Massachusetts",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
-   "name": "DuQuantum",
-   "url": "https://duquantum.org/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Durham",
-   "state": "NC",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Hack at Penn State",
-   "url": "https://hackpsu.org",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "University Park",
-   "state": "PA",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Portland, Oregon",
-   "url": "https://luma.com/h4h-pdx",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Portland",
-   "state": "Oregon",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-11",
-   "notified": true
-  },
-  {
-   "name": "Hack for Social Impact SF 2026",
-   "url": "https://hack-for-social-impact-sf-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-25",
-   "notified": false
-  },
-  {
-   "name": "HackOHI/O 2026",
-   "url": "https://hackohio2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Columbus",
-   "state": "Ohio",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "HackPSU Fall 2026",
-   "url": "https://hackpsu-fall-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "State College",
-   "state": "Pennsylvania",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "HackTX 26",
-   "url": "https://hacktx.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Austin",
-   "state": "TX",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "HowdyHack 2026",
-   "url": "https://hh26.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "College Station",
-   "state": "Texas",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
    "name": "ISC2 Security Congress 2026",
    "url": "https://www.isc2.org/congress",
    "kind": "conference",
@@ -318,62 +77,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
-   "name": "Marina Hacks 6.0",
-   "url": "https://marina-hacks-6-0.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Long Beach",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Arizona BioChallenge",
-   "url": "https://luma.com/jyc61gvh",
-   "kind": "meetup",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Tempe",
-   "state": "Arizona",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UGAHacks CADathon",
-   "url": "https://ugahacks-cadathon.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Athens",
-   "state": "Georgia",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UXperience: Waves of Becoming",
-   "url": "https://uxperience-waves-of-becoming.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "city": "Richardson",
-   "state": "Texas",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-23",
    "notified": true
   },
   {
@@ -1116,6 +819,20 @@
    ],
    "first_seen": "2026-10-22",
    "notified": true
+  },
+  {
+   "name": "AI & Humans | The Conscious Future",
+   "url": "https://luma.com/aic-bos-humans",
+   "kind": "meetup",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "city": "Cambridge",
+   "state": "Massachusetts",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-26",
+   "notified": false
   },
   {
    "name": "AI Day at FGCU: Southwest Florida AI Expo Day Hosted by FGCU (w/ The AI Collective)",
@@ -2750,6 +2467,20 @@
    "notified": true
   },
   {
+   "name": "Boston OpenClaw Meetup [November 2026]",
+   "url": "https://luma.com/isp0bcdq",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "city": "Boston",
+   "state": "Massachusetts",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-26",
+   "notified": false
+  },
+  {
    "name": "ExMex 2026",
    "url": "https://dev.events/conferences/ex-mex-2026-eve8e8q1",
    "kind": "conference",
@@ -3549,6 +3280,20 @@
    ],
    "first_seen": "2026-10-16",
    "notified": true
+  },
+  {
+   "name": "Vibin' Out with Hartford AI Collective (w/ The AI Collective) (w/ The AI Collective)",
+   "url": "https://luma.com/aic-ha-11-19",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "West Hartford",
+   "state": "Connecticut",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-26",
+   "notified": false
   },
   {
    "name": "Snowglobe",
@@ -4618,6 +4363,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Catalyst Hack Day",
+   "url": "https://catalyst-hack-day.devpost.com/",
+   "kind": "hackathon",
+   "start": "2027-02-06",
+   "end": "2027-02-06",
+   "city": "Needham",
+   "state": "Massachusetts",
+   "sources": [
+    "devpost"
+   ],
+   "first_seen": "2026-10-26",
+   "notified": false
   },
   {
    "name": "DistrictCon Year 2",
