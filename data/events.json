@@ -108,20 +108,6 @@
    "notified": true
   },
   {
-   "name": "Seattle | AI Week Claude Impact Lab Hackathon",
-   "url": "https://luma.com/claude-impact",
-   "kind": "hackathon",
-   "start": "2026-10-25",
-   "end": "2026-10-26",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "SuiteWorld 2026 | Las Vegas",
    "url": "https://dev.events/conferences/suite-world-2026-las-vegas-o6xqwv2p",
    "kind": "conference",
@@ -136,20 +122,6 @@
    "notified": true
   },
   {
-   "name": "AI + Coffee in Cumming (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-10-26",
-   "kind": "meetup",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "city": "Cumming",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
    "name": "AI Open Mic and Networking (w/ The AI Collective)",
    "url": "https://luma.com/aic-cl-10-26",
    "kind": "meetup",
@@ -161,21 +133,6 @@
     "luma"
    ],
    "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
-   "name": "Builder's Day 2026 by Prisma",
-   "url": "https://dev.events/conferences/builder-s-day-2026-by-prisma-khspnjov",
-   "kind": "conference",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "city": "San Francisco",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -266,21 +223,6 @@
    "notified": true
   },
   {
-   "name": "SAINTCON Training 2026",
-   "url": "https://saintcon.org",
-   "kind": "conference",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "city": "Provo, UT",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Vibe Coding Con",
    "url": "http://Vibecodingcon.ai",
    "kind": "conference",
@@ -293,20 +235,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Who's Watching the AI? Insurance, Regulation & Hartford's Next Chapter (w/ The AI Collective)",
-   "url": "https://luma.com/aic-ha-10-26",
-   "kind": "meetup",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "city": "Hartford",
-   "state": "Connecticut",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
    "notified": true
   },
   {
@@ -832,7 +760,7 @@
     "luma"
    ],
    "first_seen": "2026-10-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AI Day at FGCU: Southwest Florida AI Expo Day Hosted by FGCU (w/ The AI Collective)",
@@ -992,6 +920,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Vibe Night in Sandy Springs (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-11-2",
+   "kind": "meetup",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "city": "Sandy Springs",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-27",
    "notified": true
   },
   {
@@ -1191,7 +1133,7 @@
     "luma"
    ],
    "first_seen": "2026-10-25",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Beyond the Chat Window (w/ The AI Collective)",
@@ -2478,7 +2420,7 @@
     "luma"
    ],
    "first_seen": "2026-10-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "ExMex 2026",
@@ -3033,7 +2975,7 @@
     "devpost"
    ],
    "first_seen": "2026-10-25",
-   "notified": false
+   "notified": true
   },
   {
    "name": "CyberMarketingCon & CyberCEO Summit 2026",
@@ -3268,6 +3210,34 @@
    "notified": true
   },
   {
+   "name": "n8n Meetup Atlanta | Pens Up, Laptops Down: Where HR Meets Automation",
+   "url": "https://luma.com/n8n-bi72",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-27",
+   "notified": true
+  },
+  {
+   "name": "San Francisco | Claude Impact Lab: AI Trust & Safety",
+   "url": "https://luma.com/claude-sf-impact-lab",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-27",
+   "notified": true
+  },
+  {
    "name": "Nucleate Thanksgiving \ud83c\udf42",
    "url": "https://luma.com/hesyjw20",
    "kind": "meetup",
@@ -3293,7 +3263,7 @@
     "luma"
    ],
    "first_seen": "2026-10-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Snowglobe",
@@ -3549,7 +3519,7 @@
     "luma"
    ],
    "first_seen": "2026-10-25",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Executive Mastermind Dinner",
@@ -4376,7 +4346,7 @@
     "devpost"
    ],
    "first_seen": "2026-10-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "DistrictCon Year 2",

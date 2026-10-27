@@ -27,6 +27,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://bharat-builds-tour.devpost.com/": null,
  "https://biohacksmcmaster.devpost.com/": {
   "city": "Hamilton",
   "end": "2026-11-08T10:00:00.000-05:00",
@@ -69,13 +70,7 @@
   "state": "California",
   "us": true
  },
- "https://catalyst-hack-day.devpost.com/": {
-  "city": "Needham",
-  "end": "2027-02-06T21:00:00.000-05:00",
-  "start": "2027-02-06T00:00:00.000-05:00",
-  "state": "Massachusetts",
-  "us": true
- },
+ "https://c3hackathon.devpost.com/": null,
  "https://central-hacks.devpost.com/": {
   "city": "Mount Pleasant",
   "end": "2026-11-15T12:00:00.000-05:00",
@@ -151,13 +146,6 @@
   "end": "2027-02-21T14:00:00.000-05:00",
   "start": "2027-02-19T14:00:00.000-05:00",
   "state": "Manitoba",
-  "us": false
- },
- "https://engage6.devpost.com/": {
-  "city": "Gurugram",
-  "end": "2026-10-27T08:30:00.000-04:00",
-  "start": "2026-10-21T00:00:00.000-04:00",
-  "state": "Haryana",
   "us": false
  },
  "https://ese4500f26.devpost.com/": {
@@ -285,13 +273,6 @@
   "start": "2026-11-06T18:00:00.000-05:00",
   "state": "California",
   "us": true
- },
- "https://hacktoberfest-hack-day-feni.devpost.com/": {
-  "city": "\u09ab\u09c7\u09a8\u09c0",
-  "end": "2026-10-27T01:45:00.000-04:00",
-  "start": "2026-10-26T10:00:00.000-04:00",
-  "state": "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae \u09ac\u09bf\u09ad\u09be\u0997",
-  "us": false
  },
  "https://haven-asbury-park.devpost.com/": {
   "city": "Shrewsbury",
@@ -510,6 +491,7 @@
   "state": "Islamabad Capital Territory",
   "us": false
  },
+ "https://searchhack.devpost.com/": null,
  "https://sheridandatathon2026.devpost.com/": {
   "city": "Mississauga",
   "end": "2026-11-08T12:00:00.000-05:00",
@@ -531,6 +513,7 @@
   "state": "Varsinais-Suomi",
   "us": false
  },
+ "https://solix-ai-hackathon-2026.devpost.com/": null,
  "https://spartahack-12.devpost.com/": {
   "city": "East Lansing",
   "end": "2027-02-07T12:00:00.000-05:00",
