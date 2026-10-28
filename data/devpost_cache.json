@@ -78,6 +78,7 @@
   "state": "Michigan",
   "us": true
  },
+ "https://ciren-hacktoberfest-2026.devpost.com/": null,
  "https://code-clash.devpost.com/": {
   "city": "Towson",
   "end": "2026-11-14T18:00:00.000-05:00",
@@ -323,13 +324,6 @@
   "state": "District of Columbia",
   "us": true
  },
- "https://htcj-aviation-futures.devpost.com/": {
-  "city": "Boston",
-  "end": "2026-10-27T20:00:00.000-04:00",
-  "start": "2026-06-25T00:00:00.000-04:00",
-  "state": "Massachusetts",
-  "us": true
- },
  "https://icc-proyecto-destacado-2026.devpost.com/": {
   "city": "Mexicali",
   "end": "2026-11-03T03:00:00.000-05:00",
@@ -542,13 +536,6 @@
   "state": "Ontario",
   "us": false
  },
- "https://sustain-a-thon-2-0-31534.devpost.com/": {
-  "city": "Ruhallapur",
-  "end": "2026-10-28T07:30:00.000-04:00",
-  "start": "2026-10-27T00:00:00.000-04:00",
-  "state": "Uttar Pradesh",
-  "us": false
- },
  "https://svchackathon2027.devpost.com/": {
   "city": "Mount Vernon",
   "end": "2027-05-08T20:00:00.000-04:00",
@@ -598,6 +585,7 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://wwc-hackathon.devpost.com/": null,
  "https://wwu-sj-hack.devpost.com/": {
   "city": "Bellingham",
   "end": "2026-11-07T20:00:00.000-05:00",
