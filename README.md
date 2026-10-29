@@ -26,24 +26,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**426 upcoming events**: 97 hackathons, 232 conferences and 97 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**418 upcoming events**: 98 hackathons, 226 conferences and 94 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 28, 2026.</sub>
+<sub>Updated automatically every day. Last update: October 29, 2026.</sub>
 
-### 🆕 Just announced (54 this week)
+### 🆕 Just announced (45 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California | Hackathon |
-| [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California | Hackathon |
 | [Win $10K at the Cloud Native Hackathon with Kelsey Hightower](https://luma.com/cnh) | Nov 9⁠–⁠10 | Salt Lake City, Utah | Hackathon |
 | [System Public Challenge](https://system-public-challenge.devpost.com/) | Nov 14 | New York, New York | Hackathon |
 | [The Next Frontier 2026: A Space Innovation Hackathon](https://aichr-space.devpost.com/) | Nov 14⁠–⁠15 | Virginia Beach, Virginia | Hackathon |
 | [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California | Hackathon |
+| [Beacon Hacks](https://beaconhacks.com) | Jan 30⁠–⁠31 | Belmont, California | Hackathon |
 | [Catalyst Hack Day](https://catalyst-hack-day.devpost.com/) | Feb 6 | Needham, Massachusetts | Hackathon |
-| [RebelHacks 2027](https://rebelhacks-2027.devpost.com/) | Feb 20⁠–⁠21 | Las Vegas, Nevada | Hackathon |
-| [ISC2 Security Congress 2026](https://www.isc2.org/congress) | Oct 24⁠–⁠28 | Aurora, CO | Conference |
 | [ODSC AI West 2026](https://odsc.ai/west/) | Oct 27⁠–⁠29 | Burlingame, CA | Conference |
+| [unprompted \| The AI Security Practitioner Conference (October 2026)](https://unpromptedcon.org/) | Oct 27⁠–⁠29 | San Francisco, CA | Conference |
+| [Women in Statistics and Data Science Conference 2026](https://ww2.amstat.org/meetings/wsds/2026/) | Oct 28⁠–⁠30 | Cincinnati, OH | Conference |
+| [Agentic AI Summit Boston](https://world.aiacceleratorinstitute.com/location/agenticaiboston) | Oct 29 | Boston, MA | Conference |
 
 ### 🏁 Next hackathons
 

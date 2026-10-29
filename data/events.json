@@ -52,20 +52,6 @@
    "notified": true
   },
   {
-   "name": "ISC2 Security Congress 2026",
-   "url": "https://www.isc2.org/congress",
-   "kind": "conference",
-   "start": "2026-10-24",
-   "end": "2026-10-28",
-   "city": "Aurora, CO",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
    "name": "2026 Power Platform Community Conference",
    "url": "https://powerplatformconf.com",
    "kind": "conference",
@@ -75,48 +61,6 @@
    "state": "",
    "sources": [
     "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Oracle AI World 2026",
-   "url": "https://dev.events/conferences/oracle-ai-world-2026-0p5bjsxh",
-   "kind": "conference",
-   "start": "2026-10-25",
-   "end": "2026-10-28",
-   "city": "Las Vegas",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SuiteWorld 2026 | Las Vegas",
-   "url": "https://dev.events/conferences/suite-world-2026-las-vegas-o6xqwv2p",
-   "kind": "conference",
-   "start": "2026-10-25",
-   "end": "2026-10-28",
-   "city": "Las Vegas",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Gartner HR Symposium/Xpo",
-   "url": "https://dev.events/conferences/gartner-hr-symposium-xpo-st3c-ql9",
-   "kind": "conference",
-   "start": "2026-10-26",
-   "end": "2026-10-28",
-   "city": "Orlando",
-   "state": "",
-   "sources": [
-    "dev.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -167,49 +111,6 @@
    "notified": true
   },
   {
-   "name": "Vibe Coding Con",
-   "url": "http://Vibecodingcon.ai",
-   "kind": "conference",
-   "start": "2026-10-26",
-   "end": "2026-10-28",
-   "city": "Las Vegas, NV",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Miami | Claude Code Hacknight",
-   "url": "https://luma.com/claude-ubir",
-   "kind": "meetup",
-   "start": "2026-10-27",
-   "end": "2026-10-28",
-   "city": "Miami",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Nucleate RTP \u2014 Panel Discussion: From Breakthrough to Business: What makes science investable?",
-   "url": "https://luma.com/0jqr3zp6",
-   "kind": "meetup",
-   "start": "2026-10-27",
-   "end": "2026-10-28",
-   "city": "Chapel Hill",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
    "name": "ODSC AI West 2026",
    "url": "https://odsc.ai/west/",
    "kind": "conference",
@@ -221,21 +122,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
-   "name": "OWASP LASCON 2026 - Training",
-   "url": "http://lascon.org",
-   "kind": "conference",
-   "start": "2026-10-27",
-   "end": "2026-10-28",
-   "city": "Austin, TX",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -267,20 +153,6 @@
    "notified": true
   },
   {
-   "name": "Agentic Infrastructure Stack Summit",
-   "url": "https://dev.events/conferences/agentic-infrastructure-stack-summit-gx7jx-7r",
-   "kind": "conference",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "city": "San Francisco",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "AI Tasting Room (w/ The AI Collective Fayetteville)",
    "url": "https://luma.com/aic-fa-10-28",
    "kind": "meetup",
@@ -309,34 +181,6 @@
    "notified": true
   },
   {
-   "name": "Cincinnati | Claude Code Workshop",
-   "url": "https://luma.com/claude-s2zi",
-   "kind": "meetup",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "city": "Cincinnati",
-   "state": "Ohio",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community: Portland",
-   "url": "https://luma.com/eszovx86",
-   "kind": "meetup",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "city": "Portland",
-   "state": "Oregon",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
    "name": "GitHub Universe 2026",
    "url": "https://githubuniverse.com/",
    "kind": "conference",
@@ -361,20 +205,6 @@
    "sources": [
     "dev.events",
     "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Orange County | Claude for Nonprofits",
-   "url": "https://luma.com/claude-oc-nonprofits",
-   "kind": "meetup",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "city": "Santa Ana",
-   "state": "California",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -690,7 +520,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AI Native DevCon New York 2026",
@@ -1868,6 +1698,20 @@
    "notified": true
   },
   {
+   "name": "Kubernetes Automation Day: Free, IMAX Dome, Liz Rice, Kelsey Hightower, Bret Fisher + 11 more all-star practitioners",
+   "url": "https://luma.com/ktykjzbj",
+   "kind": "meetup",
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-29",
+   "notified": true
+  },
+  {
    "name": "Kubernetes on Edge Day North America",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/kubernetes-on-edge-day/",
    "kind": "conference",
@@ -2222,7 +2066,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Lessons Learned Running Autonomous Agents in Production - Breakfast Roundtable for Engineering Leaders",
@@ -2418,7 +2262,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Nucleate New Orleans: AI Meets Biotech",
@@ -2533,7 +2377,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AI Community Conference Boston 2026",
@@ -2645,6 +2489,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "Miami | Claude & Coffee Co-Working Day",
+   "url": "https://luma.com/claude-kgq5",
+   "kind": "meetup",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-29",
    "notified": true
   },
   {
@@ -3191,7 +3049,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Nucleate Thanksgiving \ud83c\udf42",
@@ -3601,7 +3459,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Nucleate Michigan \u2013 MBVF Seminar #3: \u201cThe Innovator\u2019s Blindspot: Balancing Regulatory Strategy with Market Reality\u201d",
@@ -3700,7 +3558,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Below Deck at re:Invent | Hosted by Eon",
@@ -3714,7 +3572,7 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Day of Data and AI - Houston",
@@ -4229,6 +4087,20 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Beacon Hacks",
+   "url": "https://beaconhacks.com",
+   "kind": "hackathon",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "city": "Belmont",
+   "state": "California",
+   "sources": [
+    "hackclub"
+   ],
+   "first_seen": "2026-10-29",
    "notified": true
   },
   {
@@ -5133,6 +5005,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "SunSecCon",
+   "url": "https://www.sunseccon.org/2027",
+   "kind": "conference",
+   "start": "2027-04-01",
+   "end": "2027-04-02",
+   "city": "Pasadena, CA",
+   "state": "",
+   "sources": [
+    "confs.tech"
+   ],
+   "first_seen": "2026-10-29",
    "notified": true
   },
   {
