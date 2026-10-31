@@ -24,20 +24,6 @@
    "notified": true
   },
   {
-   "name": "HackFW: MADE Challenge",
-   "url": "https://hackfw.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-01",
-   "end": "2026-10-30",
-   "city": "Fort Worth",
-   "state": "Texas",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "RenderJuice Blender Animation & Programmatic Rendering Contest",
    "url": "https://programmatic-rendering-contest.devpost.com/",
    "kind": "hackathon",
@@ -49,136 +35,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "2026 Power Platform Community Conference",
-   "url": "https://powerplatformconf.com",
-   "kind": "conference",
-   "start": "2026-10-25",
-   "end": "2026-10-30",
-   "city": "Las Vegas, NV",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Michigan Technology Conference 2026",
-   "url": "https://www.mitechcon.org/",
-   "kind": "conference",
-   "start": "2026-10-28",
-   "end": "2026-10-30",
-   "city": "Rochester, MI",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Women in Statistics and Data Science Conference 2026",
-   "url": "https://ww2.amstat.org/meetings/wsds/2026/",
-   "kind": "conference",
-   "start": "2026-10-28",
-   "end": "2026-10-30",
-   "city": "Cincinnati, OH",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
-   "name": "Dentons Cohen and Grigsby x NucleatePGH: Commercialization, IP, and Fundraising",
-   "url": "https://luma.com/6sgwg8jj",
-   "kind": "meetup",
-   "start": "2026-10-29",
-   "end": "2026-10-30",
-   "city": "Pittsburgh",
-   "state": "Pennsylvania",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Bay Area Coffee & Connections",
-   "url": "https://luma.com/i6shhnic",
-   "kind": "meetup",
-   "start": "2026-10-29",
-   "end": "2026-10-30",
-   "city": "Berkeley",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Recursion",
-   "url": "https://conf.funcp.org",
-   "kind": "conference",
-   "start": "2026-10-29",
-   "end": "2026-10-30",
-   "city": "New York, NY",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community: Seattle",
-   "url": "https://luma.com/6rdy03gt",
-   "kind": "meetup",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Triangle InfoSeCon 2026",
-   "url": "https://www.triangleinfosecon.com",
-   "kind": "conference",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "city": "Raleigh, NC",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Web AI Summit",
-   "url": "https://goo.gle/WebAISummit26",
-   "kind": "conference",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "city": "Sunnyvale, CA",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-12",
    "notified": true
   },
   {
@@ -1772,6 +1628,20 @@
    "notified": true
   },
   {
+   "name": "Vibe Night Midtown - Claude + Codex (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-11-10",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
+  },
+  {
    "name": "Agent Substrate Community Party",
    "url": "https://luma.com/re1kzz80",
    "kind": "meetup",
@@ -2797,6 +2667,20 @@
    "notified": true
   },
   {
+   "name": "Building With AI | ART-ificial Intelligence | w/The AI Collective",
+   "url": "https://luma.com/aic-st-11-18",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "city": "Stamford",
+   "state": "Connecticut",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
+  },
+  {
    "name": "Codex Community Meetup \u2013 Atlanta",
    "url": "https://luma.com/311z53l2",
    "kind": "meetup",
@@ -3179,6 +3063,20 @@
    "notified": true
   },
   {
+   "name": "Agentic AI Foundation ( AAIF ) December Talks",
+   "url": "https://luma.com/aaif-seattle",
+   "kind": "conference",
+   "start": "2026-12-01",
+   "end": "2026-12-15",
+   "city": "Washington, DC",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
+  },
+  {
    "name": "Executive Mastermind Dinner",
    "url": "https://luma.com/dgbkfdrf",
    "kind": "meetup",
@@ -3331,6 +3229,20 @@
    ],
    "first_seen": "2026-10-24",
    "notified": true
+  },
+  {
+   "name": "Reinvent CTO Lunch Wednesday 2026",
+   "url": "https://luma.com/94nhxjot",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
   },
   {
    "name": "SaaSNova Networking Dinner \u00b7 Las Vegas 2026",
@@ -4347,6 +4259,20 @@
    "notified": true
   },
   {
+   "name": "Code Remix Summit",
+   "url": "https://coderemix.ai/",
+   "kind": "conference",
+   "start": "2027-02-22",
+   "end": "2027-02-24",
+   "city": "Miami, FL",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
+  },
+  {
    "name": "The Linux Foundation Member Summit",
    "url": "https://events.linuxfoundation.org/lf-member-summit/",
    "kind": "conference",
@@ -4901,7 +4827,8 @@
    "city": "Pasadena, CA",
    "state": "",
    "sources": [
-    "confs.tech"
+    "confs.tech",
+    "developers.events"
    ],
    "first_seen": "2026-10-29",
    "notified": true
@@ -5192,6 +5119,20 @@
    "notified": true
   },
   {
+   "name": "KCD Texas 2027",
+   "url": "https://pretalx.com/kcd-texas-2027/",
+   "kind": "conference",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "city": "Austin, TX",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
+  },
+  {
    "name": "LinuxFest Northwest 2027",
    "url": "https://linuxfestnorthwest.org/",
    "kind": "conference",
@@ -5392,6 +5333,20 @@
    ],
    "first_seen": "2026-10-23",
    "notified": true
+  },
+  {
+   "name": "SecretCon 2027",
+   "url": "https://secretcon.com",
+   "kind": "conference",
+   "start": "2027-05-06",
+   "end": "2027-05-07",
+   "city": "Saint Paul, MN",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-10-31",
+   "notified": false
   },
   {
    "name": "SVC Hackathon 2027",

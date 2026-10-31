@@ -49,20 +49,7 @@
   "state": "Tamil Nadu",
   "us": false
  },
- "https://blackstart-data-centers.devpost.com/": {
-  "city": "Toronto",
-  "end": "2026-10-30T15:30:00.000-04:00",
-  "start": "2026-10-30T14:00:00.000-04:00",
-  "state": "Ontario",
-  "us": false
- },
- "https://buksi-site-2026.devpost.com/": {
-  "city": "Kebonjeruk",
-  "end": "2026-10-30T12:45:00.000-04:00",
-  "start": "2026-10-24T06:00:00.000-04:00",
-  "state": "Jakarta",
-  "us": false
- },
+ "https://build-a-working-ai-support-bot.devpost.com/": null,
  "https://business-battkefuekd.devpost.com/": {
   "city": "Yorba Linda",
   "end": "2027-02-20T19:15:00.000-05:00",
@@ -205,6 +192,7 @@
   "us": false
  },
  "https://hack-coms-2026.devpost.com/": null,
+ "https://hack-or-treat-2026.devpost.com/": null,
  "https://hack-peel.devpost.com/": {
   "city": "Mississauga",
   "end": "2026-12-13T16:00:00.000-05:00",
@@ -247,6 +235,7 @@
   "state": "British Columbia",
   "us": false
  },
+ "https://hackgwinnett-6-0.devpost.com/": null,
  "https://hackperimeter.devpost.com/": {
   "city": "Clarkston",
   "end": "2026-11-13T17:00:00.000-05:00",
@@ -269,7 +258,7 @@
   "us": true
  },
  "https://hacktcnj-2027.devpost.com/": null,
- "https://hacktoberfest-hack-day.devpost.com/": null,
+ "https://hacktrent-2026-31951.devpost.com/": null,
  "https://haven-asbury-park.devpost.com/": {
   "city": "Shrewsbury",
   "end": "2026-11-14T21:00:00.000-05:00",
@@ -297,13 +286,6 @@
   "start": "2026-11-14T12:00:00.000-05:00",
   "state": "Washington",
   "us": true
- },
- "https://health-hackathon-3-0.devpost.com/": {
-  "city": "Kothri Kalan",
-  "end": "2026-10-31T00:00:00.000-04:00",
-  "start": "2026-10-24T08:30:00.000-04:00",
-  "state": "Madhya Pradesh",
-  "us": false
  },
  "https://hook-em-hacks-2027.devpost.com/": {
   "city": "Austin",
@@ -438,6 +420,7 @@
   "state": "New York",
   "us": true
  },
+ "https://project-zh.devpost.com/": null,
  "https://rebelhacks-2027.devpost.com/": {
   "city": "Las Vegas",
   "end": "2027-02-21T14:00:00.000-05:00",
@@ -509,13 +492,6 @@
   "state": "Michigan",
   "us": true
  },
- "https://sphinx-26.devpost.com/": {
-  "city": "Jaipur",
-  "end": "2026-10-31T05:00:00.000-04:00",
-  "start": "2026-10-14T07:30:00.000-04:00",
-  "state": "Rajasthan",
-  "us": false
- },
  "https://start-hack-league-munich-2026.devpost.com/": {
   "city": "M\u00fcnchen",
   "end": "2026-11-22T06:45:00.000-05:00",
@@ -572,7 +548,6 @@
   "state": "Texas",
   "us": true
  },
- "https://vaani-agent-buildathon.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",
   "end": "2026-12-20T17:00:00.000-05:00",
@@ -594,13 +569,6 @@
   "end": "2027-12-10T02:00:00.000-05:00",
   "start": "2027-09-09T00:00:00.000-04:00",
   "state": "British Columbia",
-  "us": false
- },
- "https://zoftware-agenthack.devpost.com/": {
-  "city": "Gurugram",
-  "end": "2026-10-11T12:00:00.000-04:00",
-  "start": "2026-10-11T00:00:00.000-04:00",
-  "state": "Haryana",
   "us": false
  }
 }
