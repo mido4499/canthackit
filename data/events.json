@@ -24,48 +24,6 @@
    "notified": true
   },
   {
-   "name": "RenderJuice Blender Animation & Programmatic Rendering Contest",
-   "url": "https://programmatic-rendering-contest.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-14",
-   "end": "2026-10-31",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Research Triangle",
-   "url": "https://luma.com/h4h-research-triangle",
-   "kind": "meetup",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "city": "Raleigh",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-19",
-   "notified": true
-  },
-  {
-   "name": "Haunted Hacks: Realtime AI Edition",
-   "url": "https://haunted-hacks.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
    "name": "AI & Humans | The Conscious Future",
    "url": "https://luma.com/aic-bos-humans",
    "kind": "meetup",
@@ -3342,6 +3300,20 @@
    ],
    "first_seen": "2026-10-28",
    "notified": true
+  },
+  {
+   "name": "OpenAI Technical Practitioner Training (Lawrence, KS)",
+   "url": "https://luma.com/OpenAITraining",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Lawrence",
+   "state": "Kansas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-01",
+   "notified": false
   },
   {
    "name": "Robots Pour, Agents Ship: re:Invent Happy Hour with Hud",

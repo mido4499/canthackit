@@ -28,15 +28,14 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**407 upcoming events**: 98 hackathons, 214 conferences and 95 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**405 upcoming events**: 96 hackathons, 214 conferences and 95 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 31, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 1, 2026.</sub>
 
-### 🆕 Just announced (39 this week)
+### 🆕 Just announced (37 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [The Next Frontier 2026: A Space Innovation Hackathon](https://aichr-space.devpost.com/) | Nov 14⁠–⁠15 | Virginia Beach, Virginia | Hackathon |
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas | Hackathon |
 | [Beacon Hacks](https://beaconhacks.com) | Jan 30⁠–⁠31 | Belmont, California | Hackathon |
 | [Catalyst Hack Day](https://catalyst-hack-day.devpost.com/) | Feb 6 | Needham, Massachusetts | Hackathon |
@@ -46,12 +45,12 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [KCD Texas 2027](https://pretalx.com/kcd-texas-2027/) | Apr 23 | Austin, TX | Conference |
 | [SecretCon 2027](https://secretcon.com) | May 6⁠–⁠7 | Saint Paul, MN | Conference |
 | [AI & Humans \| The Conscious Future](https://luma.com/aic-bos-humans) | Nov 2⁠–⁠3 | Cambridge, Massachusetts | Meetup |
+| [AI Meetup Peachtree Corners (w/ The AI Collective)](https://luma.com/aic-gw-11-2) | Nov 2⁠–⁠3 | Peachtree Corners, Georgia | Meetup |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California |
 | [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio |
 | [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California |
 | [CrownHacks](https://crownhacks.devpost.com/) | Nov 6⁠–⁠8 | Charlotte, North Carolina |
@@ -61,6 +60,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL |
 | [YCP Hacks](https://ycphacks.io/) | Nov 6⁠–⁠8 | York PA, PA |
 | [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
+| [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
