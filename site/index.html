@@ -234,11 +234,14 @@ function normalize(events) {
   }
 }
 
-function bucket(e) {
-  const start = e._start < today ? today : e._start;  // ongoing events count as happening now
-  if (start <= endOfWeek) return "week";
-  if (start <= monthCutoff) return "month";
-  return "later";
+// "This month" includes this week, so it's never empty while this week has events.
+// Ongoing events count as happening today.
+function matchesWhen(e, when) {
+  const start = e._start < today ? today : e._start;
+  if (when === "week") return start <= endOfWeek;
+  if (when === "month") return start <= monthCutoff;
+  if (when === "later") return start > monthCutoff;
+  return true;
 }
 
 const fmt = (d, year) =>
@@ -268,7 +271,7 @@ function render() {
   const f = { kind: $("kind").value, when: $("when").value, state: $("state").value, city: $("city").value };
   const shown = events.filter((e) =>
     (!f.kind || e.kind === f.kind) &&
-    (!f.when || e._bucket === f.when) &&
+    matchesWhen(e, f.when) &&
     (!f.state || e.state === f.state) &&
     (!f.city || e.city === f.city));
 
@@ -310,7 +313,6 @@ load().then((data) => {
     .map((e) => ({ ...e, _start: day(e.start), _end: day(e.end) }))
     .filter((e) => e._end >= today)  // the page may be a day older than the data it shows
     .sort((a, b) => Math.max(a._start, today) - Math.max(b._start, today) || a.name.localeCompare(b.name));
-  for (const e of events) e._bucket = bucket(e);
 
   fillSelect($("state"), "All states", [...new Set(events.map((e) => e.state))].sort(byName));
   updateCities();
