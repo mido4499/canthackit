@@ -16,6 +16,8 @@ Checked every day. Emailed to you only when something new shows up.
 [![CI](https://github.com/mido4499/canthackit/actions/workflows/ci.yml/badge.svg)](https://github.com/mido4499/canthackit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+<a href="https://mido4499.github.io/canthackit/"><img src="docs/demo.gif" alt="Demo: browsing and filtering upcoming events on the Can't Hack It events page" width="720"></a>
+
 ⭐ **If Can't Hack It helps you find an event, please [star this repo](https://github.com/mido4499/canthackit).**<br>
 It's free, takes one click, and it's how other students and job seekers discover it.
 
