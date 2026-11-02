@@ -134,6 +134,7 @@
   "state": "Manitoba",
   "us": false
  },
+ "https://engage-test.devpost.com/": null,
  "https://ese4500f26.devpost.com/": {
   "city": "Philadelphia",
   "end": "2026-12-07T17:00:00.000-05:00",
@@ -163,6 +164,7 @@
   "state": "Massachusetts",
   "us": true
  },
+ "https://greatunihack-2026.devpost.com/": null,
  "https://gtransformer-buildathon-2026.devpost.com/": {
   "city": "Milpitas",
   "end": "2026-11-15T15:00:00.000-05:00",
@@ -241,8 +243,10 @@
   "state": "California",
   "us": true
  },
+ "https://hacksussex-gamejam-2026.devpost.com/": null,
  "https://hacktcnj-2027.devpost.com/": null,
  "https://hacktrent-2026-31951.devpost.com/": null,
+ "https://hackutd-zeroday.devpost.com/": null,
  "https://haven-asbury-park.devpost.com/": {
   "city": "Shrewsbury",
   "end": "2026-11-14T21:00:00.000-05:00",
@@ -321,13 +325,6 @@
   "state": "Virginia",
   "us": true
  },
- "https://larphacks.devpost.com/": {
-  "city": "Toronto",
-  "end": "2026-10-25T05:00:00.000-04:00",
-  "start": "2026-10-24T16:45:00.000-04:00",
-  "state": "Ontario",
-  "us": false
- },
  "https://loohacks.devpost.com/": {
   "city": "Waterloo",
   "end": "2026-11-29T15:00:00.000-05:00",
@@ -349,6 +346,7 @@
   "state": "Ohio",
   "us": true
  },
+ "https://mock-plutohacks.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
   "end": "2027-01-31T13:15:00.000-05:00",
@@ -505,6 +503,8 @@
   "state": "Texas",
   "us": true
  },
+ "https://uaevsusa.devpost.com/": null,
+ "https://ubc-hackathon-2026.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",
   "end": "2026-12-20T17:00:00.000-05:00",
@@ -513,6 +513,7 @@
   "us": true
  },
  "https://wisestart-2026-tll.devpost.com/": null,
+ "https://wolfjam-2026.devpost.com/": null,
  "https://wwc-hackathon.devpost.com/": null,
  "https://wwu-sj-hack.devpost.com/": {
   "city": "Bellingham",

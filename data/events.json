@@ -1092,6 +1092,20 @@
    "notified": true
   },
   {
+   "name": "n8n Seattle x GDG DevFest 2026",
+   "url": "https://luma.com/n8n-r2so",
+   "kind": "meetup",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "Simply Cyber Con 2026",
    "url": "https://simplycybercon.org",
    "kind": "conference",
@@ -1597,7 +1611,7 @@
     "luma"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Agent Substrate Community Party",
@@ -1681,6 +1695,34 @@
     "luma"
    ],
    "first_seen": "2026-10-18",
+   "notified": true
+  },
+  {
+   "name": "Seattle | Claude Cowork for MBA Alumni: Build Your Personal OS",
+   "url": "https://luma.com/claude-mba",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
+   "name": "Spotify Technology Community Meetup",
+   "url": "https://luma.com/neg55c7o",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
    "notified": true
   },
   {
@@ -2149,6 +2191,34 @@
    "notified": true
   },
   {
+   "name": "Nucleate Rhode Island: BioHack",
+   "url": "https://luma.com/mtow2pv3",
+   "kind": "meetup",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "city": "Providence",
+   "state": "Rhode Island",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
+   "name": "Boston | AI Healthcare Hackathon with Claude Build Day",
+   "url": "https://luma.com/claude-hovn",
+   "kind": "hackathon",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "city": "Boston",
+   "state": "Massachusetts",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "Central Hacks",
    "url": "https://central-hacks.devpost.com/",
    "kind": "hackathon",
@@ -2525,6 +2595,20 @@
    "notified": true
   },
   {
+   "name": "Boston | Claude Small Business / Startup AI Workshop",
+   "url": "https://luma.com/claude-fd5j",
+   "kind": "meetup",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "city": "Cambridge",
+   "state": "Massachusetts",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "CISO Boston 2026",
    "url": "https://dev.events/conferences/ciso-boston-2026-ncb1ancd",
    "kind": "conference",
@@ -2636,7 +2720,7 @@
     "luma"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Codex Community Meetup \u2013 Atlanta",
@@ -2695,6 +2779,20 @@
    "notified": true
   },
   {
+   "name": "San Diego | Claude x AI Tinkerers Meetup | Physical AI",
+   "url": "https://luma.com/claude-imum",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "San Francisco | Claude Impact Lab: AI Trust & Safety",
    "url": "https://luma.com/claude-sf-impact-lab",
    "kind": "meetup",
@@ -2734,6 +2832,20 @@
     "luma"
    ],
    "first_seen": "2026-10-16",
+   "notified": true
+  },
+  {
+   "name": "San Diego | Claude Community x Perplexity Workshop",
+   "url": "https://luma.com/claude-7a4u",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-02",
    "notified": true
   },
   {
@@ -3032,7 +3144,7 @@
     "developers.events"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Executive Mastermind Dinner",
@@ -3200,7 +3312,7 @@
     "luma"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "SaaSNova Networking Dinner \u00b7 Las Vegas 2026",
@@ -3313,7 +3425,7 @@
     "luma"
    ],
    "first_seen": "2026-11-01",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Robots Pour, Agents Ship: re:Invent Happy Hour with Hud",
@@ -3746,6 +3858,20 @@
    "notified": true
   },
   {
+   "name": "HackBI X",
+   "url": "https://hackbi.org/",
+   "kind": "hackathon",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "city": "Alexandria",
+   "state": "Virginia",
+   "sources": [
+    "mlh"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "QWER Hacks",
    "url": "https://www.qwerhacks.com/",
    "kind": "hackathon",
@@ -3772,6 +3898,20 @@
     "mlh"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "AlohAI",
+   "url": "https://alohaiconf.com/",
+   "kind": "conference",
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "city": "Hawai",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-02",
    "notified": true
   },
   {
@@ -4242,7 +4382,7 @@
     "developers.events"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "The Linux Foundation Member Summit",
@@ -4761,6 +4901,20 @@
    "notified": true
   },
   {
+   "name": "STC Squared Conference 2027",
+   "url": "https://sgftechcouncil.com/squared",
+   "kind": "conference",
+   "start": "2027-03-31",
+   "end": "2027-03-31",
+   "city": "Springfield, IL",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-02",
+   "notified": true
+  },
+  {
    "name": "PlanetNix 2027",
    "url": "https://planetnix.com",
    "kind": "conference",
@@ -5102,7 +5256,7 @@
     "developers.events"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "LinuxFest Northwest 2027",
@@ -5116,6 +5270,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-16",
+   "notified": true
+  },
+  {
+   "name": "BSidesCharm2027",
+   "url": "https://bsidescharm.org/",
+   "kind": "conference",
+   "start": "2027-04-24",
+   "end": "2027-04-25",
+   "city": "Baltimore, MD",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-02",
    "notified": true
   },
   {
@@ -5318,7 +5486,7 @@
     "developers.events"
    ],
    "first_seen": "2026-10-31",
-   "notified": false
+   "notified": true
   },
   {
    "name": "SVC Hackathon 2027",

@@ -28,24 +28,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**405 upcoming events**: 96 hackathons, 214 conferences and 95 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**417 upcoming events**: 98 hackathons, 217 conferences and 102 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 1, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 2, 2026.</sub>
 
-### 🆕 Just announced (37 this week)
+### 🆕 Just announced (45 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
+| [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts | Hackathon |
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas | Hackathon |
+| [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia | Hackathon |
 | [Beacon Hacks](https://beaconhacks.com) | Jan 30⁠–⁠31 | Belmont, California | Hackathon |
-| [Catalyst Hack Day](https://catalyst-hack-day.devpost.com/) | Feb 6 | Needham, Massachusetts | Hackathon |
 | [Agentic AI Foundation ( AAIF ) December Talks](https://luma.com/aaif-seattle) | Dec 1⁠–⁠15 | Washington, DC | Conference |
+| [AlohAI](https://alohaiconf.com/) | Jan 23 | Hawai | Conference |
 | [Code Remix Summit](https://coderemix.ai/) | Feb 22⁠–⁠24 | Miami, FL | Conference |
+| [STC Squared Conference 2027](https://sgftechcouncil.com/squared) | Mar 31 | Springfield, IL | Conference |
 | [SunSecCon](https://www.sunseccon.org/2027) | Apr 1⁠–⁠2 | Pasadena, CA | Conference |
 | [KCD Texas 2027](https://pretalx.com/kcd-texas-2027/) | Apr 23 | Austin, TX | Conference |
-| [SecretCon 2027](https://secretcon.com) | May 6⁠–⁠7 | Saint Paul, MN | Conference |
-| [AI & Humans \| The Conscious Future](https://luma.com/aic-bos-humans) | Nov 2⁠–⁠3 | Cambridge, Massachusetts | Meetup |
-| [AI Meetup Peachtree Corners (w/ The AI Collective)](https://luma.com/aic-gw-11-2) | Nov 2⁠–⁠3 | Peachtree Corners, Georgia | Meetup |
 
 ### 🏁 Next hackathons
 
