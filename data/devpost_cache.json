@@ -289,13 +289,6 @@
   "state": "District of Columbia",
   "us": true
  },
- "https://icc-proyecto-destacado-2026.devpost.com/": {
-  "city": "Mexicali",
-  "end": "2026-11-03T03:00:00.000-05:00",
-  "start": "2026-10-13T03:00:00.000-04:00",
-  "state": "Baja California",
-  "us": false
- },
  "https://indy-init-2026.devpost.com/": {
   "city": "Fishers",
   "end": "2026-11-07T17:00:00.000-05:00",
@@ -346,6 +339,7 @@
   "state": "Ohio",
   "us": true
  },
+ "https://mini-vikinghacks.devpost.com/": null,
  "https://mock-plutohacks.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
@@ -496,6 +490,7 @@
   "state": "Virginia",
   "us": true
  },
+ "https://triangle-ai-hackathon-2026.devpost.com/": null,
  "https://tripleh.devpost.com/": {
   "city": "Houston",
   "end": "2026-11-21T18:00:00.000-05:00",
@@ -503,7 +498,6 @@
   "state": "Texas",
   "us": true
  },
- "https://uaevsusa.devpost.com/": null,
  "https://ubc-hackathon-2026.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",
