@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**431 upcoming events**: 99 hackathons, 213 conferences and 119 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**427 upcoming events**: 98 hackathons, 211 conferences and 118 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 3, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 4, 2026.</sub>
 
-### 🆕 Just announced (60 this week)
+### 🆕 Just announced (55 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -51,7 +51,6 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 | Event | When | Where |
 |---|---|---|
-| [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio |
 | [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California |
 | [CrownHacks](https://crownhacks.devpost.com/) | Nov 6⁠–⁠8 | Charlotte, North Carolina |
 | [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida |
@@ -61,6 +60,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [YCP Hacks](https://ycphacks.io/) | Nov 6⁠–⁠8 | York PA, PA |
 | [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
 | [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida |
+| [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

@@ -24,20 +24,6 @@
    "notified": true
   },
   {
-   "name": "AI & Humans | The Conscious Future",
-   "url": "https://luma.com/aic-bos-humans",
-   "kind": "meetup",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "city": "Cambridge",
-   "state": "Massachusetts",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-26",
-   "notified": true
-  },
-  {
    "name": "AI DevCon NYC",
    "url": "https://tessl.io/devcon",
    "kind": "conference",
@@ -51,20 +37,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Meetup Peachtree Corners (w/ The AI Collective)",
-   "url": "https://luma.com/aic-gw-11-2",
-   "kind": "meetup",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "city": "Peachtree Corners",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-28",
    "notified": true
   },
   {
@@ -97,20 +69,6 @@
    "notified": true
   },
   {
-   "name": "Gartner Supply Chain Planning Summit",
-   "url": "https://dev.events/conferences/gartner-supply-chain-planning-summit-eq1a01km",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "city": "Denver",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Microsoft TechCon 365 Dallas 2026",
    "url": "https://www.techcon365.com/Dallas",
    "kind": "conference",
@@ -123,20 +81,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Movie Night : The AI Doc (w/ The AI Collective)",
-   "url": "https://luma.com/aidoc-fll",
-   "kind": "meetup",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "city": "Fort Lauderdale",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
    "notified": true
   },
   {
@@ -155,34 +99,6 @@
    "notified": true
   },
   {
-   "name": "Vibe Night in Sandy Springs (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-11-2",
-   "kind": "meetup",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "city": "Sandy Springs",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-27",
-   "notified": true
-  },
-  {
-   "name": "FSB AI Build-a-thon Event 02",
-   "url": "https://fsb-ai-buildathon-02.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "city": "Oxford",
-   "state": "Ohio",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
    "name": "Humanoid Robots Summit North America 2026",
    "url": "https://acgrobotus.com/",
    "kind": "conference",
@@ -193,20 +109,6 @@
    "sources": [
     "dev.events",
     "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "TestGuild IRL Austin 2026",
-   "url": "https://dev.events/conferences/test-guild-irl-austin-2026-t8cywibm",
-   "kind": "conference",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "city": "Austin",
-   "state": "",
-   "sources": [
-    "dev.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -1655,6 +1557,20 @@
    "notified": true
   },
   {
+   "name": "An Evening Above Salt Lake City - Happy Hour With vCluster",
+   "url": "https://luma.com/vcluster-3xm2",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-04",
+   "notified": false
+  },
+  {
    "name": "Kubernetes & Capital SLC",
    "url": "https://luma.com/6zw7cdxq",
    "kind": "meetup",
@@ -2003,6 +1919,20 @@
    ],
    "first_seen": "2026-10-22",
    "notified": true
+  },
+  {
+   "name": "Rack \u2019Em Up: Pool, Pints & Pods @KubeCon NA",
+   "url": "https://luma.com/rack-em-up",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-04",
+   "notified": false
   },
   {
    "name": "Seattle Day of Data 2026",
@@ -3494,6 +3424,20 @@
    ],
    "first_seen": "2026-10-22",
    "notified": true
+  },
+  {
+   "name": "Taco Tuesday Tech Connect with BairesDev at AWS re:Invent",
+   "url": "https://luma.com/a9duyd99",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-04",
+   "notified": false
   },
   {
    "name": "Tech Leader Summit",
