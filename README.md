@@ -28,24 +28,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**427 upcoming events**: 98 hackathons, 211 conferences and 118 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**427 upcoming events**: 98 hackathons, 206 conferences and 123 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 4, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 5, 2026.</sub>
 
-### 🆕 Just announced (55 this week)
+### 🆕 Just announced (57 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts | Hackathon |
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas | Hackathon |
 | [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia | Hackathon |
-| [Beacon Hacks](https://beaconhacks.com) | Jan 30⁠–⁠31 | Belmont, California | Hackathon |
 | [Almaden Hacks](https://almadenhacks.com) | Jun 5 | San Jose, California | Hackathon |
 | [Agentic AI Foundation ( AAIF ) December Talks](https://luma.com/aaif-seattle) | Dec 1⁠–⁠15 | Washington, DC | Conference |
 | [AlohAI](https://alohaiconf.com/) | Jan 23 | Hawai | Conference |
 | [Code Remix Summit](https://coderemix.ai/) | Feb 22⁠–⁠24 | Miami, FL | Conference |
 | [STC Squared Conference 2027](https://sgftechcouncil.com/squared) | Mar 31 | Springfield, IL | Conference |
-| [SunSecCon](https://www.sunseccon.org/2027) | Apr 1⁠–⁠2 | Pasadena, CA | Conference |
+| [KCD Texas 2027](https://pretalx.com/kcd-texas-2027/) | Apr 23 | Austin, TX | Conference |
+| [BSidesCharm2027](https://bsidescharm.org/) | Apr 24⁠–⁠25 | Baltimore, MD | Conference |
 
 ### 🏁 Next hackathons
 

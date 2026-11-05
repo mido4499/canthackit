@@ -136,6 +136,7 @@
   "state": "Manitoba",
   "us": false
  },
+ "https://dtit-hackathon-2026.devpost.com/": null,
  "https://eaglehacks2027.devpost.com/": null,
  "https://engage-test.devpost.com/": null,
  "https://ese4500f26.devpost.com/": {
@@ -211,6 +212,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://hackai-toronto.devpost.com/": null,
  "https://hackcamp-2026.devpost.com/": {
   "city": "Vancouver",
   "end": "2026-11-08T15:00:00.000-05:00",
@@ -257,6 +259,7 @@
   "state": "Nevada",
   "us": true
  },
+ "https://haven-philly.devpost.com/": null,
  "https://haven-richmond.devpost.com/": {
   "city": "Richmond",
   "end": "2026-11-15T23:45:00.000-05:00",
@@ -287,6 +290,7 @@
   "us": true
  },
  "https://ibm-qiskit-hackathon.devpost.com/": null,
+ "https://ihack-2026.devpost.com/": null,
  "https://indy-init-2026.devpost.com/": {
   "city": "Fishers",
   "end": "2026-11-07T17:00:00.000-05:00",
@@ -301,6 +305,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://iosc-end-of-semester-hackathon.devpost.com/": null,
  "https://k-dub-hacks.devpost.com/": null,
  "https://khe-2027.devpost.com/": {
   "city": "Kent",
@@ -323,6 +328,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://madhacks-fall-2026.devpost.com/": null,
  "https://makeuc-2026-30881.devpost.com/": {
   "city": "Cincinnati",
   "end": "2026-11-08T12:00:00.000-05:00",
@@ -337,7 +343,7 @@
   "state": "Ohio",
   "us": true
  },
- "https://mini-vikinghacks.devpost.com/": null,
+ "https://nh26.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
   "end": "2027-01-31T13:15:00.000-05:00",

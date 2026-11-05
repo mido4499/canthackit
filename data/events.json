@@ -24,87 +24,12 @@
    "notified": true
   },
   {
-   "name": "AI DevCon NYC",
-   "url": "https://tessl.io/devcon",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-04",
-   "city": "Brooklyn, NY",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Native DevCon New York 2026",
-   "url": "https://dev.events/conferences/ai-native-dev-con-new-york-2026-65rdg4qj",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-04",
-   "city": "New York",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "FOSS4G NA 2026",
-   "url": "https://talks.osgeo.org/foss4g-na-2026/",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-04",
-   "city": "Sacramento, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-13",
-   "notified": true
-  },
-  {
    "name": "Microsoft TechCon 365 Dallas 2026",
    "url": "https://www.techcon365.com/Dallas",
    "kind": "conference",
    "start": "2026-11-02",
    "end": "2026-11-06",
    "city": "Dallas, TX",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "OWASP Global AppSec USA (SF) 2026 - CFT",
-   "url": "https://owasp.glueup.com/event/owasp-2026-global-appsec-usa-san-francisco-ca-167174/",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-04",
-   "city": "San Francisco, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Humanoid Robots Summit North America 2026",
-   "url": "https://acgrobotus.com/",
-   "kind": "conference",
-   "start": "2026-11-03",
-   "end": "2026-11-04",
-   "city": "Chicago, IL",
    "state": "",
    "sources": [
     "dev.events",
@@ -152,20 +77,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Elastic{ON}",
-   "url": "https://www.elastic.co/events/elasticon",
-   "kind": "conference",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "city": "San Francisco, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -550,6 +461,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Savannah | Claude Code Build Day",
+   "url": "https://luma.com/claude-pksj",
+   "kind": "meetup",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "city": "Savannah",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
   },
   {
    "name": "SeaGL (the Seattle GNU/Linux Conference)",
@@ -2736,6 +2661,20 @@
    "notified": true
   },
   {
+   "name": "From Markets to Venture: Investing Across the Healthcare Landscape",
+   "url": "https://luma.com/v17x3t8t",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
+  },
+  {
    "name": "Molding Conference 2026",
    "url": "https://www.moldingconference.com/",
    "kind": "conference",
@@ -2862,6 +2801,20 @@
    "notified": true
   },
   {
+   "name": "GTM & AI Dinner",
+   "url": "https://luma.com/gtm-ai-sf",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
+  },
+  {
    "name": "n8n Meetup San Francisco \u00b7 Microsoft Ignite Afterhours",
    "url": "https://luma.com/n8n-25m5",
    "kind": "meetup",
@@ -2972,6 +2925,20 @@
    ],
    "first_seen": "2026-11-03",
    "notified": true
+  },
+  {
+   "name": "Codex Community Talk",
+   "url": "https://luma.com/3aw7b1e3",
+   "kind": "meetup",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "city": "Charlotte",
+   "state": "North Carolina",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
   },
   {
    "name": "Cutie Hack 2026",
@@ -3551,6 +3518,20 @@
    ],
    "first_seen": "2026-10-30",
    "notified": true
+  },
+  {
+   "name": "The Fearless Table \u2014 APAC @ re:Invent",
+   "url": "https://luma.com/xavhpwjz",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
   },
   {
    "name": "Day of Data and AI - Houston",
@@ -5570,6 +5551,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Write the Docs Portland 2027",
+   "url": "http://www.writethedocs.org/",
+   "kind": "conference",
+   "start": "2027-05-02",
+   "end": "2027-05-04",
+   "city": "Portland, OR",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-05",
+   "notified": false
   },
   {
    "name": "FinovateSpring",
