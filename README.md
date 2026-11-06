@@ -28,16 +28,16 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**427 upcoming events**: 98 hackathons, 206 conferences and 123 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**423 upcoming events**: 98 hackathons, 199 conferences and 126 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 5, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 6, 2026.</sub>
 
-### 🆕 Just announced (57 this week)
+### 🆕 Just announced (54 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts | Hackathon |
-| [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas | Hackathon |
+| [n8n Buildathon at Santa Clara University with AIC Club](https://luma.com/n8n-j2jq) | Nov 15⁠–⁠16 | Santa Clara, California | Hackathon |
 | [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia | Hackathon |
 | [Almaden Hacks](https://almadenhacks.com) | Jun 5 | San Jose, California | Hackathon |
 | [Agentic AI Foundation ( AAIF ) December Talks](https://luma.com/aaif-seattle) | Dec 1⁠–⁠15 | Washington, DC | Conference |
@@ -51,7 +51,6 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 | Event | When | Where |
 |---|---|---|
-| [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California |
 | [CrownHacks](https://crownhacks.devpost.com/) | Nov 6⁠–⁠8 | Charlotte, North Carolina |
 | [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida |
 | [HackStorm 3.0: Sense, Think and Act](https://hackstorm3.devpost.com/) | Nov 6⁠–⁠8 | San Francisco, California |
@@ -61,6 +60,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
 | [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida |
 | [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California |
+| [GullHacks](https://hub.salisbury.edu/hackathon/) | Nov 7⁠–⁠8 | Salisbury, MD |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

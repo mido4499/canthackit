@@ -13,13 +13,6 @@
   "state": "Virginia",
   "us": true
  },
- "https://arr-hackathon-co-creation.devpost.com/": {
-  "city": "Greater London",
-  "end": "2026-11-06T09:00:00.000-05:00",
-  "start": "2026-11-04T07:00:00.000-05:00",
-  "state": "England",
-  "us": false
- },
  "https://bci-build-sprint.devpost.com/": null,
  "https://bearhacks2027.devpost.com/": {
   "city": "Mississauga",
@@ -50,6 +43,7 @@
   "state": "Tamil Nadu",
   "us": false
  },
+ "https://blockchain-stellar-ic.devpost.com/": null,
  "https://build-a-working-ai-support-bot.devpost.com/": null,
  "https://business-battkefuekd.devpost.com/": {
   "city": "Yorba Linda",
@@ -65,6 +59,7 @@
   "state": "Michigan",
   "us": true
  },
+ "https://civic-hacks-2027-32027.devpost.com/": null,
  "https://code-clash.devpost.com/": {
   "city": "Towson",
   "end": "2026-11-14T18:00:00.000-05:00",
@@ -183,6 +178,7 @@
   "state": "Alberta",
   "us": false
  },
+ "https://hack-club-haven-hong-kong.devpost.com/": null,
  "https://hack-coms-2026.devpost.com/": null,
  "https://hack-peel.devpost.com/": {
   "city": "Mississauga",
@@ -328,6 +324,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://lumahacks.devpost.com/": null,
  "https://madhacks-fall-2026.devpost.com/": null,
  "https://makeuc-2026-30881.devpost.com/": {
   "city": "Cincinnati",
@@ -343,7 +340,9 @@
   "state": "Ohio",
   "us": true
  },
+ "https://neo-hackathon-2026.devpost.com/": null,
  "https://nh26.devpost.com/": null,
+ "https://nn2026-ifrdc.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
   "end": "2027-01-31T13:15:00.000-05:00",
@@ -358,6 +357,7 @@
   "state": "",
   "us": false
  },
+ "https://nutech-hackfest-2026.devpost.com/": null,
  "https://ocsefhacks3.devpost.com/": {
   "city": "Westminster",
   "end": "2026-11-15T18:00:00.000-05:00",
@@ -423,13 +423,6 @@
   "start": "2026-11-07T12:00:00.000-05:00",
   "state": "Ontario",
   "us": false
- },
- "https://ship-it-hackathon.devpost.com/": {
-  "city": "San Francisco",
-  "end": "2026-11-05T21:00:00.000-05:00",
-  "start": "2026-11-05T18:00:00.000-05:00",
-  "state": "California",
-  "us": true
  },
  "https://sinceai2026.devpost.com/": {
   "city": "Turku",
@@ -510,6 +503,7 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://wie-hackathon-2026.devpost.com/": null,
  "https://wisestart-2026-tll.devpost.com/": null,
  "https://wolfjam-2026.devpost.com/": null,
  "https://wwc-hackathon.devpost.com/": null,
