@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**423 upcoming events**: 98 hackathons, 199 conferences and 126 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**423 upcoming events**: 97 hackathons, 194 conferences and 132 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 6, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 7, 2026.</sub>
 
-### 🆕 Just announced (54 this week)
+### 🆕 Just announced (60 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -40,27 +40,27 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [n8n Buildathon at Santa Clara University with AIC Club](https://luma.com/n8n-j2jq) | Nov 15⁠–⁠16 | Santa Clara, California | Hackathon |
 | [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia | Hackathon |
 | [Almaden Hacks](https://almadenhacks.com) | Jun 5 | San Jose, California | Hackathon |
-| [Agentic AI Foundation ( AAIF ) December Talks](https://luma.com/aaif-seattle) | Dec 1⁠–⁠15 | Washington, DC | Conference |
 | [AlohAI](https://alohaiconf.com/) | Jan 23 | Hawai | Conference |
-| [Code Remix Summit](https://coderemix.ai/) | Feb 22⁠–⁠24 | Miami, FL | Conference |
+| [DataTune 2027](https://DataTuneConf.com/) | Mar 12⁠–⁠13 | Nashville, TN | Conference |
 | [STC Squared Conference 2027](https://sgftechcouncil.com/squared) | Mar 31 | Springfield, IL | Conference |
-| [KCD Texas 2027](https://pretalx.com/kcd-texas-2027/) | Apr 23 | Austin, TX | Conference |
 | [BSidesCharm2027](https://bsidescharm.org/) | Apr 24⁠–⁠25 | Baltimore, MD | Conference |
+| [Write the Docs Portland 2027](http://www.writethedocs.org/) | May 2⁠–⁠4 | Portland, OR | Conference |
+| [AGNTSummit New York City](https://events.linuxfoundation.org/agntsummit-new-york-city/) | Nov 1 | New York, NY | Conference |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [CrownHacks](https://crownhacks.devpost.com/) | Nov 6⁠–⁠8 | Charlotte, North Carolina |
-| [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida |
-| [HackStorm 3.0: Sense, Think and Act](https://hackstorm3.devpost.com/) | Nov 6⁠–⁠8 | San Francisco, California |
-| [PowerHack](https://powerhack.devpost.com/) | Nov 6 | The Bronx, New York |
-| [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL |
-| [YCP Hacks](https://ycphacks.io/) | Nov 6⁠–⁠8 | York PA, PA |
 | [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
 | [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida |
 | [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California |
 | [GullHacks](https://hub.salisbury.edu/hackathon/) | Nov 7⁠–⁠8 | Salisbury, MD |
+| [HACK.COMS](https://events.mlh.com/events/14418-hack-coms-2026) | Nov 7⁠–⁠8 | Rochester, New York |
+| [HackRPI 2026](https://hackrpi-2026.devpost.com/) | Nov 7⁠–⁠8 | Troy, New York |
+| [HackUTD](https://zeroday.hackutd.co) | Nov 7⁠–⁠8 | Richardson, Texas |
+| [Indy Init 2026](https://indy-init-2026.devpost.com/) | Nov 7 | Fishers, Indiana |
+| [KTPHacks 2](https://ktphacks-2.devpost.com/) | Nov 7⁠–⁠8 | Blacksburg, Virginia |
+| [MakeCU](https://v0-curc-makecu.vercel.app/) | Nov 7⁠–⁠8 | New York, New York |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

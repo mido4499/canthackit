@@ -24,21 +24,6 @@
    "notified": true
   },
   {
-   "name": "Microsoft TechCon 365 Dallas 2026",
-   "url": "https://www.techcon365.com/Dallas",
-   "kind": "conference",
-   "start": "2026-11-02",
-   "end": "2026-11-06",
-   "city": "Dallas, TX",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "2026 ACSA Leadership Summit",
    "url": "https://bit.ly/26LeadershipSummit",
    "kind": "conference",
@@ -48,133 +33,6 @@
    "state": "",
    "sources": [
     "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "2026 BSIDES Columbus",
-   "url": "https://www.bsidescolumbus.com/",
-   "kind": "conference",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "city": "Columbus, OH",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevLearn Conference & Expo",
-   "url": "https://dev.events/conferences/dev-learn-conference-and-expo-saprryxs",
-   "kind": "conference",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "city": "Las Vegas",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "EWF Annual Conference",
-   "url": "https://dev.events/conferences/ewf-annual-conference-i9sfy8xy",
-   "kind": "conference",
-   "start": "2026-11-04",
-   "end": "2026-11-06",
-   "city": "Aurora",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "ATL Build League",
-   "url": "https://luma.com/aic-at-11-5-a",
-   "kind": "meetup",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "Sandy Springs",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-25",
-   "notified": true
-  },
-  {
-   "name": "Beyond the Chat Window (w/ The AI Collective)",
-   "url": "https://luma.com/aic-sp-11-5",
-   "kind": "meetup",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "Vero Beach",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-23",
-   "notified": true
-  },
-  {
-   "name": "Meetup (w/ The AI Collective)",
-   "url": "https://luma.com/aic-ma-11-5",
-   "kind": "meetup",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "Centerville",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "n8n Meetup Houston: FDE Sprint #1 \u2014 From Messy Workflow to Trusted AI Automation",
-   "url": "https://luma.com/n8n-qi74",
-   "kind": "meetup",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "Sugar Land",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-23",
-   "notified": true
-  },
-  {
-   "name": "OWASP Global AppSec US 2026 - CFP (San Francisco)",
-   "url": "https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/",
-   "kind": "conference",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "San Francisco, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UXDX San Francisco",
-   "url": "https://dev.events/conferences/uxdx-san-francisco-glfkabqb",
-   "kind": "conference",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "city": "San Francisco",
-   "state": "",
-   "sources": [
-    "dev.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -191,20 +49,6 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community: Kansas City",
-   "url": "https://luma.com/CodexKC2026",
-   "kind": "meetup",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "city": "Kansas City",
-   "state": "Missouri",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-13",
    "notified": true
   },
   {
@@ -276,48 +120,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "PowerHack",
-   "url": "https://powerhack.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "city": "The Bronx",
-   "state": "New York",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Product Circle - Leaders New York",
-   "url": "https://dev.events/conferences/product-circle-leaders-new-york-osbnpm-v",
-   "kind": "conference",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "city": "New York",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Savannah | Claude Code Build Day",
-   "url": "https://luma.com/claude-pksj",
-   "kind": "meetup",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "city": "Savannah",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-05",
    "notified": true
   },
   {
@@ -897,6 +699,20 @@
    "notified": true
   },
   {
+   "name": "Intel Capital Networking Connect at KubeCon",
+   "url": "https://luma.com/nm1da1f0",
+   "kind": "meetup",
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "KubeAuto Day North America",
    "url": "https://kubeauto.day/north-america",
    "kind": "conference",
@@ -1228,6 +1044,20 @@
    "notified": true
   },
   {
+   "name": "Pastries for PMs",
+   "url": "https://luma.com/ln6wq90v",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "SF Ruby Startup Conference",
    "url": "https://dev.events/conferences/sf-ruby-startup-conference-6dokxddp",
    "kind": "conference",
@@ -1298,6 +1128,20 @@
    "notified": true
   },
   {
+   "name": "AI 201: Why the Prompt Was Never the Problem (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-11-11-1",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "city": "Alpharetta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "AI Collective x Gauntlet AI | Inside the Gauntlet (w/ The AI Collective)",
    "url": "https://luma.com/aic-gauntlet-nov10",
    "kind": "meetup",
@@ -1337,6 +1181,20 @@
     "luma"
    ],
    "first_seen": "2026-11-04",
+   "notified": true
+  },
+  {
+   "name": "Breakfast: Trace sampling, its biases, and how to make it right",
+   "url": "https://luma.com/wobkjkqs",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
    "notified": true
   },
   {
@@ -1494,6 +1352,20 @@
    "notified": true
   },
   {
+   "name": "Atlanta | Claude Code Workshop",
+   "url": "https://luma.com/claude-gjw7",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "city": "Marietta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "BADCamp 2026",
    "url": "https://badcamp.org",
    "kind": "conference",
@@ -1578,6 +1450,20 @@
    "notified": true
   },
   {
+   "name": "Google Cloud \u00d7 NVIDIA Developer Meet-up & Reception at KubeCon",
+   "url": "https://luma.com/glbz6e4t",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "Kube-napped Again: Phippy's Abduction at the Salt Flats",
    "url": "https://luma.com/6zwhjpeo",
    "kind": "meetup",
@@ -1645,6 +1531,20 @@
     "luma"
    ],
    "first_seen": "2026-10-16",
+   "notified": true
+  },
+  {
+   "name": "NeuBird + FluidCloud Happy Hour at KubeCon + CloudNativeCon North America 2026",
+   "url": "https://luma.com/p9p3bq73",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
    "notified": true
   },
   {
@@ -2729,6 +2629,20 @@
    "notified": true
   },
   {
+   "name": "Nucleate PNW: In-Person Team Matching",
+   "url": "https://luma.com/9an1hm9w",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "Snowglobe",
    "url": "https://snowglobe.hackclub.com/",
    "kind": "hackathon",
@@ -3083,6 +2997,20 @@
    "notified": true
   },
   {
+   "name": "Re:Invent Super Car-tesia",
+   "url": "https://luma.com/dztqp1c4",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "AI Open Mic and Networking (w/ The AI Collective)",
    "url": "https://luma.com/aic-cl-12-2",
    "kind": "meetup",
@@ -3192,6 +3120,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Got an idea? Build and deploy a game to EKS in 2 Hours @ AWS re:Invent",
+   "url": "https://luma.com/platform-xwr7",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
    "notified": true
   },
   {
@@ -3448,6 +3390,20 @@
    "notified": true
   },
   {
+   "name": "Ski Lodge: Apr\u00e8s re:Invent with Dash0, incident.io & Cortex",
+   "url": "https://luma.com/dash0-3tbz",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "The Fearless Table \u2014 APAC @ re:Invent",
    "url": "https://luma.com/xavhpwjz",
    "kind": "meetup",
@@ -3459,6 +3415,20 @@
     "luma"
    ],
    "first_seen": "2026-11-05",
+   "notified": true
+  },
+  {
+   "name": "The Ultimate AWS re After-Hours Party at TAO!",
+   "url": "https://luma.com/s129qy0g",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-07",
    "notified": true
   },
   {
@@ -4744,6 +4714,20 @@
    "notified": true
   },
   {
+   "name": "DataTune 2027",
+   "url": "https://DataTuneConf.com/",
+   "kind": "conference",
+   "start": "2027-03-12",
+   "end": "2027-03-13",
+   "city": "Nashville, TN",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
    "name": "AI Context New York",
    "url": "https://dev.events/conferences/ai-context-new-york-5p0uvvqn",
    "kind": "conference",
@@ -6022,6 +6006,20 @@
     "devpost"
    ],
    "first_seen": "2026-10-14",
+   "notified": true
+  },
+  {
+   "name": "AGNTSummit New York City",
+   "url": "https://events.linuxfoundation.org/agntsummit-new-york-city/",
+   "kind": "conference",
+   "start": "2027-11-01",
+   "end": "2027-11-01",
+   "city": "New York, NY",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-07",
    "notified": true
   },
   {
