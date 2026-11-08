@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**423 upcoming events**: 97 hackathons, 194 conferences and 132 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**416 upcoming events**: 95 hackathons, 187 conferences and 134 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 7, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 8, 2026.</sub>
 
-### 🆕 Just announced (60 this week)
+### 🆕 Just announced (61 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -51,16 +51,16 @@ It's free, takes one click, and it's how other students and job seekers discover
 
 | Event | When | Where |
 |---|---|---|
-| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
-| [DevDay Exchange Community Hackathon: Miami](https://luma.com/codexmiami) | Nov 7⁠–⁠9 | Miami, Florida |
-| [Falcon Hacks](https://falconhacks2026.com) | Nov 7⁠–⁠8 | Pleasanton, California |
-| [GullHacks](https://hub.salisbury.edu/hackathon/) | Nov 7⁠–⁠8 | Salisbury, MD |
-| [HACK.COMS](https://events.mlh.com/events/14418-hack-coms-2026) | Nov 7⁠–⁠8 | Rochester, New York |
-| [HackRPI 2026](https://hackrpi-2026.devpost.com/) | Nov 7⁠–⁠8 | Troy, New York |
-| [HackUTD](https://zeroday.hackutd.co) | Nov 7⁠–⁠8 | Richardson, Texas |
-| [Indy Init 2026](https://indy-init-2026.devpost.com/) | Nov 7 | Fishers, Indiana |
-| [KTPHacks 2](https://ktphacks-2.devpost.com/) | Nov 7⁠–⁠8 | Blacksburg, Virginia |
-| [MakeCU](https://v0-curc-makecu.vercel.app/) | Nov 7⁠–⁠8 | New York, New York |
+| [Win $10K at the Cloud Native Hackathon with Kelsey Hightower](https://luma.com/cnh) | Nov 9⁠–⁠10 | Salt Lake City, Utah |
+| [Emory Hacks](https://emoryhacks.com/) | Nov 13⁠–⁠15 | Atlanta, GA |
+| [GTransformer AI Buildathon 2026 — AI for Global Good](https://gtransformer-buildathon-2026.devpost.com/) | Nov 13⁠–⁠15 | Milpitas, California |
+| [HackPrinceton Fall 2026](https://www.hackprinceton.com) | Nov 13⁠–⁠15 | Princeton, New Jersey |
+| [HackUMass](https://www.hackumass.com/) | Nov 13⁠–⁠15 | Amherst, MA |
+| [Hackperimeter](https://hackperimeter.devpost.com/) | Nov 13 | Clarkston, Georgia |
+| [NASA's Space Apps Challenge NYC](https://www.spaceappschallenge.org/2026/local-events/new-york/) | Nov 13⁠–⁠15 | Brooklyn, New York |
+| [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts |
+| [Central Hacks](https://central-hacks.devpost.com/) | Nov 14⁠–⁠15 | Mount Pleasant, Michigan |
+| [Code/Clash](https://code-clash.devpost.com/) | Nov 14 | Towson, Maryland |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

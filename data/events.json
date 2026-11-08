@@ -24,20 +24,6 @@
    "notified": true
   },
   {
-   "name": "2026 ACSA Leadership Summit",
-   "url": "https://bit.ly/26LeadershipSummit",
-   "kind": "conference",
-   "start": "2026-11-04",
-   "end": "2026-11-07",
-   "city": "Chula Vista, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "CrownHacks",
    "url": "https://crownhacks.devpost.com/",
    "kind": "hackathon",
@@ -80,20 +66,6 @@
    "notified": true
   },
   {
-   "name": "New England Drupal Camp (NEDCamp)",
-   "url": "https://dev.events/conferences/new-england-drupal-camp-ned-camp-8x17bzfs",
-   "kind": "conference",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "city": "Providence",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Nucleate Pittsburgh's 2026 BioHack",
    "url": "https://luma.com/bzhycis6",
    "kind": "meetup",
@@ -108,35 +80,6 @@
    "notified": true
   },
   {
-   "name": "PNW Day of Data 2026",
-   "url": "https://dayofdata.org/2026-11-07-dayofdata1149/",
-   "kind": "conference",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "city": "Washington, DC",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SeaGL (the Seattle GNU/Linux Conference)",
-   "url": "https://seagl.org",
-   "kind": "conference",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "city": "Seattle, WA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "SharkByte",
    "url": "https://shark-byte.io/",
    "kind": "hackathon",
@@ -148,21 +91,6 @@
     "mlh"
    ],
    "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Texas Linux Fest",
-   "url": "https://2026.texaslinuxfest.org/",
-   "kind": "conference",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "city": "Austin, TX",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -219,21 +147,6 @@
     "luma"
    ],
    "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "DevFest KC 2026",
-   "url": "https://devfestkc.com",
-   "kind": "conference",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "city": "Kansas City, MO",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -317,35 +230,6 @@
    "state": "Texas",
    "sources": [
     "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Indy Init 2026",
-   "url": "https://indy-init-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "city": "Fishers",
-   "state": "Indiana",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-19",
-   "notified": true
-  },
-  {
-   "name": "Iowa Code Camp Fall 2026",
-   "url": "https://iowacodecamp.com",
-   "kind": "conference",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "city": "Iowa",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -447,20 +331,6 @@
     "mlh"
    ],
    "first_seen": "2026-10-17",
-   "notified": true
-  },
-  {
-   "name": "WWU Social Justice Hackathon",
-   "url": "https://wwu-sj-hack.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "city": "Bellingham",
-   "state": "Washington",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
    "notified": true
   },
   {
@@ -3025,6 +2895,20 @@
    "notified": true
   },
   {
+   "name": "AWS re:Invent 2026 Executive Cocktail Hour - Holiday Edition \ud83c\udf84",
+   "url": "https://luma.com/executive-cocktail-hour-reinvent",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-08",
+   "notified": false
+  },
+  {
    "name": "AWS re:Invent 2026: After-Hours Social",
    "url": "https://luma.com/x3ftka38",
    "kind": "meetup",
@@ -3318,6 +3202,20 @@
    ],
    "first_seen": "2026-11-03",
    "notified": true
+  },
+  {
+   "name": "Agent Afters - The best night out of AWS re:Invent",
+   "url": "https://luma.com/agentafters",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-08",
+   "notified": false
   },
   {
    "name": "AI Trivia Night at re:invent",
