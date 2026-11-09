@@ -24,118 +24,6 @@
    "notified": true
   },
   {
-   "name": "CrownHacks",
-   "url": "https://crownhacks.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "Charlotte",
-   "state": "North Carolina",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevFest Hackathon 2026",
-   "url": "https://devfest-hackathon-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "Orlando",
-   "state": "Florida",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "HackStorm 3.0: Sense, Think and Act",
-   "url": "https://hackstorm3.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Pittsburgh's 2026 BioHack",
-   "url": "https://luma.com/bzhycis6",
-   "kind": "meetup",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "Pittsburgh",
-   "state": "Pennsylvania",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-09",
-   "notified": true
-  },
-  {
-   "name": "SharkByte",
-   "url": "https://shark-byte.io/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "Miami",
-   "state": "FL",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "YCP Hacks",
-   "url": "https://ycphacks.io/",
-   "kind": "hackathon",
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "city": "York PA",
-   "state": "PA",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AWS x A10 Hack 2026",
-   "url": "https://a10-x-aws-hack-26.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Santa Clara",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "Claude Impact Lab: UCI \u00d7 Habitat OC",
-   "url": "https://luma.com/uci-impact-lab",
-   "kind": "meetup",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Irvine",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
    "name": "DevDay Exchange Community Hackathon: Miami",
    "url": "https://luma.com/codexmiami",
    "kind": "hackathon",
@@ -147,190 +35,6 @@
     "luma"
    ],
    "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "Falcon Hacks",
-   "url": "https://falconhacks2026.com",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Pleasanton",
-   "state": "California",
-   "sources": [
-    "hackclub"
-   ],
-   "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
-   "name": "GullHacks",
-   "url": "https://hub.salisbury.edu/hackathon/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Salisbury",
-   "state": "MD",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack for Humanity: Portland, OR",
-   "url": "https://luma.com/h4h-pdx",
-   "kind": "meetup",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Portland",
-   "state": "Oregon",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
-   "notified": true
-  },
-  {
-   "name": "HACK.COMS",
-   "url": "https://events.mlh.com/events/14418-hack-coms-2026",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Rochester",
-   "state": "New York",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "HackRPI 2026",
-   "url": "https://hackrpi-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Troy",
-   "state": "New York",
-   "sources": [
-    "devpost",
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "HackUTD",
-   "url": "https://zeroday.hackutd.co",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Richardson",
-   "state": "Texas",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "KTPHacks 2",
-   "url": "https://ktphacks-2.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Blacksburg",
-   "state": "Virginia",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "MakeCU",
-   "url": "https://v0-curc-makecu.vercel.app/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "MakeUC 2026",
-   "url": "https://makeuc-2026-30884.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Cincinnati",
-   "state": "Ohio",
-   "sources": [
-    "devpost",
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Meow",
-   "url": "https://makeuc-2026-30881.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Cincinnati",
-   "state": "Ohio",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Redhawk Builds 2026",
-   "url": "https://redhawk-builds-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Oxford",
-   "state": "Ohio",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "TAMU Datathon",
-   "url": "https://tamudatathon.com/",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "College Station",
-   "state": "Texas",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "UB Hacking",
-   "url": "https://ubhacking.cse.buffalo.edu",
-   "kind": "hackathon",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "city": "Buffalo",
-   "state": "Northeast ",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-17",
    "notified": true
   },
   {
@@ -363,35 +67,6 @@
    "notified": true
   },
   {
-   "name": "Maintainer Summit: KubeCon + CloudNativeCon North America 2026",
-   "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/maintainer-summit/",
-   "kind": "conference",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "city": "Salt Lake City, UT",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "n8n Seattle x GDG DevFest 2026",
-   "url": "https://luma.com/n8n-r2so",
-   "kind": "meetup",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
    "name": "Simply Cyber Con 2026",
    "url": "https://simplycybercon.org",
    "kind": "conference",
@@ -404,20 +79,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Suwanee - Claude SMB Trainer Workshop (w/ The AI Collective)",
-   "url": "https://luma.com/aic-gw-11-8",
-   "kind": "meetup",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "city": "Suwanee",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
    "notified": true
   },
   {
@@ -599,6 +260,20 @@
    "notified": true
   },
   {
+   "name": "KubeCon + CloudNativeCon NA 2026",
+   "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/",
+   "kind": "conference",
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "city": "Salt Lake City, UT",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Kubernetes Automation Day: Free, IMAX Dome, Liz Rice, Kelsey Hightower, Bret Fisher + 11 more all-star practitioners",
    "url": "https://luma.com/ktykjzbj",
    "kind": "meetup",
@@ -731,6 +406,20 @@
    "notified": true
   },
   {
+   "name": "Rooftop Happy Hour: Physical AI Data & Sim Infra w/Midcentury and AI Circle",
+   "url": "https://luma.com/u6rr5lql",
+   "kind": "meetup",
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Win $10K at the Cloud Native Hackathon with Kelsey Hightower",
    "url": "https://luma.com/cnh",
    "kind": "hackathon",
@@ -816,6 +505,20 @@
    "notified": true
   },
   {
+   "name": "Bring Your Policy, Run It on Our Humanoid: CoRL Demo Night",
+   "url": "https://luma.com/xndqu6pn",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Build Your Own Managed Kubernetes Platform in 2 Hours @ KubeCon SLC",
    "url": "https://luma.com/platform-rqhf",
    "kind": "meetup",
@@ -830,6 +533,20 @@
    "notified": true
   },
   {
+   "name": "CoRL After-Hours in a Museum of Oddities",
+   "url": "https://luma.com/y04u3xse",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Executive roundtable (@KubeCon): How to build an agent-ready platform with open source tools",
    "url": "https://luma.com/platform-dd47",
    "kind": "meetup",
@@ -841,6 +558,20 @@
     "luma"
    ],
    "first_seen": "2026-10-22",
+   "notified": true
+  },
+  {
+   "name": "Happy Hour with Sky9 after CoRL",
+   "url": "https://luma.com/72j50uvo",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -928,6 +659,20 @@
    "notified": true
   },
   {
+   "name": "Robots Gotta Eat: Researchers Lunch at CoRL",
+   "url": "https://luma.com/mvvlclte",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "SF Ruby Startup Conference",
    "url": "https://dev.events/conferences/sf-ruby-startup-conference-6dokxddp",
    "kind": "conference",
@@ -939,6 +684,34 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Shuffle Into the Real World - Maxinsights @CoRL2026 Panel & Mixer",
+   "url": "https://luma.com/wq7neni9",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "sudo robotics \u00d7 CoRL 2026 After Party",
+   "url": "https://luma.com/vain0m00",
+   "kind": "meetup",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1054,6 +827,20 @@
    "notified": true
   },
   {
+   "name": "Bots & Boots \ud83e\udd16\ud83e\udd20 The Dexmate CoRL Afterparty",
+   "url": "https://luma.com/7ihu11na",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Breakfast: Trace sampling, its biases, and how to make it right",
    "url": "https://luma.com/wobkjkqs",
    "kind": "meetup",
@@ -1065,6 +852,104 @@
     "luma"
    ],
    "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
+   "name": "CoRL 2026 Apptronik Humanoid Networking Lunch",
+   "url": "https://luma.com/97z1wrhu",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "CoRL After Dark \u2014 hosted by Bedrock Robotics & NVIDIA",
+   "url": "https://luma.com/6zvo84pn",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "CoRL Happy Hour with MoonlakeAI & AGI Bot",
+   "url": "https://luma.com/wlzko270",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "CoRL Unsupervised - An Afterparty by Eventual",
+   "url": "https://luma.com/2ru4raap",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Datum x ARM Kubecon Social",
+   "url": "https://luma.com/datum-6cd7",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Foundry Robotics",
+   "url": "https://luma.com/r3gyefn1",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Gritt Happy Hour @ CoRL 2026",
+   "url": "https://luma.com/xldm6sep",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1110,6 +995,104 @@
    "notified": true
   },
   {
+   "name": "Live Jazz Night by Abaka AI @ CoRL 2026",
+   "url": "https://luma.com/corl2026-event",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Lute Evening: deploying physical intelligence - CoRL 2026",
+   "url": "https://luma.com/spxxxrzm",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Physical AI Night",
+   "url": "https://luma.com/e9menn5c",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Rhoda AI @ CoRL: Video Models Meet Robotics",
+   "url": "https://luma.com/e8ucuj9c",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Robotics Community & Coffee Walk - CoRL",
+   "url": "https://luma.com/xlwlkfqg",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Robots On Rainey Street: A Night at CoRL 2026",
+   "url": "https://luma.com/fhjn0lmd",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Scaling Physical AI @ CoRL 2026: Sim2Real & Post-Training Afterparty",
+   "url": "https://luma.com/8a0v7jfl",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Seattle | Claude Cowork for MBA Alumni: Build Your Personal OS",
    "url": "https://luma.com/claude-mba",
    "kind": "meetup",
@@ -1149,6 +1132,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "The Future of Robot Learning",
+   "url": "https://luma.com/zskz4acb",
+   "kind": "meetup",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1250,6 +1247,20 @@
    "notified": true
   },
   {
+   "name": "Beyond The Data Ceiling: Dinner with Zeromatter",
+   "url": "https://luma.com/j1oyp8we",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Boston OpenClaw Meetup [November 2026]",
    "url": "https://luma.com/isp0bcdq",
    "kind": "meetup",
@@ -1261,6 +1272,20 @@
     "luma"
    ],
    "first_seen": "2026-10-26",
+   "notified": true
+  },
+  {
+   "name": "Breakfast: Shaping telemetry for AI consumption",
+   "url": "https://luma.com/fn33zjlk",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1289,6 +1314,34 @@
     "luma"
    ],
    "first_seen": "2026-11-06",
+   "notified": true
+  },
+  {
+   "name": "CoRL Happy Hour with Dyna Robotics \ud83e\udd16",
+   "url": "https://luma.com/3du99deo",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Dexterity night: after party with Origami Robotics \u00d7 zero state",
+   "url": "https://luma.com/22x21fxc",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1345,6 +1398,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "KubeCon Happy Hour + Whiskey Tasting // Depot x PlanetScale x WorkOS",
+   "url": "https://luma.com/xgycuabn",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Salt Lake City",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -1457,6 +1524,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Physical AI x Data Panel & Mixer, presented by Sieve and Uncork Capital",
+   "url": "https://luma.com/f0941tp1",
+   "kind": "meetup",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -2471,6 +2552,34 @@
    "notified": true
   },
   {
+   "name": "AI Alien Alert! An Out-of-This-World App Build Night (w/ The AI Collective)",
+   "url": "https://luma.com/ai-alien-alert-757",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "Norfolk",
+   "state": "Virginia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Codex Community Meetup: Tampa",
+   "url": "https://luma.com/6uk3m4og",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "St. Petersburg",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "GTM & AI Dinner",
    "url": "https://luma.com/gtm-ai-sf",
    "kind": "meetup",
@@ -2552,6 +2661,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Women Leading Life Sciences Dinner San Diego",
+   "url": "https://luma.com/tj48yqtl",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -2769,6 +2892,20 @@
    "notified": true
   },
   {
+   "name": "Golf at the Wynn with Blunom and Partners at Re:Invent 2026!",
+   "url": "https://luma.com/t6gkp59v",
+   "kind": "meetup",
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "NVIDIA GTC Washington",
    "url": "https://dev.events/conferences/nvidia-gtc-washington-wx7ewrne",
    "kind": "conference",
@@ -2906,7 +3043,7 @@
     "luma"
    ],
    "first_seen": "2026-11-08",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AWS re:Invent 2026: After-Hours Social",
@@ -3004,6 +3141,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Golf at the Wynn with Blunom and Partners at Re:Invent 2026!",
+   "url": "https://luma.com/rptef4en",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -3215,7 +3366,7 @@
     "luma"
    ],
    "first_seen": "2026-11-08",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AI Trivia Night at re:invent",
@@ -3330,6 +3481,20 @@
    "notified": true
   },
   {
+   "name": "CISO Strategy Salon - AWS ReInvent 2026",
+   "url": "https://luma.com/58m3v3a2",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
    "name": "Day of Data and AI - Houston",
    "url": "https://dayofdata.org/2026-12-05-dayofdata1162/",
    "kind": "conference",
@@ -3384,6 +3549,20 @@
     "luma"
    ],
    "first_seen": "2026-10-23",
+   "notified": true
+  },
+  {
+   "name": "Nucleate PNW x CDL Seattle: Women's Health Research Acceleration Challenge",
+   "url": "https://luma.com/8kdgcjkt",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-07",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -5143,6 +5322,20 @@
     "hackclub"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Arc of AI 2027",
+   "url": "https://www.arcofai.com/",
+   "kind": "conference",
+   "start": "2027-04-19",
+   "end": "2027-04-22",
+   "city": "Austin, TX",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-09",
    "notified": true
   },
   {

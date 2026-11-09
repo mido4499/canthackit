@@ -88,13 +88,6 @@
   "state": "Nordrhein-Westfalen",
   "us": false
  },
- "https://devfest-hackathon-2026.devpost.com/": {
-  "city": "Orlando",
-  "end": "2026-11-08T15:30:00.000-05:00",
-  "start": "2026-11-06T18:30:00.000-05:00",
-  "state": "Florida",
-  "us": true
- },
  "https://devhacks-2027.devpost.com/": {
   "city": "Winnipeg",
   "end": "2027-02-21T14:00:00.000-05:00",
@@ -172,13 +165,6 @@
   "us": false
  },
  "https://hackai-toronto.devpost.com/": null,
- "https://hackcamp-2026.devpost.com/": {
-  "city": "Vancouver",
-  "end": "2026-11-08T15:00:00.000-05:00",
-  "start": "2026-11-07T15:00:00.000-05:00",
-  "state": "British Columbia",
-  "us": false
- },
  "https://hackperimeter.devpost.com/": {
   "city": "Clarkston",
   "end": "2026-11-13T17:00:00.000-05:00",
@@ -195,7 +181,6 @@
  },
  "https://hacksussex-gamejam-2026.devpost.com/": null,
  "https://hacktcnj-2027.devpost.com/": null,
- "https://hackutd-zeroday.devpost.com/": null,
  "https://haven-asbury-park.devpost.com/": {
   "city": "Shrewsbury",
   "end": "2026-11-14T21:00:00.000-05:00",
@@ -249,8 +234,8 @@
   "state": "Ontario",
   "us": false
  },
- "https://iosc-end-of-semester-hackathon.devpost.com/": null,
  "https://k-dub-hacks.devpost.com/": null,
+ "https://kaya-ai-grand-challenge.devpost.com/": null,
  "https://khe-2027.devpost.com/": {
   "city": "Kent",
   "end": "2027-03-07T12:00:00.000-05:00",
@@ -361,7 +346,6 @@
   "state": "New York",
   "us": true
  },
- "https://tamu-datathon-26-casino-royale.devpost.com/": null,
  "https://tbd-hackathon.devpost.com/": {
   "city": "Philadelphia",
   "end": "2027-01-23T17:00:00.000-05:00",
@@ -391,7 +375,8 @@
   "us": true
  },
  "https://ubc-hackathon-2026.devpost.com/": null,
- "https://ubhacking2026.devpost.com/": null,
+ "https://unfair-weekend.devpost.com/": null,
+ "https://vibeathon-mexico-2026.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",
   "end": "2026-12-20T17:00:00.000-05:00",
@@ -399,8 +384,8 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://wics-geaux-hack-2027.devpost.com/": null,
  "https://wisestart-2026-tll.devpost.com/": null,
- "https://wwc-hackathon.devpost.com/": null,
  "https://youtube-automation-hackathon.devpost.com/": {
   "city": "Vancouver",
   "end": "2027-12-10T02:00:00.000-05:00",
