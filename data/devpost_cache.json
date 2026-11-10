@@ -45,6 +45,7 @@
   "state": "Michigan",
   "us": true
  },
+ "https://checkpoint-journeys-hanoi.devpost.com/": null,
  "https://civic-hacks-2027-32027.devpost.com/": null,
  "https://code-clash.devpost.com/": {
   "city": "Towson",
@@ -95,6 +96,7 @@
   "state": "Manitoba",
   "us": false
  },
+ "https://devnetwork-api-hackathon-2027.devpost.com/": null,
  "https://dtit-hackathon-2026.devpost.com/": null,
  "https://eaglehacks2027.devpost.com/": null,
  "https://engage-test.devpost.com/": null,
@@ -181,6 +183,7 @@
  },
  "https://hacksussex-gamejam-2026.devpost.com/": null,
  "https://hacktcnj-2027.devpost.com/": null,
+ "https://hackva27.devpost.com/": null,
  "https://haven-asbury-park.devpost.com/": {
   "city": "Shrewsbury",
   "end": "2026-11-14T21:00:00.000-05:00",
@@ -281,6 +284,7 @@
   "state": "Ontario",
   "us": false
  },
+ "https://opportunity-hack-2026-arizona.devpost.com/": null,
  "https://project-zh.devpost.com/": null,
  "https://rebelhacks-2027.devpost.com/": {
   "city": "Las Vegas",
@@ -384,6 +388,7 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://whs-build.devpost.com/": null,
  "https://wics-geaux-hack-2027.devpost.com/": null,
  "https://wisestart-2026-tll.devpost.com/": null,
  "https://youtube-automation-hackathon.devpost.com/": {

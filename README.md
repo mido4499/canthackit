@@ -28,30 +28,29 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**430 upcoming events**: 77 hackathons, 188 conferences and 165 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**424 upcoming events**: 76 hackathons, 173 conferences and 175 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 9, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 10, 2026.</sub>
 
-### 🆕 Just announced (87 this week)
+### 🆕 Just announced (80 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [n8n Buildathon at Santa Clara University with AIC Club](https://luma.com/n8n-j2jq) | Nov 15⁠–⁠16 | Santa Clara, California | Hackathon |
-| [Almaden Hacks](https://almadenhacks.com) | Jun 5 | San Jose, California | Hackathon |
 | [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) | Nov 9⁠–⁠12 | Salt Lake City, UT | Conference |
 | [DataTune 2027](https://DataTuneConf.com/) | Mar 12⁠–⁠13 | Nashville, TN | Conference |
 | [Arc of AI 2027](https://www.arcofai.com/) | Apr 19⁠–⁠22 | Austin, TX | Conference |
 | [Write the Docs Portland 2027](http://www.writethedocs.org/) | May 2⁠–⁠4 | Portland, OR | Conference |
 | [AGNTSummit New York City](https://events.linuxfoundation.org/agntsummit-new-york-city/) | Nov 1 | New York, NY | Conference |
 | [Intel Capital Networking Connect at KubeCon](https://luma.com/nm1da1f0) | Nov 9⁠–⁠10 | Salt Lake City, Utah | Meetup |
-| [Observability with ClickStack Fundamentals Kubecon Training](https://luma.com/clickh-migc) | Nov 9⁠–⁠10 | Salt Lake City, Utah | Meetup |
 | [Rooftop Happy Hour: Physical AI Data & Sim Infra w/Midcentury and AI Circle](https://luma.com/u6rr5lql) | Nov 9⁠–⁠10 | Austin, Texas | Meetup |
+| [Bring Your Policy, Run It on Our Humanoid: CoRL Demo Night](https://luma.com/xndqu6pn) | Nov 10⁠–⁠11 | Austin, Texas | Meetup |
+| [CoRL 2026 GenRobot Company & Technical Session](https://luma.com/tk7k46uy) | Nov 10 | Austin, Texas | Meetup |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Win $10K at the Cloud Native Hackathon with Kelsey Hightower](https://luma.com/cnh) | Nov 9⁠–⁠10 | Salt Lake City, Utah |
 | [Emory Hacks](https://emoryhacks.com/) | Nov 13⁠–⁠15 | Atlanta, GA |
 | [GTransformer AI Buildathon 2026 — AI for Global Good](https://gtransformer-buildathon-2026.devpost.com/) | Nov 13⁠–⁠15 | Milpitas, California |
 | [HackPrinceton Fall 2026](https://www.hackprinceton.com) | Nov 13⁠–⁠15 | Princeton, New Jersey |
@@ -61,6 +60,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts |
 | [Central Hacks](https://central-hacks.devpost.com/) | Nov 14⁠–⁠15 | Mount Pleasant, Michigan |
 | [Code/Clash](https://code-clash.devpost.com/) | Nov 14 | Towson, Maryland |
+| [Hack The Nest](https://hackthenest.tech/) | Nov 14⁠–⁠15 | Ypsilanti, Michigan |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
