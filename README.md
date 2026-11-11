@@ -28,24 +28,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**424 upcoming events**: 76 hackathons, 173 conferences and 175 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**425 upcoming events**: 76 hackathons, 169 conferences and 180 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 10, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 11, 2026.</sub>
 
-### 🆕 Just announced (80 this week)
+### 🆕 Just announced (93 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
+| [UnlockedHacks](https://unlockedhacks.org/) | Nov 14 | Portland, Oregon | Hackathon |
 | [n8n Buildathon at Santa Clara University with AIC Club](https://luma.com/n8n-j2jq) | Nov 15⁠–⁠16 | Santa Clara, California | Hackathon |
 | [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) | Nov 9⁠–⁠12 | Salt Lake City, UT | Conference |
+| [End of Conference Party: unofficial CoRL 2026 after-party](https://luma.com/5ymztl7c) | Nov 13 | Austin, Texas | Conference |
 | [DataTune 2027](https://DataTuneConf.com/) | Mar 12⁠–⁠13 | Nashville, TN | Conference |
 | [Arc of AI 2027](https://www.arcofai.com/) | Apr 19⁠–⁠22 | Austin, TX | Conference |
 | [Write the Docs Portland 2027](http://www.writethedocs.org/) | May 2⁠–⁠4 | Portland, OR | Conference |
 | [AGNTSummit New York City](https://events.linuxfoundation.org/agntsummit-new-york-city/) | Nov 1 | New York, NY | Conference |
-| [Intel Capital Networking Connect at KubeCon](https://luma.com/nm1da1f0) | Nov 9⁠–⁠10 | Salt Lake City, Utah | Meetup |
-| [Rooftop Happy Hour: Physical AI Data & Sim Infra w/Midcentury and AI Circle](https://luma.com/u6rr5lql) | Nov 9⁠–⁠10 | Austin, Texas | Meetup |
 | [Bring Your Policy, Run It on Our Humanoid: CoRL Demo Night](https://luma.com/xndqu6pn) | Nov 10⁠–⁠11 | Austin, Texas | Meetup |
-| [CoRL 2026 GenRobot Company & Technical Session](https://luma.com/tk7k46uy) | Nov 10 | Austin, Texas | Meetup |
+| [AI 201: Why the Prompt Was Never the Problem (w/ The AI Collective)](https://luma.com/aic-at-11-11-1) | Nov 11⁠–⁠12 | Alpharetta, Georgia | Meetup |
 
 ### 🏁 Next hackathons
 
