@@ -38,20 +38,6 @@
    "notified": true
   },
   {
-   "name": "PASS Summit West",
-   "url": "https://dev.events/conferences/pass-summit-west-zdwxefcv",
-   "kind": "conference",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "city": "Seattle",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "AIE CODE Summit SF 2026",
    "url": "https://ai.engineer/code",
    "kind": "conference",
@@ -67,76 +53,6 @@
    "notified": true
   },
   {
-   "name": "Bring Your Policy, Run It on Our Humanoid: CoRL Demo Night",
-   "url": "https://luma.com/xndqu6pn",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Build Your Own Managed Kubernetes Platform in 2 Hours @ KubeCon SLC",
-   "url": "https://luma.com/platform-rqhf",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Executive roundtable (@KubeCon): How to build an agent-ready platform with open source tools",
-   "url": "https://luma.com/platform-dd47",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Lenny\u2019s Newsletter Meetup in Asheville (with free drinks courtesy of PostHog)",
-   "url": "https://luma.com/hfacupa8",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Asheville",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "MAI KubeCon Happy Hour",
-   "url": "https://luma.com/82tt9wk4",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
    "name": "SF Ruby Startup Conference",
    "url": "https://dev.events/conferences/sf-ruby-startup-conference-6dokxddp",
    "kind": "conference",
@@ -146,48 +62,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Vibe Night Midtown - Claude + Codex (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-11-10",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Atlanta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-31",
-   "notified": true
-  },
-  {
-   "name": "\u26a1 US Grid Instability Threatens AI Growth (w/AI Collective Hartford)",
-   "url": "https://luma.com/aic-ha-11-10",
-   "kind": "meetup",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "city": "Hartford",
-   "state": "Connecticut",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "Agent Substrate Community Party",
-   "url": "https://luma.com/re1kzz80",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -207,20 +81,6 @@
    "notified": true
   },
   {
-   "name": "AI Collective x Gauntlet AI | Inside the Gauntlet (w/ The AI Collective)",
-   "url": "https://luma.com/aic-gauntlet-nov10",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
    "name": "AI Learning and Sharing (w/ The AI Collective)",
    "url": "https://luma.com/aic-in-11-11",
    "kind": "meetup",
@@ -232,230 +92,6 @@
     "luma"
    ],
    "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
-   "name": "An Evening Above Salt Lake City - Happy Hour With vCluster",
-   "url": "https://luma.com/vcluster-3xm2",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-04",
-   "notified": true
-  },
-  {
-   "name": "Booster Robotics After Party @CoRL2026",
-   "url": "https://luma.com/lqpw3rok",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-10",
-   "notified": true
-  },
-  {
-   "name": "Bots & Boots \ud83e\udd16\ud83e\udd20 The Dexmate CoRL Afterparty",
-   "url": "https://luma.com/7ihu11na",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Breakfast: Trace sampling, its biases, and how to make it right",
-   "url": "https://luma.com/wobkjkqs",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-07",
-   "notified": true
-  },
-  {
-   "name": "CoRL 2026 Apptronik Humanoid Networking Lunch",
-   "url": "https://luma.com/97z1wrhu",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "CoRL After Dark \u2014 hosted by Bedrock Robotics & NVIDIA",
-   "url": "https://luma.com/6zvo84pn",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "CoRL Happy Hour with MoonlakeAI & AGI Bot",
-   "url": "https://luma.com/wlzko270",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "CoRL Unsupervised - An Afterparty by Eventual",
-   "url": "https://luma.com/2ru4raap",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Datum x ARM Kubecon Social",
-   "url": "https://luma.com/datum-6cd7",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Foundry Robotics",
-   "url": "https://luma.com/r3gyefn1",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Gritt Happy Hour @ CoRL 2026",
-   "url": "https://luma.com/xldm6sep",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Kubernetes & Capital SLC",
-   "url": "https://luma.com/6zw7cdxq",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Draper",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
-   "name": "Las Vegas | Claude Code Workshop",
-   "url": "https://luma.com/claude-xngd",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Las Vegas",
-   "state": "Nevada",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-28",
-   "notified": true
-  },
-  {
-   "name": "Lessons Learned Running Autonomous Agents in Production - Breakfast Roundtable for Engineering Leaders",
-   "url": "https://luma.com/celi63zx",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "Live Jazz Night by Abaka AI @ CoRL 2026",
-   "url": "https://luma.com/corl2026-event",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Lute Evening: deploying physical intelligence - CoRL 2026",
-   "url": "https://luma.com/spxxxrzm",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -473,76 +109,6 @@
    "notified": true
   },
   {
-   "name": "Rhoda AI @ CoRL: Video Models Meet Robotics",
-   "url": "https://luma.com/e8ucuj9c",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Robotics Community & Coffee Walk - CoRL",
-   "url": "https://luma.com/xlwlkfqg",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Robots On Rainey Street: A Night at CoRL 2026",
-   "url": "https://luma.com/fhjn0lmd",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Scaling Physical AI @ CoRL 2026: Sim2Real & Post-Training Afterparty",
-   "url": "https://luma.com/8a0v7jfl",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Seattle | Claude Cowork for MBA Alumni: Build Your Personal OS",
-   "url": "https://luma.com/claude-mba",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
    "name": "Spotify Technology Community Meetup",
    "url": "https://luma.com/neg55c7o",
    "kind": "meetup",
@@ -554,34 +120,6 @@
     "luma"
    ],
    "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
-   "name": "The After-Deploy Party",
-   "url": "https://luma.com/gc2v5gus",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The Future of Robot Learning",
-   "url": "https://luma.com/zskz4acb",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -610,20 +148,6 @@
     "luma"
    ],
    "first_seen": "2026-11-10",
-   "notified": true
-  },
-  {
-   "name": "\ud835\udde2\ud835\udde3\ud835\uddd8\ud835\udde1 \ud835\udde7\ud835\udde2 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udde7\ud835\udddb\ud835\udddc\ud835\udde5\ud835\uddd7 \ud835\udde3\ud835\udde2\ud835\uddea\ud835\uddd8\ud835\udde5: Weights. Compute. And The Bar. (An after-hours mixer)",
-   "url": "https://luma.com/wsyrshlh",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
    "notified": true
   },
   {
@@ -1344,6 +868,20 @@
    "notified": true
   },
   {
+   "name": "AI Walk n Talk - Sandy Springs (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-11-14",
+   "kind": "meetup",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
    "name": "Boston | AI Healthcare Hackathon with Claude Build Day",
    "url": "https://luma.com/claude-hovn",
    "kind": "hackathon",
@@ -1946,6 +1484,20 @@
    "notified": true
   },
   {
+   "name": "AI Startups meet Industry - Pitch event and networking",
+   "url": "https://luma.com/x2tnsl8r",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
    "name": "Builder Night San Francisco | n8n x Vercel",
    "url": "https://luma.com/0qn71c42",
    "kind": "meetup",
@@ -2027,6 +1579,20 @@
     "luma"
    ],
    "first_seen": "2026-11-11",
+   "notified": true
+  },
+  {
+   "name": "From Berlin to the Bay Happy Hour",
+   "url": "https://luma.com/c8jldxkk",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -2114,6 +1680,20 @@
    "notified": true
   },
   {
+   "name": "Sela Happy Hour",
+   "url": "https://luma.com/m9t02w4p",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
    "name": "\ud83e\udde0 AI Founders Roundtable with The AI Collective SF x Avahi",
    "url": "https://luma.com/avahi-sf-1126",
    "kind": "meetup",
@@ -2125,6 +1705,20 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
+   "notified": true
+  },
+  {
+   "name": "Agents You Can Verify - Infrastructure and standards for sovereign enterprise AI",
+   "url": "https://luma.com/rnwggh3f",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -2282,6 +1876,20 @@
    "notified": true
   },
   {
+   "name": "Ultra-Fast Inference & Open-Weight Models",
+   "url": "https://luma.com/cch7p7pw",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
    "name": "Vibin' Out with Hartford AI Collective (w/ The AI Collective) (w/ The AI Collective)",
    "url": "https://luma.com/aic-ha-11-19",
    "kind": "meetup",
@@ -2321,6 +1929,20 @@
     "luma"
    ],
    "first_seen": "2026-11-09",
+   "notified": true
+  },
+  {
+   "name": "Founders & Funders | The Hunger Games: Sunrise on the Reaping Pre-screening",
+   "url": "https://luma.com/qbos6fyz",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -2405,6 +2027,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "The Next Enterprise AI Advantage: What It Takes to Put Agents to Work",
+   "url": "https://luma.com/gxzx23yc",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -2846,6 +2482,20 @@
    "notified": true
   },
   {
+   "name": "CTRL+RUN: Security Leader Dinner @ AWS re:Invent",
+   "url": "https://luma.com/gtc8v65n",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
    "name": "Deepgram Speak Easy | Co-hosted by Krisp & Twilio",
    "url": "https://luma.com/reinvent-speak-easy",
    "kind": "meetup",
@@ -2885,6 +2535,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Flight Club with PlanetScale, Laravel, Sentry, and WorkOS",
+   "url": "https://luma.com/planet-1sbk",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -3194,6 +2858,20 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
+   "notified": true
+  },
+  {
+   "name": "Nucleate RI | Inside:Women Leading Life Sciences",
+   "url": "https://luma.com/wi5apuk1",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Providence",
+   "state": "Rhode Island",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {
@@ -3594,6 +3272,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "Nucleate Rhode Island \u2014 Winter Women's Dinner 2026",
+   "url": "https://luma.com/6kjlccan",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "city": "Providence",
+   "state": "Rhode Island",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-12",
    "notified": true
   },
   {

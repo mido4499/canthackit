@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**425 upcoming events**: 76 hackathons, 169 conferences and 180 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**403 upcoming events**: 76 hackathons, 168 conferences and 159 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 11, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 12, 2026.</sub>
 
-### 🆕 Just announced (93 this week)
+### 🆕 Just announced (82 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -42,10 +42,10 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [End of Conference Party: unofficial CoRL 2026 after-party](https://luma.com/5ymztl7c) | Nov 13 | Austin, Texas | Conference |
 | [DataTune 2027](https://DataTuneConf.com/) | Mar 12⁠–⁠13 | Nashville, TN | Conference |
 | [Arc of AI 2027](https://www.arcofai.com/) | Apr 19⁠–⁠22 | Austin, TX | Conference |
-| [Write the Docs Portland 2027](http://www.writethedocs.org/) | May 2⁠–⁠4 | Portland, OR | Conference |
 | [AGNTSummit New York City](https://events.linuxfoundation.org/agntsummit-new-york-city/) | Nov 1 | New York, NY | Conference |
-| [Bring Your Policy, Run It on Our Humanoid: CoRL Demo Night](https://luma.com/xndqu6pn) | Nov 10⁠–⁠11 | Austin, Texas | Meetup |
 | [AI 201: Why the Prompt Was Never the Problem (w/ The AI Collective)](https://luma.com/aic-at-11-11-1) | Nov 11⁠–⁠12 | Alpharetta, Georgia | Meetup |
+| [Physical AI Night](https://luma.com/e9menn5c) | Nov 11⁠–⁠12 | Austin, Texas | Meetup |
+| [VFA After Hours with Eka Robotics](https://luma.com/bh6g8p8z) | Nov 11⁠–⁠12 | Austin, Texas | Meetup |
 
 ### 🏁 Next hackathons
 

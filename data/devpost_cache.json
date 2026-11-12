@@ -31,6 +31,7 @@
  },
  "https://blockchain-stellar-ic.devpost.com/": null,
  "https://build-a-working-ai-support-bot.devpost.com/": null,
+ "https://build-day.devpost.com/": null,
  "https://business-battkefuekd.devpost.com/": {
   "city": "Yorba Linda",
   "end": "2027-02-20T19:15:00.000-05:00",
@@ -54,6 +55,7 @@
   "state": "Maryland",
   "us": true
  },
+ "https://codecoogsxcenterpointhackathon.devpost.com/": null,
  "https://cutie-hack-2026.devpost.com/": {
   "city": "Riverside",
   "end": "2026-11-21T23:00:00.000-05:00",
@@ -61,6 +63,7 @@
   "state": "California",
   "us": true
  },
+ "https://deltahacksxbackboard.devpost.com/": null,
  "https://desert-dev-lab-2027.devpost.com/": {
   "city": "Albuquerque",
   "end": "2027-04-25T16:30:00.000-04:00",
@@ -96,12 +99,14 @@
   "state": "Manitoba",
   "us": false
  },
+ "https://devhacks2026.devpost.com/": null,
  "https://devnetwork-api-hackathon-2027.devpost.com/": null,
  "https://dtit-hackathon-2026.devpost.com/": null,
  "https://durhack-26.devpost.com/": null,
  "https://eaglehacks2027.devpost.com/": null,
- "https://emory-hacks-2026.devpost.com/": null,
+ "https://emory-hacks-26.devpost.com/": null,
  "https://engage-test.devpost.com/": null,
+ "https://ese1110f26.devpost.com/": null,
  "https://ese4500f26.devpost.com/": {
   "city": "Philadelphia",
   "end": "2026-12-07T17:00:00.000-05:00",
@@ -109,6 +114,7 @@
   "state": "Pennsylvania",
   "us": true
  },
+ "https://firebird-hacks-32077.devpost.com/": null,
  "https://forgehacks-biztech.devpost.com/": null,
  "https://futureforge-hacks.devpost.com/": {
   "city": "Pleasanton",
@@ -289,6 +295,7 @@
   "us": false
  },
  "https://opportunity-hack-2026-arizona.devpost.com/": null,
+ "https://pixel-forge-gamethon.devpost.com/": null,
  "https://project-zh.devpost.com/": null,
  "https://rebelhacks-2027.devpost.com/": {
   "city": "Las Vegas",
@@ -392,6 +399,7 @@
   "state": "New Jersey",
   "us": true
  },
+ "https://wellesleyhack-2026.devpost.com/": null,
  "https://whs-build.devpost.com/": null,
  "https://wics-geaux-hack-2027.devpost.com/": null,
  "https://wisestart-2026-tll.devpost.com/": null,
