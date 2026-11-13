@@ -24,175 +24,6 @@
    "notified": true
   },
   {
-   "name": "KubeCon + CloudNativeCon NA 2026",
-   "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/",
-   "kind": "conference",
-   "start": "2026-11-09",
-   "end": "2026-11-12",
-   "city": "Salt Lake City, UT",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "AIE CODE Summit SF 2026",
-   "url": "https://ai.engineer/code",
-   "kind": "conference",
-   "start": "2026-11-10",
-   "end": "2026-11-12",
-   "city": "San Francisco, CA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SF Ruby Startup Conference",
-   "url": "https://dev.events/conferences/sf-ruby-startup-conference-6dokxddp",
-   "kind": "conference",
-   "start": "2026-11-10",
-   "end": "2026-11-12",
-   "city": "San Francisco",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI 201: Why the Prompt Was Never the Problem (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-11-11-1",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Alpharetta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-07",
-   "notified": true
-  },
-  {
-   "name": "AI Learning and Sharing (w/ The AI Collective)",
-   "url": "https://luma.com/aic-in-11-11",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Indianapolis",
-   "state": "Indiana",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
-   "name": "Physical AI Night",
-   "url": "https://luma.com/e9menn5c",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Spotify Technology Community Meetup",
-   "url": "https://luma.com/neg55c7o",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
-   "name": "The Human Side of AI",
-   "url": "https://luma.com/human-side-ai",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Baltimore",
-   "state": "Maryland",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
-   "name": "VFA After Hours with Eka Robotics",
-   "url": "https://luma.com/bh6g8p8z",
-   "kind": "meetup",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-10",
-   "notified": true
-  },
-  {
-   "name": "26th NextGen Payments & RegTech Forum",
-   "url": "https://dev.events/conferences/26th-next-gen-payments-and-reg-tech-forum-vnsnr-hb",
-   "kind": "conference",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AIE CODE Summit SF 2026",
-   "url": "https://ai.engineer/code/2026",
-   "kind": "conference",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "San Francisco, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Apr\u00e8sKube SLC: Keyboards & Keys",
-   "url": "https://luma.com/apreskube-slc",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
    "name": "Atlanta | Claude Code Workshop",
    "url": "https://luma.com/claude-gjw7",
    "kind": "meetup",
@@ -221,20 +52,6 @@
    "notified": true
   },
   {
-   "name": "Beyond The Data Ceiling: Dinner with Zeromatter",
-   "url": "https://luma.com/j1oyp8we",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
    "name": "Boston OpenClaw Meetup [November 2026]",
    "url": "https://luma.com/isp0bcdq",
    "kind": "meetup",
@@ -246,20 +63,6 @@
     "luma"
    ],
    "first_seen": "2026-10-26",
-   "notified": true
-  },
-  {
-   "name": "Breakfast: Shaping telemetry for AI consumption",
-   "url": "https://luma.com/fn33zjlk",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -277,76 +80,6 @@
    "notified": true
   },
   {
-   "name": "Containers & Cocktails",
-   "url": "https://luma.com/4tu2cecl",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-06",
-   "notified": true
-  },
-  {
-   "name": "CoRL Happy Hour with Dyna Robotics \ud83e\udd16",
-   "url": "https://luma.com/3du99deo",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "CoRL Run Club (CRC) \u00b7 Sunrise Run & Coffee @ Lady Bird Lake (Thu, Nov 12)",
-   "url": "https://luma.com/nqg6xyjl",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Dexterity night: after party with Origami Robotics \u00d7 zero state",
-   "url": "https://luma.com/22x21fxc",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Dinner with North.cloud at Repeal",
-   "url": "https://luma.com/north-ahgt",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
    "name": "ExMex 2026",
    "url": "https://dev.events/conferences/ex-mex-2026-eve8e8q1",
    "kind": "conference",
@@ -356,90 +89,6 @@
    "state": "",
    "sources": [
     "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Google Cloud \u00d7 NVIDIA Developer Meet-up & Reception at KubeCon",
-   "url": "https://luma.com/glbz6e4t",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-07",
-   "notified": true
-  },
-  {
-   "name": "Kube-napped Again: Phippy's Abduction at the Salt Flats",
-   "url": "https://luma.com/6zwhjpeo",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "KubeCon Happy Hour + Whiskey Tasting // Depot x PlanetScale x WorkOS",
-   "url": "https://luma.com/xgycuabn",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "KubeCon Private Dinner",
-   "url": "https://luma.com/99fqwkzh",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "KubeNight Out with PagerDuty, New Relic, Pulumi, YugabyteDB, and Sysdig!",
-   "url": "https://luma.com/wfsb4o4c",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Meet OVHcloud at KubeCon: An Evening of Kubernetes Talk",
-   "url": "https://luma.com/kubecon-2026",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -470,20 +119,6 @@
     "luma"
    ],
    "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "NeuBird + FluidCloud Happy Hour at KubeCon + CloudNativeCon North America 2026",
-   "url": "https://luma.com/p9p3bq73",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-07",
    "notified": true
   },
   {
@@ -529,91 +164,6 @@
    "notified": true
   },
   {
-   "name": "Physical AI After Hours \u00b7 CoRL Edition",
-   "url": "https://luma.com/w88rdxbl",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-10",
-   "notified": true
-  },
-  {
-   "name": "Physical AI x Data Panel & Mixer, presented by Sieve and Uncork Capital",
-   "url": "https://luma.com/f0941tp1",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Platform Engineering Meetup (@ KubeCon): Building the agentic future",
-   "url": "https://luma.com/platform-amer",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
-   "name": "Rack \u2019Em Up: Pool, Pints & Pods @KubeCon NA",
-   "url": "https://luma.com/rack-em-up",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-04",
-   "notified": true
-  },
-  {
-   "name": "Seattle Day of Data 2026",
-   "url": "https://dayofdata.org/2026-11-12-dayofdata1155/",
-   "kind": "conference",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Seattle, WA",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Ship and Sip",
-   "url": "https://luma.com/shipandsip",
-   "kind": "meetup",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Salt Lake City",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
    "name": "SpiceWorld",
    "url": "https://www.spiceworks.com/spiceworld",
    "kind": "conference",
@@ -625,20 +175,6 @@
     "confs.tech",
     "dev.events",
     "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Workplace Ninjas US Boston",
-   "url": "https://dev.events/conferences/workplace-ninjas-us-boston-eeknxfhe",
-   "kind": "conference",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "city": "Boston",
-   "state": "",
-   "sources": [
-    "dev.events"
    ],
    "first_seen": "2026-10-06",
    "notified": true
@@ -1722,6 +1258,20 @@
    "notified": true
   },
   {
+   "name": "AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani",
+   "url": "https://luma.com/d1kj9otd",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
+  },
+  {
    "name": "Dinner with Enhans at Microsoft Ignite",
    "url": "https://luma.com/fzypn9yn",
    "kind": "meetup",
@@ -1860,6 +1410,20 @@
    ],
    "first_seen": "2026-11-03",
    "notified": true
+  },
+  {
+   "name": "Some Conversations Deserve Dinner.",
+   "url": "https://luma.com/above-native",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
   },
   {
    "name": "Take a Break from Ignite with Pinecone!",
@@ -3016,6 +2580,20 @@
    "notified": true
   },
   {
+   "name": "Founder Fridays: The AI Collective x Unstuck Labs",
+   "url": "https://luma.com/aic-dc-12-4",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Arlington",
+   "state": "Virginia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
+  },
+  {
    "name": "From AI Ideas to Impact: Stories, Growth & a Year-End Celebration (w/ The AI Collective)",
    "url": "https://luma.com/aic-tr-12-3",
    "kind": "meetup",
@@ -3187,6 +2765,20 @@
    "notified": true
   },
   {
+   "name": "Nucleate PNW x CDL Seattle: Women's Health Research Acceleration Challenge Pitch Day",
+   "url": "https://luma.com/j9xrusc6",
+   "kind": "meetup",
+   "start": "2026-12-06",
+   "end": "2026-12-07",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
+  },
+  {
    "name": "ArchConf",
    "url": "https://archconf.com",
    "kind": "conference",
@@ -3245,6 +2837,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "AI Hype vs Reality and Governance (w/ The AI Collective)",
+   "url": "https://luma.com/aic-in-12-9",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "city": "Indianapolis",
+   "state": "Indiana",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
   },
   {
    "name": "AI Infra Summit 6",
@@ -3358,6 +2964,20 @@
    ],
    "first_seen": "2026-11-11",
    "notified": true
+  },
+  {
+   "name": "n8n Holiday Workflow Showdown Stamford",
+   "url": "https://luma.com/n8n-stmfd-261217",
+   "kind": "meetup",
+   "start": "2026-12-17",
+   "end": "2026-12-18",
+   "city": "Stamford",
+   "state": "Connecticut",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-13",
+   "notified": false
   },
   {
    "name": "BSides RDU 2026",
