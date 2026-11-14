@@ -28,39 +28,39 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**376 upcoming events**: 76 hackathons, 161 conferences and 139 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**363 upcoming events**: 76 hackathons, 154 conferences and 133 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 13, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 14, 2026.</sub>
 
-### 🆕 Just announced (67 this week)
+### 🆕 Just announced (62 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [UnlockedHacks](https://unlockedhacks.org/) | Nov 14 | Portland, Oregon | Hackathon |
-| [End of Conference Party: unofficial CoRL 2026 after-party](https://luma.com/5ymztl7c) | Nov 13 | Austin, Texas | Conference |
-| [DataTune 2027](https://DataTuneConf.com/) | Mar 12⁠–⁠13 | Nashville, TN | Conference |
+| [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California | Hackathon |
 | [Arc of AI 2027](https://www.arcofai.com/) | Apr 19⁠–⁠22 | Austin, TX | Conference |
-| [AGNTSummit New York City](https://events.linuxfoundation.org/agntsummit-new-york-city/) | Nov 1 | New York, NY | Conference |
-| [Atlanta \| Claude Code Workshop](https://luma.com/claude-gjw7) | Nov 12⁠–⁠13 | Marietta, Georgia | Meetup |
-| [Miami \| Claude Code Workshop with doxx.net](https://luma.com/claude-wavu) | Nov 12⁠–⁠13 | Miami, Florida | Meetup |
 | [The Next Frontier \| Launchpad](https://luma.com/xe05zhe1) | Nov 13⁠–⁠14 | Virginia Beach, Virginia | Meetup |
 | [AI Walk n Talk - Sandy Springs (w/ The AI Collective)](https://luma.com/aic-at-11-14) | Nov 14 | Atlanta, Georgia | Meetup |
 | [The Next Frontier \| Mission Control](https://luma.com/rcgp5z5x) | Nov 14 | Virginia Beach, Virginia | Meetup |
+| [Claude for Wealth Managers & Family Offices](https://luma.com/mg9bwdwr) | Nov 17 | San Francisco, California | Meetup |
+| [Coffee with Enhans at Microsoft Ignite](https://luma.com/sw2385hk) | Nov 17 | San Francisco, California | Meetup |
+| [IT Leaders Happy Hour \| San Francisco \| MS Ignite](https://luma.com/2i0glbm4) | Nov 17 | San Francisco, California | Meetup |
+| [Unwind Before Ignite: An Exclusive MSP Happy Hour](https://luma.com/zbltcy54) | Nov 17 | San Francisco, California | Meetup |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Emory Hacks](https://emoryhacks.com/) | Nov 13⁠–⁠15 | Atlanta, GA |
-| [GTransformer AI Buildathon 2026 — AI for Global Good](https://gtransformer-buildathon-2026.devpost.com/) | Nov 13⁠–⁠15 | Milpitas, California |
-| [HackPrinceton Fall 2026](https://www.hackprinceton.com) | Nov 13⁠–⁠15 | Princeton, New Jersey |
-| [HackUMass](https://www.hackumass.com/) | Nov 13⁠–⁠15 | Amherst, MA |
-| [Hackperimeter](https://hackperimeter.devpost.com/) | Nov 13 | Clarkston, Georgia |
-| [NASA's Space Apps Challenge NYC](https://www.spaceappschallenge.org/2026/local-events/new-york/) | Nov 13⁠–⁠15 | Brooklyn, New York |
 | [Boston \| AI Healthcare Hackathon with Claude Build Day](https://luma.com/claude-hovn) | Nov 14 | Boston, Massachusetts |
 | [Central Hacks](https://central-hacks.devpost.com/) | Nov 14⁠–⁠15 | Mount Pleasant, Michigan |
 | [Code/Clash](https://code-clash.devpost.com/) | Nov 14 | Towson, Maryland |
 | [Hack The Nest](https://hackthenest.tech/) | Nov 14⁠–⁠15 | Ypsilanti, Michigan |
+| [Hack the Harvest](https://hack-the-harvest.devpost.com/) | Nov 14⁠–⁠15 | Sacramento, California |
+| [HackUTA](https://hackuta.com/) | Nov 14⁠–⁠15 | Arlington, Texas |
+| [Haven Asbury Park Game Jam - High School](https://haven-asbury-park.devpost.com/) | Nov 14 | Shrewsbury, New Jersey |
+| [Haven Richmond](https://haven-richmond.devpost.com/) | Nov 14⁠–⁠15 | Richmond, Virginia |
+| [Haven Seattle](https://haven-seattle.devpost.com/) | Nov 14⁠–⁠15 | Seattle, Washington |
+| [OCSEFhacks](https://ocsefhacks.org/) | Nov 14⁠–⁠15 | Westminster, California |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
