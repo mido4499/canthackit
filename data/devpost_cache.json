@@ -1,6 +1,5 @@
 {
  "https://adahacks-2027.devpost.com/": null,
- "https://ai-usc.devpost.com/": null,
  "https://aichr-space.devpost.com/": {
   "city": "Virginia Beach",
   "end": "2026-11-15T23:45:00.000-05:00",
@@ -23,7 +22,6 @@
   "state": "California",
   "us": true
  },
- "https://black-cs-summit-2026-hackathon.devpost.com/": null,
  "https://blackout-2026.devpost.com/": {
   "city": "Coimbatore",
   "end": "2026-11-28T20:00:00.000-05:00",
@@ -39,22 +37,8 @@
   "state": "California",
   "us": true
  },
- "https://central-hacks.devpost.com/": {
-  "city": "Mount Pleasant",
-  "end": "2026-11-15T12:00:00.000-05:00",
-  "start": "2026-11-14T12:00:00.000-05:00",
-  "state": "Michigan",
-  "us": true
- },
  "https://checkpoint-journeys-hanoi.devpost.com/": null,
  "https://civic-hacks-2027-32027.devpost.com/": null,
- "https://code-clash.devpost.com/": {
-  "city": "Towson",
-  "end": "2026-11-14T18:00:00.000-05:00",
-  "start": "2026-11-14T10:30:00.000-05:00",
-  "state": "Maryland",
-  "us": true
- },
  "https://cutie-hack-2026.devpost.com/": {
   "city": "Riverside",
   "end": "2026-11-21T23:00:00.000-05:00",
@@ -62,6 +46,7 @@
   "state": "California",
   "us": true
  },
+ "https://datathon-polyfinances-bnc-aws.devpost.com/": null,
  "https://desert-dev-lab-2027.devpost.com/": {
   "city": "Albuquerque",
   "end": "2027-04-25T16:30:00.000-04:00",
@@ -69,7 +54,6 @@
   "state": "New Mexico",
   "us": true
  },
- "https://design-at-ut-designathon-2026.devpost.com/": null,
  "https://developerweek-2027-hackathon.devpost.com/": {
   "city": "Santa Clara",
   "end": "2027-02-11T13:00:00.000-05:00",
@@ -98,13 +82,9 @@
   "state": "Manitoba",
   "us": false
  },
- "https://devhacks2026.devpost.com/": null,
  "https://devnetwork-api-hackathon-2027.devpost.com/": null,
  "https://dtit-hackathon-2026.devpost.com/": null,
- "https://durhack-26.devpost.com/": null,
  "https://eaglehacks2027.devpost.com/": null,
- "https://emory-hacks-202.devpost.com/": null,
- "https://engage-test.devpost.com/": null,
  "https://ese1110f26.devpost.com/": null,
  "https://ese4500f26.devpost.com/": {
   "city": "Philadelphia",
@@ -113,7 +93,6 @@
   "state": "Pennsylvania",
   "us": true
  },
- "https://evolve-8090.devpost.com/": null,
  "https://firebird-hacks-32077.devpost.com/": null,
  "https://forgehacks-biztech.devpost.com/": null,
  "https://futureforge-hacks.devpost.com/": {
@@ -130,8 +109,6 @@
   "state": "Massachusetts",
   "us": true
  },
- "https://ground-truth-you-hack.devpost.com/": null,
- "https://gt-campus-solutions-f26.devpost.com/": null,
  "https://gtransformer-buildathon-2026.devpost.com/": {
   "city": "Milpitas",
   "end": "2026-11-15T15:00:00.000-05:00",
@@ -146,15 +123,6 @@
   "state": "California",
   "us": true
  },
- "https://hack-2-the-future.devpost.com/": null,
- "https://hack-a-ton-with-friends.devpost.com/": {
-  "city": "Edmonton",
-  "end": "2026-11-15T14:00:00.000-05:00",
-  "start": "2026-11-14T12:00:00.000-05:00",
-  "state": "Alberta",
-  "us": false
- },
- "https://hack-club-haven-hong-kong.devpost.com/": null,
  "https://hack-peel.devpost.com/": {
   "city": "Mississauga",
   "end": "2026-12-13T16:00:00.000-05:00",
@@ -162,14 +130,6 @@
   "state": "Ontario",
   "us": false
  },
- "https://hack-the-harvest.devpost.com/": {
-  "city": "Sacramento",
-  "end": "2026-11-15T12:00:00.000-05:00",
-  "start": "2026-11-14T13:30:00.000-05:00",
-  "state": "California",
-  "us": true
- },
- "https://hack-the-nest.devpost.com/": null,
  "https://hack-western-13.devpost.com/": {
   "city": "London",
   "end": "2026-11-22T09:00:00.000-05:00",
@@ -178,8 +138,6 @@
   "us": false
  },
  "https://hackai-toronto.devpost.com/": null,
- "https://hackdecouverte-ii.devpost.com/": null,
- "https://hackprinceton-fall-26.devpost.com/": null,
  "https://hackstorm3.devpost.com/": {
   "city": "San Francisco",
   "end": "2026-11-08T18:00:00.000-05:00",
@@ -189,28 +147,12 @@
  },
  "https://hacksussex-gamejam-2026.devpost.com/": null,
  "https://hacktcnj-2027.devpost.com/": null,
- "https://hackumass-xiv.devpost.com/": null,
  "https://hackva27.devpost.com/": null,
- "https://haven-asbury-park.devpost.com/": {
-  "city": "Shrewsbury",
-  "end": "2026-11-14T21:00:00.000-05:00",
-  "start": "2026-11-14T12:45:00.000-05:00",
-  "state": "New Jersey",
-  "us": true
- },
  "https://haven-las-vegas.devpost.com/": {
   "city": "Las Vegas",
   "end": "2026-11-15T20:00:00.000-05:00",
   "start": "2026-11-15T08:00:00.000-05:00",
   "state": "Nevada",
-  "us": true
- },
- "https://haven-philly.devpost.com/": null,
- "https://haven-richmond.devpost.com/": {
-  "city": "Richmond",
-  "end": "2026-11-15T23:45:00.000-05:00",
-  "start": "2026-11-14T00:00:00.000-05:00",
-  "state": "Virginia",
   "us": true
  },
  "https://haven-seattle.devpost.com/": {
@@ -234,7 +176,6 @@
   "state": "District of Columbia",
   "us": true
  },
- "https://ihack-2026.devpost.com/": null,
  "https://immerse-the-bay-2026.devpost.com/": null,
  "https://innovate-in-windsor-hackathon.devpost.com/": {
   "city": "Windsor",
@@ -243,7 +184,6 @@
   "state": "Ontario",
   "us": false
  },
- "https://jewel-city-hacks-6-0.devpost.com/": null,
  "https://k-dub-hacks.devpost.com/": null,
  "https://kaya-ai-grand-challenge.devpost.com/": null,
  "https://khe-2027.devpost.com/": {
@@ -262,7 +202,6 @@
  },
  "https://loop.devpost.com/": null,
  "https://lumahacks.devpost.com/": null,
- "https://madhacks-fall-2026.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
   "end": "2027-01-31T13:15:00.000-05:00",
@@ -325,7 +264,6 @@
   "state": "South Carolina",
   "us": true
  },
- "https://searchhack.devpost.com/": null,
  "https://spartahack-12.devpost.com/": {
   "city": "East Lansing",
   "end": "2027-02-07T12:00:00.000-05:00",
@@ -354,13 +292,6 @@
   "state": "Washington",
   "us": true
  },
- "https://system-public-challenge.devpost.com/": {
-  "city": "New York",
-  "end": "2026-11-14T15:00:00.000-05:00",
-  "start": "2026-11-14T10:00:00.000-05:00",
-  "state": "New York",
-  "us": true
- },
  "https://tbd-hackathon.devpost.com/": {
   "city": "Philadelphia",
   "end": "2027-01-23T17:00:00.000-05:00",
@@ -375,7 +306,7 @@
   "state": "California",
   "us": true
  },
- "https://theta-tau-hacka-zeta.devpost.com/": null,
+ "https://theagent-to-agent-hackathon.devpost.com/": null,
  "https://ticket-to-hack.devpost.com/": {
   "city": "University of Virginia",
   "end": "2027-02-28T17:00:00.000-05:00",
@@ -391,8 +322,6 @@
   "us": true
  },
  "https://ubc-hackathon-2026.devpost.com/": null,
- "https://uscibm-qff26.devpost.com/": null,
- "https://vexohacks.devpost.com/": null,
  "https://vibeathon-mexico-2026.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",
