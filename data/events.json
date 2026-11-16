@@ -24,218 +24,6 @@
    "notified": true
   },
   {
-   "name": "Emory Hacks",
-   "url": "https://emoryhacks.com/",
-   "kind": "hackathon",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": "Atlanta",
-   "state": "GA",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "GTransformer AI Buildathon 2026 \u2014 AI for Global Good",
-   "url": "https://gtransformer-buildathon-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": "Milpitas",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-19",
-   "notified": true
-  },
-  {
-   "name": "HackPrinceton Fall 2026",
-   "url": "https://www.hackprinceton.com",
-   "kind": "hackathon",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": "Princeton",
-   "state": "New Jersey",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-15",
-   "notified": true
-  },
-  {
-   "name": "HackUMass",
-   "url": "https://www.hackumass.com/",
-   "kind": "hackathon",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": "Amherst",
-   "state": "MA",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "NASA's Space Apps Challenge NYC",
-   "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/",
-   "kind": "hackathon",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": " Brooklyn",
-   "state": "New York",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-08",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Rhode Island: BioHack",
-   "url": "https://luma.com/mtow2pv3",
-   "kind": "meetup",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "city": "Providence",
-   "state": "Rhode Island",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
-   "name": "Central Hacks",
-   "url": "https://central-hacks.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Mount Pleasant",
-   "state": "Michigan",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack the Harvest",
-   "url": "https://hack-the-harvest.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Sacramento",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Hack The Nest",
-   "url": "https://hackthenest.tech/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Ypsilanti",
-   "state": "Michigan",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "HackUTA",
-   "url": "https://hackuta.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Arlington",
-   "state": "Texas",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "Haven Richmond",
-   "url": "https://haven-richmond.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Richmond",
-   "state": "Virginia",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-12",
-   "notified": true
-  },
-  {
-   "name": "Haven Seattle",
-   "url": "https://haven-seattle.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "OCSEFhacks",
-   "url": "https://ocsefhacks.org/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Westminster",
-   "state": "California",
-   "sources": [
-    "devpost",
-    "hackclub"
-   ],
-   "first_seen": "2026-10-10",
-   "notified": true
-  },
-  {
-   "name": "SanD Hacks",
-   "url": "https://csesucsd.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "La Jolla",
-   "state": "CA",
-   "sources": [
-    "devpost",
-    "mlh"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "sunhacks",
-   "url": "https://2026.sunhacks.io/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Tempe",
-   "state": "Arizona",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-11-15",
-   "notified": true
-  },
-  {
    "name": "Teens Hack Houston Hackathon",
    "url": "https://tripleh.devpost.com/",
    "kind": "hackathon",
@@ -251,20 +39,6 @@
    "notified": true
   },
   {
-   "name": "The Next Frontier 2026: A Space Innovation Hackathon",
-   "url": "https://aichr-space.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "city": "Virginia Beach",
-   "state": "Virginia",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-25",
-   "notified": true
-  },
-  {
    "name": "CyberMarketingCon & CyberCEO Summit 2026",
    "url": "https://cybermarketingconference.com/",
    "kind": "conference",
@@ -277,34 +51,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "DevDay Exchange Community: Miami",
-   "url": "https://luma.com/tgyb8rig",
-   "kind": "meetup",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "city": "Miami",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Haven Las Vegas",
-   "url": "https://haven-las-vegas.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "city": "Las Vegas",
-   "state": "Nevada",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-21",
    "notified": true
   },
   {
@@ -733,6 +479,20 @@
    ],
    "first_seen": "2026-10-27",
    "notified": true
+  },
+  {
+   "name": "No Doubt: Build Agent Tools That Work",
+   "url": "https://luma.com/ebsxe4an",
+   "kind": "meetup",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
   },
   {
    "name": "San Diego | Claude x AI Tinkerers Meetup | Physical AI",
@@ -1281,6 +1041,34 @@
    "notified": true
   },
   {
+   "name": "n8n Workshop Albany: n8n at NSBE Fall Regional Conference",
+   "url": "https://luma.com/n8n-o80y",
+   "kind": "conference",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "city": "Albany",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
+  },
+  {
+   "name": "NYC | Claude Impact Lab - Digital Health",
+   "url": "https://luma.com/claude-gz81",
+   "kind": "meetup",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
+  },
+  {
    "name": "WHACK (Wellesley Hackathon)",
    "url": "https://www.wellesleyhacks.org/",
    "kind": "hackathon",
@@ -1321,6 +1109,20 @@
    ],
    "first_seen": "2026-10-20",
    "notified": true
+  },
+  {
+   "name": "Miami | Claude Code Workshop",
+   "url": "https://luma.com/claude-44fh",
+   "kind": "meetup",
+   "start": "2026-11-24",
+   "end": "2026-11-25",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
   },
   {
    "name": "OpenClaw Triangle Meetup - November 24",
@@ -1565,6 +1367,20 @@
    "notified": true
   },
   {
+   "name": "AWS re:Invent - World happy hour & races",
+   "url": "https://luma.com/62b7muqf",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
+  },
+  {
    "name": "AWS re:Invent 2026 Executive Cocktail Hour - Holiday Edition \ud83c\udf84",
    "url": "https://luma.com/executive-cocktail-hour-reinvent",
    "kind": "meetup",
@@ -1787,6 +1603,20 @@
    ],
    "first_seen": "2026-10-22",
    "notified": true
+  },
+  {
+   "name": "Nucleate Michigan-Ohio Seminar #3: Scott Olson",
+   "url": "https://luma.com/stgv1zzf",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Ann Arbor",
+   "state": "Michigan",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
   },
   {
    "name": "ODSC AI NYC 2026: AI for Work Summit",
@@ -2781,6 +2611,20 @@
    "notified": true
   },
   {
+   "name": "Upstream",
+   "url": "https://upstream.snowxa.com",
+   "kind": "conference",
+   "start": "2027-01-14",
+   "end": "2027-01-16",
+   "city": "San Francisco, CA",
+   "state": "",
+   "sources": [
+    "confs.tech"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
+  },
+  {
    "name": "HackBI X",
    "url": "https://hackbi.org/",
    "kind": "hackathon",
@@ -3189,6 +3033,7 @@
    "city": "Santa Clara",
    "state": "",
    "sources": [
+    "confs.tech",
     "dev.events"
    ],
    "first_seen": "2026-10-06",
@@ -3947,6 +3792,7 @@
    "city": "Los Angeles, CA",
    "state": "",
    "sources": [
+    "confs.tech",
     "dev.events",
     "developers.events"
    ],
@@ -4522,6 +4368,20 @@
    ],
    "first_seen": "2026-10-23",
    "notified": true
+  },
+  {
+   "name": "Enterprise AI Summit",
+   "url": "https://events.itrevolution.com/2027-portland/",
+   "kind": "conference",
+   "start": "2027-05-05",
+   "end": "2027-05-06",
+   "city": "Portland, OR",
+   "state": "",
+   "sources": [
+    "confs.tech"
+   ],
+   "first_seen": "2026-11-16",
+   "notified": false
   },
   {
    "name": "SecretCon 2027",

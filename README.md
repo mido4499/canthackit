@@ -28,31 +28,29 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**360 upcoming events**: 72 hackathons, 161 conferences and 127 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**350 upcoming events**: 56 hackathons, 164 conferences and 130 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 15, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 16, 2026.</sub>
 
-### 🆕 Just announced (68 this week)
+### 🆕 Just announced (67 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [sunhacks](https://2026.sunhacks.io/) | Nov 14⁠–⁠15 | Tempe, Arizona | Hackathon |
 | [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California | Hackathon |
+| [n8n Workshop Albany: n8n at NSBE Fall Regional Conference](https://luma.com/n8n-o80y) | Nov 21 | Albany, New York | Conference |
+| [Upstream](https://upstream.snowxa.com) | Jan 14⁠–⁠16 | San Francisco, CA | Conference |
 | [BsidesSGF 2027](https://bsidessgf.com/) | Mar 30 | Springfield, IL | Conference |
 | [OWASP BASC 2027](https://basconf.org/) | Apr 3 | Boston, MA | Conference |
 | [Southwest Food Security and Technology Summit 2027](https://swnomsec.org) | Apr 13⁠–⁠14 | Las Cruces, NM | Conference |
 | [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
-| [Arc of AI 2027](https://www.arcofai.com/) | Apr 19⁠–⁠22 | Austin, TX | Conference |
+| [Enterprise AI Summit](https://events.itrevolution.com/2027-portland/) | May 5⁠–⁠6 | Portland, OR | Conference |
 | [Percona Live Bay Area 2027](http://perconalive.com/) | May 11⁠–⁠13 | Mountain View, CA | Conference |
 | [Homebrew Con 2027](https://homebrewcon.org/) | Jul 16⁠–⁠17 | Milwaukee, WI | Conference |
-| [Scenic City Summit 2027](http://www.sceniccitysummit.com) | Jul 22⁠–⁠23 | Chattanooga, TN | Conference |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Haven Las Vegas](https://haven-las-vegas.devpost.com/) | Nov 15 | Las Vegas, Nevada |
-| [n8n Buildathon at Santa Clara University with AIC Club](https://luma.com/n8n-j2jq) | Nov 15⁠–⁠16 | Santa Clara, California |
 | [Snowglobe](https://snowglobe.hackclub.com/) | Nov 20⁠–⁠22 | San Francisco, California |
 | [BostonHacks](https://bostonhacks.org/) | Nov 21⁠–⁠22 | Boston, MA |
 | [Cutie Hack 2026](https://cutie-hack-2026.devpost.com/) | Nov 21 | Riverside, California |
@@ -61,6 +59,8 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas |
 | [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California |
 | [AI Hackathon: Sales Copilot AI](https://luma.com/SalesCopilotAI) | Dec 12⁠–⁠13 | San Francisco, California |
+| [Vibe Code Animated Maps](https://vibecode-animated-maps.devpost.com/) | Dec 20 | South Plainfield, New Jersey |
+| [Sentinel Hacks](https://www.sentinelhacks.tech/) | Jan 9 | Sunnyvale, California |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
