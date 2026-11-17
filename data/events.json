@@ -69,20 +69,6 @@
    "notified": true
   },
   {
-   "name": "n8n Buildathon at Santa Clara University with AIC Club",
-   "url": "https://luma.com/n8n-j2jq",
-   "kind": "hackathon",
-   "start": "2026-11-15",
-   "end": "2026-11-16",
-   "city": "Santa Clara",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-06",
-   "notified": true
-  },
-  {
    "name": "AI Coding Summit New York Edition",
    "url": "https://aicodingsummit.com/nyc",
    "kind": "conference",
@@ -115,20 +101,6 @@
    "notified": true
   },
   {
-   "name": "Nucleate Michigan \u2013 MBVF Seminar #2: Christina Drake",
-   "url": "https://luma.com/eohnjwwf",
-   "kind": "meetup",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "city": "Ann Arbor",
-   "state": "Michigan",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-22",
-   "notified": true
-  },
-  {
    "name": "QCon San Francisco 2026",
    "url": "https://dev.events/conferences/q-con-san-francisco-2026-uyxw-rvq",
    "kind": "conference",
@@ -140,6 +112,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Armada at Ignite - Bridge the Digital Divide",
+   "url": "https://luma.com/1ttjj8sv",
+   "kind": "meetup",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
    "notified": true
   },
   {
@@ -492,7 +478,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "San Diego | Claude x AI Tinkerers Meetup | Physical AI",
@@ -1052,7 +1038,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "NYC | Claude Impact Lab - Digital Health",
@@ -1066,7 +1052,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "WHACK (Wellesley Hackathon)",
@@ -1122,7 +1108,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "OpenClaw Triangle Meetup - November 24",
@@ -1283,6 +1269,20 @@
    "notified": true
   },
   {
+   "name": "Vercel at CUT: Build Before Dark",
+   "url": "https://luma.com/buildatcut",
+   "kind": "meetup",
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
+   "notified": true
+  },
+  {
    "name": "Agentic AI Foundation ( AAIF ) December Talks",
    "url": "https://luma.com/aaif-seattle",
    "kind": "conference",
@@ -1322,6 +1322,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Lakehouse After Hours: Pizza, Pints & Petabytes",
+   "url": "https://luma.com/kk79mwua",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
    "notified": true
   },
   {
@@ -1378,7 +1392,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AWS re:Invent 2026 Executive Cocktail Hour - Holiday Edition \ud83c\udf84",
@@ -1616,7 +1630,7 @@
     "luma"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "ODSC AI NYC 2026: AI for Work Summit",
@@ -2184,6 +2198,20 @@
    "notified": true
   },
   {
+   "name": "San Francisco | Claude Community x Release Before Ready",
+   "url": "https://luma.com/clauderbr",
+   "kind": "meetup",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
+   "notified": true
+  },
+  {
    "name": "DistrictCon",
    "url": "https://www.districtcon.org/",
    "kind": "conference",
@@ -2314,6 +2342,20 @@
    "notified": true
   },
   {
+   "name": "Codex Community Hack Night \u2014 Video Generation Jam",
+   "url": "https://luma.com/video-generation-jam-with-codex-1",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
+   "notified": true
+  },
+  {
    "name": "Nucleate Rhode Island \u2014 Winter Women's Dinner 2026",
    "url": "https://luma.com/6kjlccan",
    "kind": "meetup",
@@ -2385,6 +2427,20 @@
    "notified": true
   },
   {
+   "name": "San Diego | Claude x Bits in Bio Meetup",
+   "url": "https://luma.com/claude-cima",
+   "kind": "meetup",
+   "start": "2026-12-15",
+   "end": "2026-12-15",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
+   "notified": true
+  },
+  {
    "name": "Demo Night (w/ The AI Collective)",
    "url": "https://luma.com/aic-ha-12-24",
    "kind": "meetup",
@@ -2396,6 +2452,20 @@
     "luma"
    ],
    "first_seen": "2026-11-11",
+   "notified": true
+  },
+  {
+   "name": "Boulder | Claude Meetup",
+   "url": "https://luma.com/claude-rw7u",
+   "kind": "meetup",
+   "start": "2026-12-17",
+   "end": "2026-12-17",
+   "city": "Boulder",
+   "state": "Colorado",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
    "notified": true
   },
   {
@@ -2425,6 +2495,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Miami | Claude Build Day For Kids",
+   "url": "https://luma.com/claude-v667",
+   "kind": "meetup",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-17",
    "notified": true
   },
   {
@@ -2619,10 +2703,11 @@
    "city": "San Francisco, CA",
    "state": "",
    "sources": [
-    "confs.tech"
+    "confs.tech",
+    "developers.events"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "HackBI X",
@@ -4378,10 +4463,11 @@
    "city": "Portland, OR",
    "state": "",
    "sources": [
-    "confs.tech"
+    "confs.tech",
+    "developers.events"
    ],
    "first_seen": "2026-11-16",
-   "notified": false
+   "notified": true
   },
   {
    "name": "SecretCon 2027",
@@ -4452,6 +4538,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Day of Data 2027",
+   "url": "https://dayofdata.org/jax",
+   "kind": "conference",
+   "start": "2027-05-14",
+   "end": "2027-05-15",
+   "city": "Jacksonville, FL",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-17",
    "notified": true
   },
   {

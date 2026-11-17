@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**350 upcoming events**: 56 hackathons, 164 conferences and 130 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**357 upcoming events**: 55 hackathons, 165 conferences and 137 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 16, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 17, 2026.</sub>
 
-### 🆕 Just announced (67 this week)
+### 🆕 Just announced (72 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
@@ -45,7 +45,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
 | [Enterprise AI Summit](https://events.itrevolution.com/2027-portland/) | May 5⁠–⁠6 | Portland, OR | Conference |
 | [Percona Live Bay Area 2027](http://perconalive.com/) | May 11⁠–⁠13 | Mountain View, CA | Conference |
-| [Homebrew Con 2027](https://homebrewcon.org/) | Jul 16⁠–⁠17 | Milwaukee, WI | Conference |
+| [Day of Data 2027](https://dayofdata.org/jax) | May 14⁠–⁠15 | Jacksonville, FL | Conference |
 
 ### 🏁 Next hackathons
 
