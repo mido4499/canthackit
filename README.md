@@ -28,16 +28,17 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**357 upcoming events**: 55 hackathons, 165 conferences and 137 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**361 upcoming events**: 55 hackathons, 165 conferences and 141 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 17, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 18, 2026.</sub>
 
-### 🆕 Just announced (72 this week)
+### 🆕 Just announced (61 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California | Hackathon |
 | [n8n Workshop Albany: n8n at NSBE Fall Regional Conference](https://luma.com/n8n-o80y) | Nov 21 | Albany, New York | Conference |
+| [Security & Engineering Leaders Brunch & Bowling Summit Hosted by U&I Ventures #AWSreInvent2026](https://luma.com/e66e984m) | Dec 2 | Las Vegas, Nevada | Conference |
 | [Upstream](https://upstream.snowxa.com) | Jan 14⁠–⁠16 | San Francisco, CA | Conference |
 | [BsidesSGF 2027](https://bsidessgf.com/) | Mar 30 | Springfield, IL | Conference |
 | [OWASP BASC 2027](https://basconf.org/) | Apr 3 | Boston, MA | Conference |
@@ -45,7 +46,6 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
 | [Enterprise AI Summit](https://events.itrevolution.com/2027-portland/) | May 5⁠–⁠6 | Portland, OR | Conference |
 | [Percona Live Bay Area 2027](http://perconalive.com/) | May 11⁠–⁠13 | Mountain View, CA | Conference |
-| [Day of Data 2027](https://dayofdata.org/jax) | May 14⁠–⁠15 | Jacksonville, FL | Conference |
 
 ### 🏁 Next hackathons
 

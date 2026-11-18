@@ -143,62 +143,6 @@
    "notified": true
   },
   {
-   "name": "CISO Boston 2026",
-   "url": "https://dev.events/conferences/ciso-boston-2026-ncb1ancd",
-   "kind": "conference",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "Boston",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Claude for Wealth Managers & Family Offices",
-   "url": "https://luma.com/mg9bwdwr",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Coffee with Enhans at Microsoft Ignite",
-   "url": "https://luma.com/sw2385hk",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "IT Leaders Happy Hour | San Francisco | MS Ignite",
-   "url": "https://luma.com/2i0glbm4",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
    "name": "Lenny\u2019s Newsletter Meetup in Asheville (with free drinks courtesy of PostHog)",
    "url": "https://luma.com/hfacupa8",
    "kind": "meetup",
@@ -227,34 +171,6 @@
    "notified": true
   },
   {
-   "name": "Nucleate San Diego Inside Series: Cell and Gene Therapy",
-   "url": "https://luma.com/nucleate-l7m3",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "San Diego",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-21",
-   "notified": true
-  },
-  {
-   "name": "OpenClaw Seattle - Monthly",
-   "url": "https://luma.com/pnl7e8fw",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "React Summit US",
    "url": "https://reactsummit.us",
    "kind": "conference",
@@ -268,20 +184,6 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Unwind Before Ignite: An Exclusive MSP Happy Hour",
-   "url": "https://luma.com/zbltcy54",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
    "notified": true
   },
   {
@@ -593,6 +495,20 @@
    "notified": true
   },
   {
+   "name": "Engineering the Future of Media - Seattle Community Meetup",
+   "url": "https://luma.com/zzs80ht1",
+   "kind": "meetup",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "From Azure Spend to Business Value",
    "url": "https://luma.com/c07h5h6p",
    "kind": "meetup",
@@ -873,6 +789,20 @@
    "notified": true
   },
   {
+   "name": "SoCal ThinkingAI Executive Dinner: Driving ROI with Agents",
+   "url": "https://luma.com/tj89s7k9",
+   "kind": "meetup",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "city": "El Segundo",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "Swiftsonic '26",
    "url": "https://www.swiftsonicconf.com",
    "kind": "conference",
@@ -1125,6 +1055,20 @@
    "notified": true
   },
   {
+   "name": "Durham | Claude Meetup - Job Edition",
+   "url": "https://luma.com/claude-f2wa",
+   "kind": "meetup",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "city": "Durham",
+   "state": "North Carolina",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "KubeAuto Day Las Vegas",
    "url": "https://kubeauto.day/las-vegas",
    "kind": "conference",
@@ -1311,6 +1255,20 @@
    "notified": true
   },
   {
+   "name": "Exclusive Lunch hosted by Tensor9 at SUSHISAMBA @ re:Invent",
+   "url": "https://luma.com/540ob3ls",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "Executive Mastermind Dinner",
    "url": "https://luma.com/dgbkfdrf",
    "kind": "meetup",
@@ -1339,6 +1297,20 @@
    "notified": true
   },
   {
+   "name": "Leadership Luxury - AI Leaders Outing at Re:Invent",
+   "url": "https://luma.com/g6osva6k",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "n8n Chicago: Meetup",
    "url": "https://luma.com/n8n-0nyx",
    "kind": "meetup",
@@ -1353,6 +1325,20 @@
    "notified": true
   },
   {
+   "name": "Off Call: A Party for Humans",
+   "url": "https://luma.com/fwzyknrt",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "Re:Invent Super Car-tesia",
    "url": "https://luma.com/dztqp1c4",
    "kind": "meetup",
@@ -1364,6 +1350,34 @@
     "luma"
    ],
    "first_seen": "2026-11-07",
+   "notified": true
+  },
+  {
+   "name": "re:Invent Voice AI Happy Hour @ Topgolf",
+   "url": "https://luma.com/m6gcrmm7",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
+   "name": "A Heroes' Welcome : CodeRabbit's Welcome Reception at AWS re:Invent",
+   "url": "https://luma.com/26-12-reinvent-welcome-event",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
    "notified": true
   },
   {
@@ -1714,6 +1728,20 @@
     "luma"
    ],
    "first_seen": "2026-10-15",
+   "notified": true
+  },
+  {
+   "name": "Security & Engineering Leaders Brunch & Bowling Summit Hosted by U&I Ventures #AWSreInvent2026",
+   "url": "https://luma.com/e66e984m",
+   "kind": "conference",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
    "notified": true
   },
   {
@@ -2184,6 +2212,20 @@
    "notified": true
   },
   {
+   "name": "LAUNCH WKND feat. Lovable and Vernon & Friends (w/ The AI Collective)",
+   "url": "https://luma.com/aic-ch-12-5",
+   "kind": "meetup",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "city": "Richmond",
+   "state": "Virginia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
    "name": "Mango Hacks",
    "url": "https://mangohacks.ecily.org",
    "kind": "hackathon",
@@ -2367,6 +2409,20 @@
     "luma"
    ],
    "first_seen": "2026-11-12",
+   "notified": true
+  },
+  {
+   "name": "San Francisco | Claude for Investors",
+   "url": "https://luma.com/claudeforinvestors",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-18",
    "notified": true
   },
   {
