@@ -39,21 +39,6 @@
    "notified": true
   },
   {
-   "name": "CyberMarketingCon & CyberCEO Summit 2026",
-   "url": "https://cybermarketingconference.com/",
-   "kind": "conference",
-   "start": "2026-11-15",
-   "end": "2026-11-18",
-   "city": "Austin, TX",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Live! 360 Tech Con Orlando 2026",
    "url": "https://live360events.com",
    "kind": "conference",
@@ -115,62 +100,6 @@
    "notified": true
   },
   {
-   "name": "Armada at Ignite - Bridge the Digital Divide",
-   "url": "https://luma.com/1ttjj8sv",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-17",
-   "notified": true
-  },
-  {
-   "name": "Boston | Claude Small Business / Startup AI Workshop",
-   "url": "https://luma.com/claude-fd5j",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "city": "Cambridge",
-   "state": "Massachusetts",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
-   "name": "Lenny\u2019s Newsletter Meetup in Asheville (with free drinks courtesy of PostHog)",
-   "url": "https://luma.com/hfacupa8",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "city": "Asheville",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-24",
-   "notified": true
-  },
-  {
-   "name": "n8n Meetup Austin \u2014 Automation on Tap",
-   "url": "https://luma.com/n8n-pjr6",
-   "kind": "meetup",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "city": "Austin",
-   "state": "Texas",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
-   "notified": true
-  },
-  {
    "name": "React Summit US",
    "url": "https://reactsummit.us",
    "kind": "conference",
@@ -198,34 +127,6 @@
     "luma"
    ],
    "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "AI Startups meet Industry - Pitch event and networking",
-   "url": "https://luma.com/x2tnsl8r",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
-   "name": "Builder Night San Francisco | n8n x Vercel",
-   "url": "https://luma.com/0qn71c42",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
    "notified": true
   },
   {
@@ -257,20 +158,6 @@
    "notified": true
   },
   {
-   "name": "Codex Community Meetup \u2013 Lehi",
-   "url": "https://luma.com/9odwu8od",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "Lehi",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-23",
-   "notified": true
-  },
-  {
    "name": "Fayetteville AI Tasting Monthly Meeting (w/ The AI Collective)",
    "url": "https://luma.com/aic-fa-11-18",
    "kind": "meetup",
@@ -285,34 +172,6 @@
    "notified": true
   },
   {
-   "name": "FinOps After Dark @Microsoft Ignite",
-   "url": "https://luma.com/fad-r9cp",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "From Berlin to the Bay Happy Hour",
-   "url": "https://luma.com/c8jldxkk",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
    "name": "From Markets to Venture: Investing Across the Healthcare Landscape",
    "url": "https://luma.com/v17x3t8t",
    "kind": "meetup",
@@ -324,20 +183,6 @@
     "luma"
    ],
    "first_seen": "2026-11-05",
-   "notified": true
-  },
-  {
-   "name": "Ignite & Unwind: An Executive Wine Tasting Reception Hosted by Everpure and Commvault with Microsoft",
-   "url": "https://luma.com/tech-6mxi",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
    "notified": true
   },
   {
@@ -366,76 +211,6 @@
     "luma"
    ],
    "first_seen": "2026-10-27",
-   "notified": true
-  },
-  {
-   "name": "No Doubt: Build Agent Tools That Work",
-   "url": "https://luma.com/ebsxe4an",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-16",
-   "notified": true
-  },
-  {
-   "name": "San Diego | Claude x AI Tinkerers Meetup | Physical AI",
-   "url": "https://luma.com/claude-imum",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Diego",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
-   "name": "San Francisco | Claude Impact Lab: AI Trust & Safety",
-   "url": "https://luma.com/claude-sf-impact-lab",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-27",
-   "notified": true
-  },
-  {
-   "name": "Sela Happy Hour",
-   "url": "https://luma.com/m9t02w4p",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
-   "name": "\ud83e\udde0 AI Founders Roundtable with The AI Collective SF x Avahi",
-   "url": "https://luma.com/avahi-sf-1126",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-28",
    "notified": true
   },
   {
@@ -1255,6 +1030,20 @@
    "notified": true
   },
   {
+   "name": "Blackwell Evening by Fluence @ Nvidia GTC, DC",
+   "url": "https://luma.com/0axn7b35",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
    "name": "Exclusive Lunch hosted by Tensor9 at SUSHISAMBA @ re:Invent",
    "url": "https://luma.com/540ob3ls",
    "kind": "meetup",
@@ -1280,6 +1069,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "hosted\u00b7ai: GPU Market Forum, Washington DC Edition",
+   "url": "https://luma.com/x22wzxjq",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
    "notified": true
   },
   {
@@ -1322,6 +1125,48 @@
     "luma"
    ],
    "first_seen": "2026-10-09",
+   "notified": true
+  },
+  {
+   "name": "Nebius GTC DC Watch Party",
+   "url": "https://luma.com/nebius-dq8z",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "NVIDIA Developer Live Agent Gauntlet",
+   "url": "https://luma.com/nvidia-live-agent-gauntlet-gtc-dc-2026",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "NVIDIA Howard Vibe Hack 2026",
+   "url": "https://luma.com/howard-hackathon",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
    "notified": true
   },
   {
@@ -1886,6 +1731,20 @@
    "notified": true
   },
   {
+   "name": "Elevate DC Meetup with Microsoft (during NVIDIA GTC!)",
+   "url": "https://luma.com/0mramzgj",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-04",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
    "name": "Fund or Fold: How VCs Actually Decide",
    "url": "https://luma.com/fundorfold",
    "kind": "meetup",
@@ -1897,6 +1756,20 @@
     "luma"
    ],
    "first_seen": "2026-11-14",
+   "notified": true
+  },
+  {
+   "name": "IaCConf Leaders Lunch @ AWS re:Invent",
+   "url": "https://luma.com/ak3trzqs",
+   "kind": "conference",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
    "notified": true
   },
   {
@@ -2342,6 +2215,20 @@
    "notified": true
   },
   {
+   "name": "Prompt and Connect (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-12-8",
+   "kind": "meetup",
+   "start": "2026-12-08",
+   "end": "2026-12-09",
+   "city": "Sandy Springs",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
    "name": "AI Hype vs Reality and Governance (w/ The AI Collective)",
    "url": "https://luma.com/aic-in-12-9",
    "kind": "meetup",
@@ -2370,6 +2257,20 @@
    "notified": true
   },
   {
+   "name": "Claude Community x Apify | Claude Holiday Build Day",
+   "url": "https://luma.com/claudesf",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
    "name": "The AI Summit New York 2026",
    "url": "https://newyork.theaisummit.com/",
    "kind": "conference",
@@ -2381,6 +2282,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "AI x Bio Pitch Contest",
+   "url": "https://luma.com/dec9thaixbiopitch",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-19",
    "notified": true
   },
   {
