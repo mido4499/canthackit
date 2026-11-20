@@ -137,6 +137,7 @@
  "https://hacktcnj-2027.devpost.com/": null,
  "https://hackva27.devpost.com/": null,
  "https://henhacks2027.devpost.com/": null,
+ "https://her-200-hackathon.devpost.com/": null,
  "https://hook-em-hacks-2027.devpost.com/": {
   "city": "Austin",
   "end": "2027-02-28T17:00:00.000-05:00",
@@ -208,7 +209,6 @@
   "us": false
  },
  "https://rookie-hacks.devpost.com/": null,
- "https://sandbox-test-2.devpost.com/": null,
  "https://sc-quantathon-v4.devpost.com/": {
   "city": "Clemson",
   "end": "2027-10-24T11:00:00.000-04:00",
@@ -251,6 +251,8 @@
   "state": "California",
   "us": true
  },
+ "https://tfc26.devpost.com/": null,
+ "https://the-upside-hack-2-0.devpost.com/": null,
  "https://theagent-to-agent-hackathon.devpost.com/": null,
  "https://ticket-to-hack.devpost.com/": {
   "city": "University of Virginia",
@@ -266,8 +268,8 @@
   "state": "Texas",
   "us": true
  },
+ "https://tuj-fall-2026-hackathon.devpost.com/": null,
  "https://tum-xr-hackathon-2026.devpost.com/": null,
- "https://ubc-hackathon-2026.devpost.com/": null,
  "https://vibeathon-mexico-2026.devpost.com/": null,
  "https://vibecode-animated-maps.devpost.com/": {
   "city": "South Plainfield",

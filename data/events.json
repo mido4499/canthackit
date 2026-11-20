@@ -54,38 +54,6 @@
    "notified": true
   },
   {
-   "name": "AI Coding Summit New York Edition",
-   "url": "https://aicodingsummit.com/nyc",
-   "kind": "conference",
-   "start": "2026-11-16",
-   "end": "2026-11-19",
-   "city": "New York, NY",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "JSNation US",
-   "url": "https://jsnation.us",
-   "kind": "conference",
-   "start": "2026-11-16",
-   "end": "2026-11-19",
-   "city": "New York, NY",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "QCon San Francisco 2026",
    "url": "https://dev.events/conferences/q-con-san-francisco-2026-uyxw-rvq",
    "kind": "conference",
@@ -116,118 +84,6 @@
    "notified": true
   },
   {
-   "name": "Agent Demo Night (w/ The AI Collective Atlanta)",
-   "url": "https://luma.com/aic-at-11-18",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Alpharetta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Building With AI | ART-ificial Intelligence | w/The AI Collective",
-   "url": "https://luma.com/aic-st-11-18",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Stamford",
-   "state": "Connecticut",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-31",
-   "notified": true
-  },
-  {
-   "name": "Codex Community Meetup \u2013 Atlanta",
-   "url": "https://luma.com/311z53l2",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Atlanta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "Fayetteville AI Tasting Monthly Meeting (w/ The AI Collective)",
-   "url": "https://luma.com/aic-fa-11-18",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Fayetteville",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "From Markets to Venture: Investing Across the Healthcare Landscape",
-   "url": "https://luma.com/v17x3t8t",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-05",
-   "notified": true
-  },
-  {
-   "name": "Molding Conference 2026",
-   "url": "https://www.moldingconference.com/",
-   "kind": "conference",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Greenville, SC",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "n8n Meetup Atlanta | Pens Up, Laptops Down: Where HR Meets Automation",
-   "url": "https://luma.com/n8n-bi72",
-   "kind": "meetup",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "city": "Atlanta",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-27",
-   "notified": true
-  },
-  {
-   "name": "Agents You Can Verify - Infrastructure and standards for sovereign enterprise AI",
-   "url": "https://luma.com/rnwggh3f",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
    "name": "AI and the Future of Work : A community mixer",
    "url": "https://luma.com/aic-si-11-19",
    "kind": "meetup",
@@ -242,62 +98,6 @@
    "notified": true
   },
   {
-   "name": "AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani",
-   "url": "https://luma.com/d1kj9otd",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-13",
-   "notified": true
-  },
-  {
-   "name": "Dinner with Enhans at Microsoft Ignite",
-   "url": "https://luma.com/fzypn9yn",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Engineering the Future of Media - Seattle Community Meetup",
-   "url": "https://luma.com/zzs80ht1",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-18",
-   "notified": true
-  },
-  {
-   "name": "From Azure Spend to Business Value",
-   "url": "https://luma.com/c07h5h6p",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
    "name": "Get Together. Explore AI. (w/ The AI Collective)",
    "url": "https://luma.com/aic-duluth-nov2026",
    "kind": "meetup",
@@ -305,34 +105,6 @@
    "end": "2026-11-20",
    "city": "Duluth",
    "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Happy Hour during Microsoft Ignite",
-   "url": "https://luma.com/ehv55ys7",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Microsoft Marketplace Strategic Breakfast @ Microsoft Ignite 2026",
-   "url": "https://luma.com/v0w3d6mg",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
    "sources": [
     "luma"
    ],
@@ -354,20 +126,6 @@
    "notified": true
   },
   {
-   "name": "People, Pints, + Possibilities @ Creature Comforts (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-11-17",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "Athens",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-06",
-   "notified": true
-  },
-  {
    "name": "Recovery Lounge",
    "url": "https://luma.com/u2w4y1ts",
    "kind": "meetup",
@@ -382,20 +140,6 @@
    "notified": true
   },
   {
-   "name": "San Diego | Claude Community x Perplexity Workshop",
-   "url": "https://luma.com/claude-7a4u",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Diego",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-02",
-   "notified": true
-  },
-  {
    "name": "Sandy Springs AI Meetup (w/ The AI Collective)",
    "url": "https://luma.com/aic-at-11-19-2",
    "kind": "meetup",
@@ -407,62 +151,6 @@
     "luma"
    ],
    "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "Some Conversations Deserve Dinner.",
-   "url": "https://luma.com/above-native",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-13",
-   "notified": true
-  },
-  {
-   "name": "Take a Break from Ignite with Pinecone!",
-   "url": "https://luma.com/pinecone-g22t",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Ultra-Fast Inference & Open-Weight Models",
-   "url": "https://luma.com/cch7p7pw",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
-   "name": "Vibin' Out with Hartford AI Collective (w/ The AI Collective) (w/ The AI Collective)",
-   "url": "https://luma.com/aic-ha-11-19",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "city": "West Hartford",
-   "state": "Connecticut",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-26",
    "notified": true
   },
   {
@@ -1310,6 +998,20 @@
    "notified": true
   },
   {
+   "name": "Confidential AI Summit at NVIDIA GTC DC 2026",
+   "url": "https://luma.com/7qrtwear",
+   "kind": "conference",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
+  },
+  {
    "name": "CTRL+RUN: Security Leader Dinner @ AWS re:Invent",
    "url": "https://luma.com/gtc8v65n",
    "kind": "meetup",
@@ -1448,6 +1150,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Happy Hour with vCluster - Setting Boundaries for AI Factories and Agents",
+   "url": "https://luma.com/niw7332e",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
   },
   {
    "name": "House of Valkey 2026",
@@ -1759,6 +1475,20 @@
    "notified": true
   },
   {
+   "name": "Hell's Software Factory: The Challenges of the AI SDLC",
+   "url": "https://luma.com/jbj2va14",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
+  },
+  {
    "name": "IaCConf Leaders Lunch @ AWS re:Invent",
    "url": "https://luma.com/ak3trzqs",
    "kind": "conference",
@@ -1785,6 +1515,20 @@
    ],
    "first_seen": "2026-11-12",
    "notified": true
+  },
+  {
+   "name": "Nucleate RI | URI Biotech Entrepreneurship Panel",
+   "url": "https://luma.com/o53lwnlf",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "South Kingstown",
+   "state": "Rhode Island",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
   },
   {
    "name": "OpenAI Technical Practitioner Training (Lawrence, KS)",
@@ -1926,6 +1670,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Early Biotech Playbook: Fireside Chat with Medicilon",
+   "url": "https://luma.com/tfa6t90v",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
   },
   {
    "name": "Founder Fridays: The AI Collective x Unstuck Labs",
@@ -2368,6 +2126,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Poker Night for B2B Founders",
+   "url": "https://luma.com/b2b-founders-poker",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
   },
   {
    "name": "OpenClaw Seattle - Monthly",
@@ -3108,6 +2880,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "InnovateHer",
+   "url": "https://innovateherhacks.org/",
+   "kind": "hackathon",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "city": "West Lafayette",
+   "state": "Indiana",
+   "sources": [
+    "mlh"
+   ],
+   "first_seen": "2026-11-20",
+   "notified": false
   },
   {
    "name": "Dynatrace Perform 2027",
