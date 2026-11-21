@@ -28,15 +28,14 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**340 upcoming events**: 56 hackathons, 163 conferences and 121 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**330 upcoming events**: 56 hackathons, 161 conferences and 113 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 20, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 21, 2026.</sub>
 
-### 🆕 Just announced (58 this week)
+### 🆕 Just announced (59 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California | Hackathon |
 | [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
 | [n8n Workshop Albany: n8n at NSBE Fall Regional Conference](https://luma.com/n8n-o80y) | Nov 21 | Albany, New York | Conference |
 | [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
@@ -46,12 +45,12 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [BsidesSGF 2027](https://bsidessgf.com/) | Mar 30 | Springfield, IL | Conference |
 | [OWASP BASC 2027](https://basconf.org/) | Apr 3 | Boston, MA | Conference |
 | [Southwest Food Security and Technology Summit 2027](https://swnomsec.org) | Apr 13⁠–⁠14 | Las Cruces, NM | Conference |
+| [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Snowglobe](https://snowglobe.hackclub.com/) | Nov 20⁠–⁠22 | San Francisco, California |
 | [BostonHacks](https://bostonhacks.org/) | Nov 21⁠–⁠22 | Boston, MA |
 | [Cutie Hack 2026](https://cutie-hack-2026.devpost.com/) | Nov 21 | Riverside, California |
 | [FutureForge Hacks](https://futureforge-hacks.devpost.com/) | Nov 21 | Pleasanton, California |
@@ -61,6 +60,7 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [AI Hackathon: Sales Copilot AI](https://luma.com/SalesCopilotAI) | Dec 12⁠–⁠13 | San Francisco, California |
 | [Vibe Code Animated Maps](https://vibecode-animated-maps.devpost.com/) | Dec 20 | South Plainfield, New Jersey |
 | [Sentinel Hacks](https://www.sentinelhacks.tech/) | Jan 9 | Sunnyvale, California |
+| [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

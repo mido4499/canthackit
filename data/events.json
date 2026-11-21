@@ -39,205 +39,6 @@
    "notified": true
   },
   {
-   "name": "Live! 360 Tech Con Orlando 2026",
-   "url": "https://live360events.com",
-   "kind": "conference",
-   "start": "2026-11-15",
-   "end": "2026-11-20",
-   "city": "Orlando, FL",
-   "state": "",
-   "sources": [
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "QCon San Francisco 2026",
-   "url": "https://dev.events/conferences/q-con-san-francisco-2026-uyxw-rvq",
-   "kind": "conference",
-   "start": "2026-11-16",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "React Summit US",
-   "url": "https://reactsummit.us",
-   "kind": "conference",
-   "start": "2026-11-17",
-   "end": "2026-11-20",
-   "city": "New York, NY",
-   "state": "",
-   "sources": [
-    "confs.tech",
-    "dev.events",
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI and the Future of Work : A community mixer",
-   "url": "https://luma.com/aic-si-11-19",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "city": "Silver Spring",
-   "state": "Maryland",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-14",
-   "notified": true
-  },
-  {
-   "name": "Get Together. Explore AI. (w/ The AI Collective)",
-   "url": "https://luma.com/aic-duluth-nov2026",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "city": "Duluth",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Nucleate Thanksgiving \ud83c\udf42",
-   "url": "https://luma.com/hesyjw20",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "city": "Boston",
-   "state": "Massachusetts",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-16",
-   "notified": true
-  },
-  {
-   "name": "Recovery Lounge",
-   "url": "https://luma.com/u2w4y1ts",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-11",
-   "notified": true
-  },
-  {
-   "name": "Sandy Springs AI Meetup (w/ The AI Collective)",
-   "url": "https://luma.com/aic-at-11-19-2",
-   "kind": "meetup",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "city": "Sandy Springs",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "AI Alien Alert! An Out-of-This-World App Build Night (w/ The AI Collective)",
-   "url": "https://luma.com/ai-alien-alert-757",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "Norfolk",
-   "state": "Virginia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Codex Community Meetup: Tampa",
-   "url": "https://luma.com/6uk3m4og",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "St. Petersburg",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
-   "notified": true
-  },
-  {
-   "name": "Founders & Funders | The Hunger Games: Sunrise on the Reaping Pre-screening",
-   "url": "https://luma.com/qbos6fyz",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
-   "name": "GTM & AI Dinner",
-   "url": "https://luma.com/gtm-ai-sf",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-05",
-   "notified": true
-  },
-  {
-   "name": "n8n Meetup San Francisco \u00b7 Microsoft Ignite Afterhours",
-   "url": "https://luma.com/n8n-25m5",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "Nucleate PNW: In-Person Team Matching",
-   "url": "https://luma.com/9an1hm9w",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "Seattle",
-   "state": "Washington",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-07",
-   "notified": true
-  },
-  {
    "name": "Snowglobe",
    "url": "https://snowglobe.hackclub.com/",
    "kind": "hackathon",
@@ -249,20 +50,6 @@
     "hackclub"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "SoCal ThinkingAI Executive Dinner: Driving ROI with Agents",
-   "url": "https://luma.com/tj89s7k9",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "El Segundo",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-18",
    "notified": true
   },
   {
@@ -291,34 +78,6 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "The Next Enterprise AI Advantage: What It Takes to Put Agents to Work",
-   "url": "https://luma.com/gxzx23yc",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-12",
-   "notified": true
-  },
-  {
-   "name": "Women Leading Life Sciences Dinner San Diego",
-   "url": "https://luma.com/tj48yqtl",
-   "kind": "meetup",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "city": "San Diego",
-   "state": "California",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-09",
    "notified": true
   },
   {
@@ -690,6 +449,20 @@
    "notified": true
   },
   {
+   "name": "After Hours at GTC with Rafay + Protopia",
+   "url": "https://luma.com/f1garrsi",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
+   "notified": true
+  },
+  {
    "name": "Agentic AI Foundation ( AAIF ) December Talks",
    "url": "https://luma.com/aaif-seattle",
    "kind": "conference",
@@ -774,6 +547,20 @@
    "notified": true
   },
   {
+   "name": "Intuitive IQ: Decision Intelligence Engine on AWS - Turn Bedrock agents into decisions you can act on.",
+   "url": "https://luma.com/ywf0ligq",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
+   "notified": true
+  },
+  {
    "name": "Lakehouse After Hours: Pizza, Pints & Petabytes",
    "url": "https://luma.com/kk79mwua",
    "kind": "meetup",
@@ -799,6 +586,20 @@
     "luma"
    ],
    "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
+   "name": "M\u00e1s all\u00e1 de los Techos de Cristal - Building the Future of AI, Together",
+   "url": "https://luma.com/a4e4clgn",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
    "notified": true
   },
   {
@@ -1009,7 +810,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "CTRL+RUN: Security Leader Dinner @ AWS re:Invent",
@@ -1163,7 +964,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "House of Valkey 2026",
@@ -1177,6 +978,20 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
+   "notified": true
+  },
+  {
+   "name": "Le Labo Experience at AWS re:Invent",
+   "url": "https://luma.com/h6xgam7u",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
    "notified": true
   },
   {
@@ -1419,6 +1234,20 @@
    "notified": true
   },
   {
+   "name": "Antithesis & LeadDev Engineering Leaders Reception",
+   "url": "https://luma.com/antith-tyid",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
+   "notified": true
+  },
+  {
    "name": "AWS Reinvent x Casco Dinner",
    "url": "https://luma.com/gbe5px7n",
    "kind": "meetup",
@@ -1430,6 +1259,20 @@
     "luma"
    ],
    "first_seen": "2026-10-30",
+   "notified": true
+  },
+  {
+   "name": "Behind the Curtain: An Evening at Sphere for Security Leaders",
+   "url": "https://luma.com/0yhdaf2e",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-21",
    "notified": true
   },
   {
@@ -1486,7 +1329,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "IaCConf Leaders Lunch @ AWS re:Invent",
@@ -1528,7 +1371,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "OpenAI Technical Practitioner Training (Lawrence, KS)",
@@ -1683,7 +1526,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Founder Fridays: The AI Collective x Unstuck Labs",
@@ -2139,7 +1982,7 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "OpenClaw Seattle - Monthly",
@@ -2893,7 +2736,7 @@
     "mlh"
    ],
    "first_seen": "2026-11-20",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Dynatrace Perform 2027",
@@ -4295,6 +4138,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "PyCon US 2027",
+   "url": "https://us.pycon.org/",
+   "kind": "conference",
+   "start": "2027-05-12",
+   "end": "2027-05-18",
+   "city": "Long Beach, CA",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-21",
    "notified": true
   },
   {
