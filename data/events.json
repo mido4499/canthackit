@@ -24,21 +24,6 @@
    "notified": true
   },
   {
-   "name": "Teens Hack Houston Hackathon",
-   "url": "https://tripleh.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-14",
-   "end": "2026-11-21",
-   "city": "Houston",
-   "state": "Texas",
-   "sources": [
-    "devpost",
-    "hackclub"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Snowglobe",
    "url": "https://snowglobe.hackclub.com/",
    "kind": "hackathon",
@@ -81,34 +66,6 @@
    "notified": true
   },
   {
-   "name": "2026 IEEE Smart City USA Conference",
-   "url": "https://ieeesmartcityconference.org/",
-   "kind": "conference",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Wylie, TX",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "AI Architect Me!",
-   "url": "https://luma.com/aic-ch-11-21",
-   "kind": "meetup",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Chattanooga",
-   "state": "Tennessee",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-30",
-   "notified": true
-  },
-  {
    "name": "BostonHacks",
    "url": "https://bostonhacks.org/",
    "kind": "hackathon",
@@ -120,90 +77,6 @@
     "mlh"
    ],
    "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "Codex Community Meetup Orem",
-   "url": "https://luma.com/yiwax197",
-   "kind": "meetup",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Orem",
-   "state": "Utah",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-03",
-   "notified": true
-  },
-  {
-   "name": "Codex Community Talk",
-   "url": "https://luma.com/3aw7b1e3",
-   "kind": "meetup",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Charlotte",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-05",
-   "notified": true
-  },
-  {
-   "name": "Cutie Hack 2026",
-   "url": "https://cutie-hack-2026.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Riverside",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "FutureForge Hacks",
-   "url": "https://futureforge-hacks.devpost.com/",
-   "kind": "hackathon",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Pleasanton",
-   "state": "California",
-   "sources": [
-    "devpost"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "n8n Workshop Albany: n8n at NSBE Fall Regional Conference",
-   "url": "https://luma.com/n8n-o80y",
-   "kind": "conference",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "Albany",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-16",
-   "notified": true
-  },
-  {
-   "name": "NYC | Claude Impact Lab - Digital Health",
-   "url": "https://luma.com/claude-gz81",
-   "kind": "meetup",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "city": "New York",
-   "state": "New York",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-16",
    "notified": true
   },
   {
@@ -769,6 +642,20 @@
    ],
    "first_seen": "2026-10-06",
    "notified": true
+  },
+  {
+   "name": "Brookhaven Monthly Meetup (w/ The AI Collective)",
+   "url": "https://luma.com/aic-at-12-2b",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-22",
+   "notified": false
   },
   {
    "name": "CISO Dallas 2026",
@@ -3999,6 +3886,20 @@
    "notified": true
   },
   {
+   "name": "Boise Code Camp 2027",
+   "url": "https://www.boisecodecamp.com",
+   "kind": "conference",
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "city": "Boise, ID",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-22",
+   "notified": false
+  },
+  {
    "name": "Visual Studio Live! Austin 2027",
    "url": "https://dev.events/conferences/visual-studio-live-austin-2027-mwwcflm",
    "kind": "conference",
@@ -4181,6 +4082,20 @@
    ],
    "first_seen": "2026-10-16",
    "notified": true
+  },
+  {
+   "name": "Devopsdays Baltimore",
+   "url": "https://devopsdays.org/events/2027-baltimore",
+   "kind": "conference",
+   "start": "2027-05-18",
+   "end": "2027-05-19",
+   "city": "Baltimore, MD",
+   "state": "",
+   "sources": [
+    "developers.events"
+   ],
+   "first_seen": "2026-11-22",
+   "notified": false
   },
   {
    "name": "Devopsdays Nashville",

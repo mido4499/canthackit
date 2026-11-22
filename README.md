@@ -28,39 +28,39 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**330 upcoming events**: 56 hackathons, 161 conferences and 113 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**324 upcoming events**: 53 hackathons, 161 conferences and 110 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 21, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 22, 2026.</sub>
 
-### 🆕 Just announced (59 this week)
+### 🆕 Just announced (49 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
-| [n8n Workshop Albany: n8n at NSBE Fall Regional Conference](https://luma.com/n8n-o80y) | Nov 21 | Albany, New York | Conference |
 | [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
 | [Security & Engineering Leaders Brunch & Bowling Summit Hosted by U&I Ventures #AWSreInvent2026](https://luma.com/e66e984m) | Dec 2 | Las Vegas, Nevada | Conference |
 | [IaCConf Leaders Lunch @ AWS re:Invent](https://luma.com/ak3trzqs) | Dec 3 | Las Vegas, Nevada | Conference |
 | [Upstream](https://upstream.snowxa.com) | Jan 14⁠–⁠16 | San Francisco, CA | Conference |
-| [BsidesSGF 2027](https://bsidessgf.com/) | Mar 30 | Springfield, IL | Conference |
-| [OWASP BASC 2027](https://basconf.org/) | Apr 3 | Boston, MA | Conference |
-| [Southwest Food Security and Technology Summit 2027](https://swnomsec.org) | Apr 13⁠–⁠14 | Las Cruces, NM | Conference |
-| [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
+| [Boise Code Camp 2027](https://www.boisecodecamp.com) | May 1 | Boise, ID | Conference |
+| [Enterprise AI Summit](https://events.itrevolution.com/2027-portland/) | May 5⁠–⁠6 | Portland, OR | Conference |
+| [PyCon US 2027](https://us.pycon.org/) | May 12⁠–⁠18 | Long Beach, CA | Conference |
+| [Day of Data 2027](https://dayofdata.org/jax) | May 14⁠–⁠15 | Jacksonville, FL | Conference |
+| [Devopsdays Baltimore](https://devopsdays.org/events/2027-baltimore) | May 18⁠–⁠19 | Baltimore, MD | Conference |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [BostonHacks](https://bostonhacks.org/) | Nov 21⁠–⁠22 | Boston, MA |
-| [Cutie Hack 2026](https://cutie-hack-2026.devpost.com/) | Nov 21 | Riverside, California |
-| [FutureForge Hacks](https://futureforge-hacks.devpost.com/) | Nov 21 | Pleasanton, California |
-| [WHACK (Wellesley Hackathon)](https://www.wellesleyhacks.org/) | Nov 21⁠–⁠22 | Wellesley , Massachesetts |
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas |
 | [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California |
 | [AI Hackathon: Sales Copilot AI](https://luma.com/SalesCopilotAI) | Dec 12⁠–⁠13 | San Francisco, California |
 | [Vibe Code Animated Maps](https://vibecode-animated-maps.devpost.com/) | Dec 20 | South Plainfield, New Jersey |
 | [Sentinel Hacks](https://www.sentinelhacks.tech/) | Jan 9 | Sunnyvale, California |
 | [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia |
+| [QWER Hacks](https://www.qwerhacks.com/) | Jan 16⁠–⁠17 | Los Angeles, CA |
+| [Hoya Hacks 2027](https://hoya-hacks-2027.devpost.com/) | Jan 22⁠–⁠24 | Washington, District of Columbia |
+| [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California |
+| [GSD Hackathon - Get Shit Done](https://tbd-hackathon.devpost.com/) | Jan 23 | Philadelphia, Pennsylvania |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
