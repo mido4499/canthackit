@@ -28,39 +28,39 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**407 upcoming events**: 98 hackathons, 214 conferences and 95 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**330 upcoming events**: 56 hackathons, 161 conferences and 113 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: October 31, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 21, 2026.</sub>
 
-### 🆕 Just announced (39 this week)
+### 🆕 Just announced (59 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
-| [The Next Frontier 2026: A Space Innovation Hackathon](https://aichr-space.devpost.com/) | Nov 14⁠–⁠15 | Virginia Beach, Virginia | Hackathon |
-| [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas | Hackathon |
-| [Beacon Hacks](https://beaconhacks.com) | Jan 30⁠–⁠31 | Belmont, California | Hackathon |
-| [Catalyst Hack Day](https://catalyst-hack-day.devpost.com/) | Feb 6 | Needham, Massachusetts | Hackathon |
-| [Agentic AI Foundation ( AAIF ) December Talks](https://luma.com/aaif-seattle) | Dec 1⁠–⁠15 | Washington, DC | Conference |
-| [Code Remix Summit](https://coderemix.ai/) | Feb 22⁠–⁠24 | Miami, FL | Conference |
-| [SunSecCon](https://www.sunseccon.org/2027) | Apr 1⁠–⁠2 | Pasadena, CA | Conference |
-| [KCD Texas 2027](https://pretalx.com/kcd-texas-2027/) | Apr 23 | Austin, TX | Conference |
-| [SecretCon 2027](https://secretcon.com) | May 6⁠–⁠7 | Saint Paul, MN | Conference |
-| [AI & Humans \| The Conscious Future](https://luma.com/aic-bos-humans) | Nov 2⁠–⁠3 | Cambridge, Massachusetts | Meetup |
+| [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
+| [n8n Workshop Albany: n8n at NSBE Fall Regional Conference](https://luma.com/n8n-o80y) | Nov 21 | Albany, New York | Conference |
+| [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
+| [Security & Engineering Leaders Brunch & Bowling Summit Hosted by U&I Ventures #AWSreInvent2026](https://luma.com/e66e984m) | Dec 2 | Las Vegas, Nevada | Conference |
+| [IaCConf Leaders Lunch @ AWS re:Invent](https://luma.com/ak3trzqs) | Dec 3 | Las Vegas, Nevada | Conference |
+| [Upstream](https://upstream.snowxa.com) | Jan 14⁠–⁠16 | San Francisco, CA | Conference |
+| [BsidesSGF 2027](https://bsidessgf.com/) | Mar 30 | Springfield, IL | Conference |
+| [OWASP BASC 2027](https://basconf.org/) | Apr 3 | Boston, MA | Conference |
+| [Southwest Food Security and Technology Summit 2027](https://swnomsec.org) | Apr 13⁠–⁠14 | Las Cruces, NM | Conference |
+| [Directions North America 2027](https://directionsna.com/) | Apr 17⁠–⁠20 | New Orleans, LA | Conference |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
-| [Haunted Hacks: Realtime AI Edition](https://haunted-hacks.devpost.com/) | Oct 31 | San Francisco, California |
-| [FSB AI Build-a-thon Event 02](https://fsb-ai-buildathon-02.devpost.com/) | Nov 3 | Oxford, Ohio |
-| [Ship It: The Product Builders' Hackathon](https://ship-it-hackathon.devpost.com/) | Nov 5 | San Francisco, California |
-| [CrownHacks](https://crownhacks.devpost.com/) | Nov 6⁠–⁠8 | Charlotte, North Carolina |
-| [DevFest Hackathon 2026](https://devfest-hackathon-2026.devpost.com/) | Nov 6⁠–⁠8 | Orlando, Florida |
-| [HackStorm 3.0: Sense, Think and Act](https://hackstorm3.devpost.com/) | Nov 6⁠–⁠8 | San Francisco, California |
-| [PowerHack](https://powerhack.devpost.com/) | Nov 6 | The Bronx, New York |
-| [SharkByte](https://shark-byte.io/) | Nov 6⁠–⁠8 | Miami, FL |
-| [YCP Hacks](https://ycphacks.io/) | Nov 6⁠–⁠8 | York PA, PA |
-| [AWS x A10 Hack 2026](https://a10-x-aws-hack-26.devpost.com/) | Nov 7⁠–⁠8 | Santa Clara, California |
+| [BostonHacks](https://bostonhacks.org/) | Nov 21⁠–⁠22 | Boston, MA |
+| [Cutie Hack 2026](https://cutie-hack-2026.devpost.com/) | Nov 21 | Riverside, California |
+| [FutureForge Hacks](https://futureforge-hacks.devpost.com/) | Nov 21 | Pleasanton, California |
+| [WHACK (Wellesley Hackathon)](https://www.wellesleyhacks.org/) | Nov 21⁠–⁠22 | Wellesley , Massachesetts |
+| [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas |
+| [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California |
+| [AI Hackathon: Sales Copilot AI](https://luma.com/SalesCopilotAI) | Dec 12⁠–⁠13 | San Francisco, California |
+| [Vibe Code Animated Maps](https://vibecode-animated-maps.devpost.com/) | Dec 20 | South Plainfield, New Jersey |
+| [Sentinel Hacks](https://www.sentinelhacks.tech/) | Jan 9 | Sunnyvale, California |
+| [HackBI X](https://hackbi.org/) | Jan 16⁠–⁠17 | Alexandria, Virginia |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email
