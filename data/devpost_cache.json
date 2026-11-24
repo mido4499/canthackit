@@ -106,6 +106,7 @@
  },
  "https://hacksussex-gamejam-2026.devpost.com/": null,
  "https://hacktcnj-2027.devpost.com/": null,
+ "https://hackuncp-2027.devpost.com/": null,
  "https://hackva27.devpost.com/": null,
  "https://henhacks2027.devpost.com/": null,
  "https://hook-em-hacks-2027.devpost.com/": {
@@ -154,7 +155,6 @@
   "state": "",
   "us": false
  },
- "https://nutech-hackfest-2026.devpost.com/": null,
  "https://nwhacks-2027.devpost.com/": null,
  "https://open-sourcery-f26-showcase.devpost.com/": null,
  "https://project-zh.devpost.com/": null,
@@ -207,7 +207,6 @@
   "state": "California",
   "us": true
  },
- "https://theagent-to-agent-hackathon.devpost.com/": null,
  "https://ticket-to-hack.devpost.com/": {
   "city": "University of Virginia",
   "end": "2027-02-28T17:00:00.000-05:00",

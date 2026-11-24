@@ -28,11 +28,11 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**330 upcoming events**: 51 hackathons, 158 conferences and 121 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**352 upcoming events**: 51 hackathons, 158 conferences and 143 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
 <sub>Updated automatically every day. Last update: November 24, 2026.</sub>
 
-### 🆕 Just announced (48 this week)
+### 🆕 Just announced (70 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|

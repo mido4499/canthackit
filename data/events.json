@@ -280,6 +280,20 @@
    "notified": true
   },
   {
+   "name": "An Evening above Washington D.C. hosted by Netris & Rafay | GTC DC",
+   "url": "https://luma.com/zkhfakhz",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Blackwell Evening by Fluence @ Nvidia GTC, DC",
    "url": "https://luma.com/0axn7b35",
    "kind": "meetup",
@@ -291,6 +305,20 @@
     "luma"
    ],
    "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "Build It, Scale It, Govern It: The Mission-Ready AI Factory | Accenture + Rafay",
+   "url": "https://luma.com/5fj9vwtz",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -420,6 +448,20 @@
    "notified": true
   },
   {
+   "name": "Nebius presents: After Hours at GTC Washington, D.C.",
+   "url": "https://luma.com/nebius-z236",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "NVIDIA Developer Live Agent Gauntlet",
    "url": "https://luma.com/nvidia-live-agent-gauntlet-gtc-dc-2026",
    "kind": "meetup",
@@ -504,6 +546,20 @@
    "notified": true
   },
   {
+   "name": "Vibe Night in Sandy Springs (w/ The AI Collective)",
+   "url": "https://luma.com/aic-us-12-1",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "city": "Sandy Springs",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "A Heroes' Welcome : CodeRabbit's Welcome Reception at AWS re:Invent",
    "url": "https://luma.com/26-12-reinvent-welcome-event",
    "kind": "meetup",
@@ -546,6 +602,20 @@
    "notified": true
   },
   {
+   "name": "AWS re:Invent 2026 Cyber Buffet at Wynn Las Vegas by Agentic Fabriq",
+   "url": "https://luma.com/nhc9w3g2",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "AWS re:Invent 2026 Executive Cocktail Hour - Holiday Edition \ud83c\udf84",
    "url": "https://luma.com/executive-cocktail-hour-reinvent",
    "kind": "meetup",
@@ -571,6 +641,20 @@
     "luma"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "AWS re:Invent Pit Stop",
+   "url": "https://luma.com/ul0tgyw9",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -655,6 +739,34 @@
     "luma"
    ],
    "first_seen": "2026-11-03",
+   "notified": true
+  },
+  {
+   "name": "Executive Reception Washington D.C. hosted by Netris | GTC DC",
+   "url": "https://luma.com/5wuf4v9l",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
+   "name": "Executive Roundtable @ AWS re:Invent: What does it take to trust Agents in prod?",
+   "url": "https://luma.com/platform-m5sv",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -809,6 +921,20 @@
     "luma"
    ],
    "first_seen": "2026-11-21",
+   "notified": true
+  },
+  {
+   "name": "Loop8 Atomic AI @ re:Invent",
+   "url": "https://luma.com/81ohayyc",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1149,6 +1275,20 @@
    "notified": true
   },
   {
+   "name": "Exec Roundtable @ AWS re:Invent: Your platform team's next customer is the whole company. Are you ready?",
+   "url": "https://luma.com/platform-kf4z",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Fund or Fold: How VCs Actually Decide",
    "url": "https://luma.com/fundorfold",
    "kind": "meetup",
@@ -1188,6 +1328,20 @@
     "luma"
    ],
    "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "Miami | Claude Mix Lab",
+   "url": "https://luma.com/claude-4vj1",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-04",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1244,6 +1398,20 @@
     "luma"
    ],
    "first_seen": "2026-11-01",
+   "notified": true
+  },
+  {
+   "name": "Partnership Leaders Dinner @ AWS re:Invent",
+   "url": "https://luma.com/3uhl0t9s",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1472,6 +1640,20 @@
    "notified": true
   },
   {
+   "name": "Parse & Play - Happy Hour at Topgolf Las Vegas | AWS re:Invent",
+   "url": "https://luma.com/3r39v98i",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Paradise",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "PAX Unplugged",
    "url": "https://dev.events/conferences/pax-unplugged-z-vqbtq6",
    "kind": "conference",
@@ -1498,6 +1680,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-12",
+   "notified": true
+  },
+  {
+   "name": "Who Let the Agents In? A Private Dinner for Security Leaders",
+   "url": "https://luma.com/lb893wvl",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1745,6 +1941,20 @@
    "notified": true
   },
   {
+   "name": "Camp Code-Gen Dinner at NeurIPS 2026 Atlanta",
+   "url": "https://luma.com/revelo-neurips-2026-atlanta-dinner",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Claude Community x Apify | Claude Holiday Build Day",
    "url": "https://luma.com/claudesf",
    "kind": "meetup",
@@ -1756,6 +1966,20 @@
     "luma"
    ],
    "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "Codex Community Meetup \u2013 San Diego",
+   "url": "https://luma.com/hs5lcexw",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "city": "San Diego",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1801,6 +2025,20 @@
    "notified": true
   },
   {
+   "name": "Can We Trust the Grader? Drinks on Evals and Expert Judgment",
+   "url": "https://luma.com/7bj9cpmq",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Codex Community Hack Night \u2014 Video Generation Jam",
    "url": "https://luma.com/video-generation-jam-with-codex-1",
    "kind": "meetup",
@@ -1812,6 +2050,34 @@
     "luma"
    ],
    "first_seen": "2026-11-17",
+   "notified": true
+  },
+  {
+   "name": "Fireworks NeurIPS Happy Hour",
+   "url": "https://luma.com/gn7d278g",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
+   "name": "MatrAIx Neurips Party",
+   "url": "https://luma.com/43zgggun",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1840,6 +2106,34 @@
     "luma"
    ],
    "first_seen": "2026-11-18",
+   "notified": true
+  },
+  {
+   "name": "\ud835\udde0\ud835\udddc\ud835\uddeb\ud835\udde7\ud835\udde8\ud835\udde5\ud835\uddd8 \ud835\udde2\ud835\uddd9 \ud835\uddd8\ud835\uddeb\ud835\udde3\ud835\uddd8\ud835\udde5\ud835\udde7\ud835\udde6: Researchers. Builders. And Bartenders. (An after-hours mixer)",
+   "url": "https://luma.com/4erlgdp9",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
+   "name": "ALICE x AI Circle | NeurIPS Atlanta Private Dinner & Expert Panel: Trust at Scale",
+   "url": "https://luma.com/ai-9yem",
+   "kind": "meetup",
+   "start": "2026-12-11",
+   "end": "2026-12-12",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1883,6 +2177,20 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
+   "notified": true
+  },
+  {
+   "name": "Seattle | Claude Community x Tavily Build Day",
+   "url": "https://luma.com/claude-74no",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "Seattle",
+   "state": "Washington",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
