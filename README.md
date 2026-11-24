@@ -28,24 +28,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**324 upcoming events**: 53 hackathons, 161 conferences and 110 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**330 upcoming events**: 51 hackathons, 158 conferences and 121 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 22, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 24, 2026.</sub>
 
-### 🆕 Just announced (49 this week)
+### 🆕 Just announced (48 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
+| [HackBU](https://hackbu.org/) | Jan 30⁠–⁠31 | Vestal, NY | Hackathon |
 | [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
 | [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
 | [Security & Engineering Leaders Brunch & Bowling Summit Hosted by U&I Ventures #AWSreInvent2026](https://luma.com/e66e984m) | Dec 2 | Las Vegas, Nevada | Conference |
 | [IaCConf Leaders Lunch @ AWS re:Invent](https://luma.com/ak3trzqs) | Dec 3 | Las Vegas, Nevada | Conference |
-| [Upstream](https://upstream.snowxa.com) | Jan 14⁠–⁠16 | San Francisco, CA | Conference |
 | [Boise Code Camp 2027](https://www.boisecodecamp.com) | May 1 | Boise, ID | Conference |
-| [Enterprise AI Summit](https://events.itrevolution.com/2027-portland/) | May 5⁠–⁠6 | Portland, OR | Conference |
 | [PyCon US 2027](https://us.pycon.org/) | May 12⁠–⁠18 | Long Beach, CA | Conference |
-| [Day of Data 2027](https://dayofdata.org/jax) | May 14⁠–⁠15 | Jacksonville, FL | Conference |
 | [Devopsdays Baltimore](https://devopsdays.org/events/2027-baltimore) | May 18⁠–⁠19 | Baltimore, MD | Conference |
+| [Durham \| Claude Meetup - Job Edition](https://luma.com/claude-f2wa) | Nov 28⁠–⁠29 | Durham, North Carolina | Meetup |
+| [After Hours at GTC with Rafay + Protopia](https://luma.com/f1garrsi) | Dec 1⁠–⁠2 | Washington, District of Columbia | Meetup |
 
 ### 🏁 Next hackathons
 

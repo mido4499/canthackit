@@ -24,90 +24,6 @@
    "notified": true
   },
   {
-   "name": "Snowglobe",
-   "url": "https://snowglobe.hackclub.com/",
-   "kind": "hackathon",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "city": "San Francisco",
-   "state": "California",
-   "sources": [
-    "hackclub"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Swiftsonic '26",
-   "url": "https://www.swiftsonicconf.com",
-   "kind": "conference",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "city": "Tennessee",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "Swiftsonic '26",
-   "url": "https://dev.events/conferences/swiftsonic-26-sxrhbfqd",
-   "kind": "conference",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "city": "Nashville",
-   "state": "",
-   "sources": [
-    "dev.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
-   "name": "BostonHacks",
-   "url": "https://bostonhacks.org/",
-   "kind": "hackathon",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "city": "Boston",
-   "state": "MA",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-18",
-   "notified": true
-  },
-  {
-   "name": "WHACK (Wellesley Hackathon)",
-   "url": "https://www.wellesleyhacks.org/",
-   "kind": "hackathon",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "city": "Wellesley ",
-   "state": "Massachesetts",
-   "sources": [
-    "mlh"
-   ],
-   "first_seen": "2026-10-14",
-   "notified": true
-  },
-  {
-   "name": "AGNTCon + MCPCon",
-   "url": "https://events.linuxfoundation.org/agntcon-mcpcon-north-america/",
-   "kind": "conference",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "city": "San Jose, CA",
-   "state": "",
-   "sources": [
-    "developers.events"
-   ],
-   "first_seen": "2026-10-06",
-   "notified": true
-  },
-  {
    "name": "Build Your First AI Agent with n8n | AI Collective x n8n Douglasville",
    "url": "https://luma.com/aic-do-11-23",
    "kind": "meetup",
@@ -574,6 +490,20 @@
    "notified": true
   },
   {
+   "name": "The Atlas Club at re:Invent",
+   "url": "https://luma.com/mongodb-uv7n",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "A Heroes' Welcome : CodeRabbit's Welcome Reception at AWS re:Invent",
    "url": "https://luma.com/26-12-reinvent-welcome-event",
    "kind": "meetup",
@@ -655,7 +585,7 @@
     "luma"
    ],
    "first_seen": "2026-11-22",
-   "notified": false
+   "notified": true
   },
   {
    "name": "CISO Dallas 2026",
@@ -1079,6 +1009,20 @@
    "notified": true
   },
   {
+   "name": "The GPU Happy Hour",
+   "url": "https://luma.com/dq4cfzjj",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Agent Afters - The best night out of AWS re:Invent",
    "url": "https://luma.com/agentafters",
    "kind": "meetup",
@@ -1177,6 +1121,20 @@
    "notified": true
   },
   {
+   "name": "Cloudflare After Dark at Brooklyn Bowl",
+   "url": "https://luma.com/1g0gnk5e",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Elevate DC Meetup with Microsoft (during NVIDIA GTC!)",
    "url": "https://luma.com/0mramzgj",
    "kind": "meetup",
@@ -1230,6 +1188,20 @@
     "luma"
    ],
    "first_seen": "2026-11-19",
+   "notified": true
+  },
+  {
+   "name": "n8n Meetup Portland \u00b7 Using n8n + Jev to Turbocharge Your Next Job Search",
+   "url": "https://luma.com/n8n-tn7x",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Portland",
+   "state": "Oregon",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1455,6 +1427,20 @@
     "mlh"
    ],
    "first_seen": "2026-10-30",
+   "notified": true
+  },
+  {
+   "name": "Miami | Claude Culture ArtBasel Edition",
+   "url": "https://luma.com/claude-artbasel",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1745,6 +1731,20 @@
    "notified": true
   },
   {
+   "name": "Boston OpenClaw Meetup [December 2026]",
+   "url": "https://luma.com/hgmu9ivc",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "city": "Boston",
+   "state": "Massachusetts",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Claude Community x Apify | Claude Holiday Build Day",
    "url": "https://luma.com/claudesf",
    "kind": "meetup",
@@ -1770,6 +1770,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "AI Dinner Club - The AI Collective SLC Edition \u2728",
+   "url": "https://luma.com/aic-sl-12-9",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "Sandy",
+   "state": "Utah",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -1971,6 +1985,20 @@
    "notified": true
   },
   {
+   "name": "Glendale | Claude Workshop",
+   "url": "https://luma.com/claude-v44z",
+   "kind": "meetup",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "city": "Glendale",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "Miami | Claude Build Day For Kids",
    "url": "https://luma.com/claude-v667",
    "kind": "meetup",
@@ -1996,6 +2024,20 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Founders Holiday Mixer (w/ The AI Collective)",
+   "url": "https://luma.com/aic-ny-12-22",
+   "kind": "meetup",
+   "start": "2026-12-22",
+   "end": "2026-12-23",
+   "city": "New York",
+   "state": "New York",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -2211,6 +2253,20 @@
    "notified": true
   },
   {
+   "name": "AI x Philosophy Series Session 1: Being Human in the Age of Intelligent Machines (w/ Johns Hopkins Human Capital Development Lab)",
+   "url": "https://luma.com/aic-dc-1-21",
+   "kind": "meetup",
+   "start": "2027-01-21",
+   "end": "2027-01-22",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
    "name": "AI Collective x Gauntlet AI | Inside the Gauntlet (w/ The AI Collective)",
    "url": "https://luma.com/aic-gauntlet-nov10",
    "kind": "meetup",
@@ -2377,6 +2433,20 @@
     "devpost"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "HackBU",
+   "url": "https://hackbu.org/",
+   "kind": "hackathon",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "city": "Vestal",
+   "state": "NY",
+   "sources": [
+    "mlh"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -2595,6 +2665,20 @@
     "dev.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Nucleate Rhode Island: Genesis Launch",
+   "url": "https://luma.com/e0zz6htr",
+   "kind": "meetup",
+   "start": "2027-02-11",
+   "end": "2027-02-13",
+   "city": "Providence",
+   "state": "Rhode Island",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-24",
    "notified": true
   },
   {
@@ -3897,7 +3981,7 @@
     "developers.events"
    ],
    "first_seen": "2026-11-22",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Visual Studio Live! Austin 2027",
@@ -4095,7 +4179,7 @@
     "developers.events"
    ],
    "first_seen": "2026-11-22",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Devopsdays Nashville",

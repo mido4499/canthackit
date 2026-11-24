@@ -33,7 +33,6 @@
  },
  "https://checkpoint-journeys-hanoi.devpost.com/": null,
  "https://civic-hacks-2027-32027.devpost.com/": null,
- "https://creator-economy-you-hack.devpost.com/": null,
  "https://desert-dev-lab-2027.devpost.com/": {
   "city": "Albuquerque",
   "end": "2027-04-25T16:30:00.000-04:00",
@@ -141,7 +140,6 @@
   "us": false
  },
  "https://lumahacks.devpost.com/": null,
- "https://mcgill-codejam-16.devpost.com/": null,
  "https://nsh-rpi-2027.devpost.com/": {
   "city": "Troy",
   "end": "2027-01-31T13:15:00.000-05:00",
@@ -157,6 +155,7 @@
   "us": false
  },
  "https://nutech-hackfest-2026.devpost.com/": null,
+ "https://nwhacks-2027.devpost.com/": null,
  "https://open-sourcery-f26-showcase.devpost.com/": null,
  "https://project-zh.devpost.com/": null,
  "https://rebelhacks-2027.devpost.com/": {
@@ -173,7 +172,6 @@
   "state": "Nuevo Le\u00f3n",
   "us": false
  },
- "https://rt-audit-hack-777.devpost.com/": null,
  "https://sc-quantathon-v4.devpost.com/": {
   "city": "Clemson",
   "end": "2027-10-24T11:00:00.000-04:00",
