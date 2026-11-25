@@ -24,20 +24,6 @@
    "notified": true
   },
   {
-   "name": "Build Your First AI Agent with n8n | AI Collective x n8n Douglasville",
-   "url": "https://luma.com/aic-do-11-23",
-   "kind": "meetup",
-   "start": "2026-11-23",
-   "end": "2026-11-24",
-   "city": "Douglasville",
-   "state": "Georgia",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-20",
-   "notified": true
-  },
-  {
    "name": "Miami | Claude Code Workshop",
    "url": "https://luma.com/claude-44fh",
    "kind": "meetup",
@@ -532,6 +518,20 @@
    "notified": true
   },
   {
+   "name": "Sushi:Con at re:Invent",
+   "url": "https://luma.com/okf3c3o5",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "The Atlas Club at re:Invent",
    "url": "https://luma.com/mongodb-uv7n",
    "kind": "meetup",
@@ -669,6 +669,20 @@
     "luma"
    ],
    "first_seen": "2026-11-22",
+   "notified": true
+  },
+  {
+   "name": "Building Fraud AI as a Competitive Advantage Breakfast",
+   "url": "https://luma.com/nebius-nls5",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -910,6 +924,20 @@
    "notified": true
   },
   {
+   "name": "K-AI Connect: Korean AI Founders Meet Las Vegas",
+   "url": "https://luma.com/qwx82hgc",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "Le Labo Experience at AWS re:Invent",
    "url": "https://luma.com/h6xgam7u",
    "kind": "meetup",
@@ -1078,6 +1106,20 @@
    "notified": true
   },
   {
+   "name": "Svitla Systems \u00d7 OutSystems VIP Executive Dinner | Las Vegas",
+   "url": "https://luma.com/svitla-outsystems-dinner",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "Taco Tuesday Tech Connect with BairesDev at AWS re:Invent",
    "url": "https://luma.com/a9duyd99",
    "kind": "meetup",
@@ -1146,6 +1188,34 @@
     "luma"
    ],
    "first_seen": "2026-11-24",
+   "notified": true
+  },
+  {
+   "name": "Topgolf at MGM Grand: Agents on the Course",
+   "url": "https://luma.com/ua0nxco0",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
+   "name": "A Night at the Sphere with Bird",
+   "url": "https://luma.com/exlop5zj",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -1289,6 +1359,20 @@
    "notified": true
   },
   {
+   "name": "From Discovery to Care: Scientific AI & Healthcare Breakfast",
+   "url": "https://luma.com/nebius-3dl2",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "Fund or Fold: How VCs Actually Decide",
    "url": "https://luma.com/fundorfold",
    "kind": "meetup",
@@ -1415,6 +1499,20 @@
    "notified": true
   },
   {
+   "name": "Reinvent CTO Lunch Thursday 2026",
+   "url": "https://luma.com/xu1fmw7v",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "Robots Pour, Agents Ship: re:Invent Happy Hour with Hud",
    "url": "https://luma.com/xec7trx4",
    "kind": "meetup",
@@ -1496,6 +1594,20 @@
     "luma"
    ],
    "first_seen": "2026-11-10",
+   "notified": true
+  },
+  {
+   "name": "Voice AI Mixer | AWS re:Invent 2026",
+   "url": "https://luma.com/voice-ai-mixer-awsreinvent",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -1825,6 +1937,20 @@
    "notified": true
   },
   {
+   "name": "San Francisco Claude Meetup | Physical AI for Science Demo Night",
+   "url": "https://luma.com/claude-9us2",
+   "kind": "meetup",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "ArchConf",
    "url": "https://archconf.com",
    "kind": "conference",
@@ -1882,6 +2008,20 @@
     "developers.events"
    ],
    "first_seen": "2026-10-06",
+   "notified": true
+  },
+  {
+   "name": "Holiday Mixer (w/ The AI Collective)",
+   "url": "https://luma.com/aic-toledo-holiday-mixer",
+   "kind": "meetup",
+   "start": "2026-12-08",
+   "end": "2026-12-09",
+   "city": "Toledo",
+   "state": "Ohio",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -1994,6 +2134,34 @@
     "developers.events"
    ],
    "first_seen": "2026-10-24",
+   "notified": true
+  },
+  {
+   "name": "Who Teaches the Models? Drinks on Post-Training and Human Data",
+   "url": "https://luma.com/a8pgmlni",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
+   "name": "WiML Workshop @ NeurIPS 2026: Atlanta",
+   "url": "https://luma.com/586it7lm",
+   "kind": "meetup",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -2166,6 +2334,20 @@
    "notified": true
   },
   {
+   "name": "Alchedata \u00d7 Keenable \u2014 NeurIPS Atlanta Happy Hour",
+   "url": "https://luma.com/dtqslku8",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
+   "notified": true
+  },
+  {
    "name": "Poker Night for B2B Founders",
    "url": "https://luma.com/b2b-founders-poker",
    "kind": "meetup",
@@ -2177,6 +2359,20 @@
     "luma"
    ],
    "first_seen": "2026-11-20",
+   "notified": true
+  },
+  {
+   "name": "San Francisco | Claude Code Build Day",
+   "url": "https://luma.com/claude-exgt",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "San Francisco",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
@@ -2247,6 +2443,20 @@
     "luma"
    ],
    "first_seen": "2026-11-11",
+   "notified": true
+  },
+  {
+   "name": "n8n Women+ in Automation | Miami",
+   "url": "https://luma.com/n8n-sxm3",
+   "kind": "meetup",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-25",
    "notified": true
   },
   {
