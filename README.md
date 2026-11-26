@@ -28,29 +28,30 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**367 upcoming events**: 51 hackathons, 158 conferences and 158 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**371 upcoming events**: 52 hackathons, 158 conferences and 161 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 25, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 26, 2026.</sub>
 
-### 🆕 Just announced (77 this week)
+### 🆕 Just announced (73 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
+| [Workday Internal Hackathon](https://connect.events.workday.com/aiaf) | Nov 30⁠–⁠Dec 2 | Pleasanton, CA | Hackathon |
 | [HackBU](https://hackbu.org/) | Jan 30⁠–⁠31 | Vestal, NY | Hackathon |
 | [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
 | [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
-| [IaCConf Leaders Lunch @ AWS re:Invent](https://luma.com/ak3trzqs) | Dec 3 | Las Vegas, Nevada | Conference |
 | [Boise Code Camp 2027](https://www.boisecodecamp.com) | May 1 | Boise, ID | Conference |
 | [PyCon US 2027](https://us.pycon.org/) | May 12⁠–⁠18 | Long Beach, CA | Conference |
 | [Devopsdays Baltimore](https://devopsdays.org/events/2027-baltimore) | May 18⁠–⁠19 | Baltimore, MD | Conference |
 | [After Hours at GTC with Rafay + Protopia](https://luma.com/f1garrsi) | Dec 1⁠–⁠2 | Washington, District of Columbia | Meetup |
 | [An Evening above Washington D.C. hosted by Netris & Rafay \| GTC DC](https://luma.com/zkhfakhz) | Dec 1 | Washington, District of Columbia | Meetup |
-| [Blackwell Evening by Fluence @ Nvidia GTC, DC](https://luma.com/0axn7b35) | Dec 1⁠–⁠2 | Washington, District of Columbia | Meetup |
+| [Build It, Scale It, Govern It: The Mission-Ready AI Factory \| Accenture + Rafay](https://luma.com/5fj9vwtz) | Dec 1 | Washington, District of Columbia | Meetup |
 
 ### 🏁 Next hackathons
 
 | Event | When | Where |
 |---|---|---|
+| [Workday Internal Hackathon](https://connect.events.workday.com/aiaf) | Nov 30⁠–⁠Dec 2 | Pleasanton, CA |
 | [Hack Cats](https://hackkstate.tech/) | Dec 4⁠–⁠6 | Manhattan, Kansas |
 | [Mango Hacks](https://mangohacks.ecily.org) | Dec 5⁠–⁠6 | Pleasanton, California |
 | [AI Hackathon: Sales Copilot AI](https://luma.com/SalesCopilotAI) | Dec 12⁠–⁠13 | San Francisco, California |
@@ -60,7 +61,6 @@ It's free, takes one click, and it's how other students and job seekers discover
 | [QWER Hacks](https://www.qwerhacks.com/) | Jan 16⁠–⁠17 | Los Angeles, CA |
 | [Hoya Hacks 2027](https://hoya-hacks-2027.devpost.com/) | Jan 22⁠–⁠24 | Washington, District of Columbia |
 | [Earth Hacks 2027](https://earthhacks.dev) | Jan 23⁠–⁠24 | San Francisco, California |
-| [GSD Hackathon - Get Shit Done](https://tbd-hackathon.devpost.com/) | Jan 23 | Philadelphia, Pennsylvania |
 <!-- upcoming-events:end -->
 
 ## 📬 Get new events by email

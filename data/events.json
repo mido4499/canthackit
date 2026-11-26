@@ -24,34 +24,6 @@
    "notified": true
   },
   {
-   "name": "Miami | Claude Code Workshop",
-   "url": "https://luma.com/claude-44fh",
-   "kind": "meetup",
-   "start": "2026-11-24",
-   "end": "2026-11-25",
-   "city": "Miami",
-   "state": "Florida",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-11-16",
-   "notified": true
-  },
-  {
-   "name": "OpenClaw Triangle Meetup - November 24",
-   "url": "https://luma.com/xni1mgw9",
-   "kind": "meetup",
-   "start": "2026-11-24",
-   "end": "2026-11-25",
-   "city": "Cary",
-   "state": "North Carolina",
-   "sources": [
-    "luma"
-   ],
-   "first_seen": "2026-10-15",
-   "notified": true
-  },
-  {
    "name": "Durham | Claude Meetup - Job Edition",
    "url": "https://luma.com/claude-f2wa",
    "kind": "meetup",
@@ -222,6 +194,20 @@
    ],
    "first_seen": "2026-11-17",
    "notified": true
+  },
+  {
+   "name": "Workday Internal Hackathon",
+   "url": "https://connect.events.workday.com/aiaf",
+   "kind": "hackathon",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "city": "Pleasanton",
+   "state": "CA",
+   "sources": [
+    "mlh"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
   },
   {
    "name": "After Hours at GTC with Rafay + Protopia",
@@ -586,6 +572,20 @@
    ],
    "first_seen": "2026-11-06",
    "notified": true
+  },
+  {
+   "name": "At the Table: A Tavily Dinner in Vegas",
+   "url": "https://luma.com/tavily-qdby",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
   },
   {
    "name": "AWS re:Invent - World happy hour & races",
@@ -1710,6 +1710,20 @@
    "notified": true
   },
   {
+   "name": "Kernel Karaoke @ AWS re:Invent",
+   "url": "https://luma.com/xe9bmgr8",
+   "kind": "meetup",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
+  },
+  {
    "name": "Miami | Claude Culture ArtBasel Edition",
    "url": "https://luma.com/claude-artbasel",
    "kind": "meetup",
@@ -2249,6 +2263,20 @@
    "notified": true
   },
   {
+   "name": "Mixer of Experts with Inco AI and E14 Fund",
+   "url": "https://luma.com/neuripsmixer26",
+   "kind": "meetup",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "Atlanta",
+   "state": "Georgia",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
+  },
+  {
    "name": "Nucleate Rhode Island \u2014 Winter Women's Dinner 2026",
    "url": "https://luma.com/6kjlccan",
    "kind": "meetup",
@@ -2346,6 +2374,34 @@
    ],
    "first_seen": "2026-11-25",
    "notified": true
+  },
+  {
+   "name": "Miami | Claude Community \u00d7 Tavily Build Day",
+   "url": "https://luma.com/claude-0cet",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "Miami",
+   "state": "Florida",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
+  },
+  {
+   "name": "Orange County | Claude Community x Tavily Build Day",
+   "url": "https://luma.com/claude-oc-tavily",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "Irvine",
+   "state": "California",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-26",
+   "notified": false
   },
   {
    "name": "Poker Night for B2B Founders",
