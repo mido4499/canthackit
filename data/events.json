@@ -207,7 +207,7 @@
     "mlh"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "After Hours at GTC with Rafay + Protopia",
@@ -504,6 +504,20 @@
    "notified": true
   },
   {
+   "name": "Security Leaders Happy Hour: Oysters & Old Fashioneds",
+   "url": "https://luma.com/j1aecyqr",
+   "kind": "meetup",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-27",
+   "notified": true
+  },
+  {
    "name": "Sushi:Con at re:Invent",
    "url": "https://luma.com/okf3c3o5",
    "kind": "meetup",
@@ -585,7 +599,7 @@
     "luma"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "AWS re:Invent - World happy hour & races",
@@ -1036,6 +1050,20 @@
    "notified": true
   },
   {
+   "name": "re:Fresh | Happy Hour with Leapfrog",
+   "url": "https://luma.com/7t7h1ahm",
+   "kind": "meetup",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-27",
+   "notified": true
+  },
+  {
    "name": "re:Invent with Act: re:Target Happy Hour at Flight Club",
    "url": "https://luma.com/rx2pexmr",
    "kind": "meetup",
@@ -1314,6 +1342,20 @@
     "luma"
    ],
    "first_seen": "2026-10-28",
+   "notified": true
+  },
+  {
+   "name": "Beyond the Cloud: A Night Out with Deel & Celigo",
+   "url": "https://luma.com/73rosijq",
+   "kind": "meetup",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "Las Vegas",
+   "state": "Nevada",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-27",
    "notified": true
   },
   {
@@ -1721,7 +1763,7 @@
     "luma"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Miami | Claude Culture ArtBasel Edition",
@@ -2274,7 +2316,7 @@
     "luma"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Nucleate Rhode Island \u2014 Winter Women's Dinner 2026",
@@ -2376,6 +2418,20 @@
    "notified": true
   },
   {
+   "name": "Austin | Claude Community \u00d7 Tavily Build Day",
+   "url": "https://luma.com/claude-s10y",
+   "kind": "meetup",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "city": "Austin",
+   "state": "Texas",
+   "sources": [
+    "luma"
+   ],
+   "first_seen": "2026-11-27",
+   "notified": true
+  },
+  {
    "name": "Miami | Claude Community \u00d7 Tavily Build Day",
    "url": "https://luma.com/claude-0cet",
    "kind": "meetup",
@@ -2387,7 +2443,7 @@
     "luma"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Orange County | Claude Community x Tavily Build Day",
@@ -2401,7 +2457,7 @@
     "luma"
    ],
    "first_seen": "2026-11-26",
-   "notified": false
+   "notified": true
   },
   {
    "name": "Poker Night for B2B Founders",

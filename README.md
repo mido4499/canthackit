@@ -28,24 +28,24 @@ It's free, takes one click, and it's how other students and job seekers discover
 ## 📅 Upcoming events
 
 <!-- upcoming-events:start -->
-**371 upcoming events**: 52 hackathons, 158 conferences and 161 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
+**375 upcoming events**: 52 hackathons, 158 conferences and 165 meetups. [Browse and filter all of them →](https://mido4499.github.io/canthackit/)
 
-<sub>Updated automatically every day. Last update: November 26, 2026.</sub>
+<sub>Updated automatically every day. Last update: November 27, 2026.</sub>
 
-### 🆕 Just announced (73 this week)
+### 🆕 Just announced (70 this week)
 
 | Event | When | Where | Type |
 |---|---|---|---|
 | [Workday Internal Hackathon](https://connect.events.workday.com/aiaf) | Nov 30⁠–⁠Dec 2 | Pleasanton, CA | Hackathon |
 | [HackBU](https://hackbu.org/) | Jan 30⁠–⁠31 | Vestal, NY | Hackathon |
-| [InnovateHer](https://innovateherhacks.org/) | Feb 13⁠–⁠14 | West Lafayette, Indiana | Hackathon |
-| [Confidential AI Summit at NVIDIA GTC DC 2026](https://luma.com/7qrtwear) | Dec 2 | Washington, District of Columbia | Conference |
 | [Boise Code Camp 2027](https://www.boisecodecamp.com) | May 1 | Boise, ID | Conference |
 | [PyCon US 2027](https://us.pycon.org/) | May 12⁠–⁠18 | Long Beach, CA | Conference |
 | [Devopsdays Baltimore](https://devopsdays.org/events/2027-baltimore) | May 18⁠–⁠19 | Baltimore, MD | Conference |
 | [After Hours at GTC with Rafay + Protopia](https://luma.com/f1garrsi) | Dec 1⁠–⁠2 | Washington, District of Columbia | Meetup |
 | [An Evening above Washington D.C. hosted by Netris & Rafay \| GTC DC](https://luma.com/zkhfakhz) | Dec 1 | Washington, District of Columbia | Meetup |
 | [Build It, Scale It, Govern It: The Mission-Ready AI Factory \| Accenture + Rafay](https://luma.com/5fj9vwtz) | Dec 1 | Washington, District of Columbia | Meetup |
+| [Intuitive IQ: Decision Intelligence Engine on AWS - Turn Bedrock agents into decisions you can act on.](https://luma.com/ywf0ligq) | Dec 1 | Las Vegas, Nevada | Meetup |
+| [Más allá de los Techos de Cristal - Building the Future of AI, Together](https://luma.com/a4e4clgn) | Dec 1⁠–⁠2 | Las Vegas, Nevada | Meetup |
 
 ### 🏁 Next hackathons
 
